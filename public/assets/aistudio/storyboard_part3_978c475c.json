@@ -1,0 +1,2631 @@
+{
+  "projectMeta": {
+    "title": "The Word He Chose — Part 3: Nuts, the Siege, and the Road Reopened",
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "durationInFrames": 7708,
+    "hookEndFrame": 0,
+    "hookBoundaryReason": "Part 3 (final part) of the same video: no opening hook. Phase B (chronological storytelling) starts directly at frame 0; no hookMasterRig is generated.",
+    "continuityNote": "Assets with reusedFrom = part1/part2 keep the identical assetId/fileName/prompt used in storyboard.json / storyboard_part2.json so existing renders can be reused."
+  },
+  "assetManifest": [
+    {
+      "assetId": "cutout_fg_sandbags_sentries",
+      "fileName": "cutout_fg_sandbags_sentries.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "cutout_png",
+      "zLayerRole": "foreground_flank_silhouette",
+      "requiresBackgroundRemoval": true,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Cutout PNG — Isolated on #FFFFFF] Bottom-anchored foreground framing silhouette of a frosted snow trench parapet lined with frozen burlap sandbags, rusted coils of barbed wire, and the dark over-the-shoulder profiles of two American 101st Airborne paratroopers in M1 steel helmets on the left and right corners with an open gap in the center, dark rim lighting, shallow optical edge blur, no modern objects, no CGI sheen, no text, no watermark, isolated on a solid pure white background (#FFFFFF), clean crisp silhouette edges, zero cast shadow on background, no background scenery.",
+      "reusedFrom": "part1"
+    },
+    {
+      "assetId": "real_german_surrender_note",
+      "fileName": "real_german_surrender_note.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "cutout_png",
+      "zLayerRole": "document_prop_cutout",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "3:4",
+      "searchQuery": "Bastogne German surrender ultimatum document December 22 1944",
+      "fallbackSearchQuery": "Siege of Bastogne surrender demand letter National Archives",
+      "wikipediaPageTitle": "Siege_of_Bastogne",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. National Archives and Records Administration (NARA)",
+      "reusedFrom": "part1"
+    },
+    {
+      "assetId": "real_map_bastogne_tactical",
+      "fileName": "real_map_bastogne_tactical.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "tactical_map_surface",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "16:9",
+      "searchQuery": "Siege of Bastogne tactical map December 1944 101st Airborne perimeter",
+      "fallbackSearchQuery": "Battle of the Bulge Bastogne encirclement military map",
+      "wikipediaPageTitle": "Siege_of_Bastogne",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Center of Military History",
+      "reusedFrom": "part1"
+    },
+    {
+      "assetId": "real_mcauliffe_portrait",
+      "fileName": "real_mcauliffe_portrait.png",
+      "assetOrigin": "real_archival",
+      "assetType": "cutout_png",
+      "zLayerRole": "midground_commander_cutout",
+      "requiresBackgroundRemoval": true,
+      "aspectRatio": "1:1",
+      "searchQuery": "General Anthony McAuliffe Bastogne 1944 portrait",
+      "fallbackSearchQuery": "Brigadier General Anthony C. McAuliffe 101st Airborne",
+      "wikipediaPageTitle": "Anthony_McAuliffe",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps",
+      "reusedFrom": "part1"
+    },
+    {
+      "assetId": "bg_dim_command_post_interior",
+      "fileName": "bg_dim_command_post_interior.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "background_plate",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Full-Bleed Plate] Interior of a dim stone-walled WWII command post in a Belgian town, December 1944: plank table with field telephones, a hanging bare bulb, blackout curtains, a pinned situation map in shadow. Authentic 35mm Kodak Vision3 500T film texture, lifted darks, visible silver-gelatin grain. No people, no soldiers, no vehicles, no modern objects, no CGI sheen, no text, no watermark.",
+      "reusedFrom": "part1"
+    },
+    {
+      "assetId": "cutout_fg_doorframe_lamp_silhouette",
+      "fileName": "cutout_fg_doorframe_lamp_silhouette.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "cutout_png",
+      "zLayerRole": "foreground_flank_silhouette",
+      "requiresBackgroundRemoval": true,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Cutout PNG — Isolated on #FFFFFF] Bottom- and side-anchored foreground over-the-shoulder silhouette framing: a dark wool-uniform shoulder and collar on the left edge, a heavy wooden door frame on the right edge, a green-shaded desk lamp edge at the bottom with open gap in the center, shallow optical edge blur, dark rim lighting. no modern objects, no CGI sheen, no text, no watermark, isolated on a solid pure white background (#FFFFFF), clean crisp silhouette edges, zero cast shadow on background, no background scenery.",
+      "reusedFrom": "part1"
+    },
+    {
+      "assetId": "real_mcauliffe_staff_photo",
+      "fileName": "real_mcauliffe_staff_photo.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "Anthony McAuliffe with staff officers 101st Airborne 1944",
+      "fallbackSearchQuery": "General McAuliffe and aides Bastogne",
+      "wikipediaPageTitle": "Anthony_McAuliffe",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps",
+      "reusedFrom": "part1"
+    },
+    {
+      "assetId": "real_105mm_howitzer_bastogne",
+      "fileName": "real_105mm_howitzer_bastogne.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "105mm howitzer crew Bastogne December 1944",
+      "fallbackSearchQuery": "M2A1 105 mm howitzer 101st Airborne artillery Bastogne",
+      "wikipediaPageTitle": "M101_howitzer",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps / NARA",
+      "reusedFrom": "part1"
+    },
+    {
+      "assetId": "bg_bastogne_outskirts_winter_dawn",
+      "fileName": "bg_bastogne_outskirts_winter_dawn.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "background_plate",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Full-Bleed Plate] Cinematic still of the snowy outskirts of Bastogne at gray dawn, December 22 1944: a distant church spire and stone rooftops on the horizon, empty white fields, a dark pine tree line, a plowed road curving past the town, drifting ground fog. Authentic 35mm Kodak Vision3 500T film texture, lifted darks, visible silver-gelatin grain. No people, no soldiers, no vehicles, no modern objects, no CGI sheen, no text, no watermark.",
+      "reusedFrom": "part2"
+    },
+    {
+      "assetId": "bg_typewriter_desk_candlelit",
+      "fileName": "bg_typewriter_desk_candlelit.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "background_plate",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Full-Bleed Plate] Close three-quarter view of a WWII-era manual typewriter on a wooden desk in a candlelit room, December 1944: two blank sheets of paper beside it, carbon paper, a pencil, an oil lamp casting warm light, deep shadows. Authentic 35mm Kodak Vision3 500T film texture, lifted darks, visible silver-gelatin grain. No people, no soldiers, no vehicles, no modern objects, no CGI sheen, no text, no watermark.",
+      "reusedFrom": "part2"
+    },
+    {
+      "assetId": "bg_snowy_no_mans_land_approach_dawn",
+      "fileName": "bg_snowy_no_mans_land_approach_dawn.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "background_plate",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Full-Bleed Plate] Cinematic still of a snow-covered Belgian farm track running between hedgerows and pine stands toward distant American lines at gray late-morning light, December 22 1944, undisturbed snow, fog bank on the horizon. Authentic 35mm Kodak Vision3 500T film texture, lifted darks, visible silver-gelatin grain. No people, no soldiers, no vehicles, no modern objects, no CGI sheen, no text, no watermark.",
+      "reusedFrom": "part2"
+    },
+    {
+      "assetId": "bg_us_outpost_foxhole_line_snow",
+      "fileName": "bg_us_outpost_foxhole_line_snow.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "background_plate",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Full-Bleed Plate] Cinematic still of an American defensive outpost line on the southwest edge of Bastogne, December 1944: snow-filled foxholes with log roofs, frozen sandbag walls, barbed-wire coils, a dirt farm track and a stone farmhouse behind, pale winter daylight. Authentic 35mm Kodak Vision3 500T film texture, lifted darks, visible silver-gelatin grain. No people, no soldiers, no vehicles, no modern objects, no CGI sheen, no text, no watermark.",
+      "reusedFrom": "part2"
+    },
+    {
+      "assetId": "bg_snowy_treeline_enemy_unseen_dusk",
+      "fileName": "bg_snowy_treeline_enemy_unseen_dusk.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "background_plate",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Full-Bleed Plate] Cinematic dusk still looking from snowy foxholes toward a dark unbroken pine tree line in fog, December 1944, faint distant fire glows and thin smoke between the trunks, nothing clearly visible, tension and uncertainty. Authentic 35mm Kodak Vision3 500T film texture, lifted darks, visible silver-gelatin grain. No people, no soldiers, no vehicles, no modern objects, no CGI sheen, no text, no watermark.",
+      "reusedFrom": "part2"
+    },
+    {
+      "assetId": "cutout_fg_pine_bough_barbed_wire_silhouette",
+      "fileName": "cutout_fg_pine_bough_barbed_wire_silhouette.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "cutout_png",
+      "zLayerRole": "foreground_flank_silhouette",
+      "requiresBackgroundRemoval": true,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Cutout PNG — Isolated on #FFFFFF] Bottom- and side-anchored foreground silhouette framing: a frosted pine bough sweeping in from the left edge, tangled rusted barbed wire along the bottom edge, a dark snow-dusted bank on the right, open gap in the center, shallow optical edge blur, dark rim lighting. no modern objects, no CGI sheen, no text, no watermark, isolated on a solid pure white background (#FFFFFF), clean crisp silhouette edges, zero cast shadow on background, no background scenery.",
+      "reusedFrom": "part2"
+    },
+    {
+      "assetId": "cutout_german_volksgrenadier_infantry_waistup",
+      "fileName": "cutout_german_volksgrenadier_infantry_waistup.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "cutout_png",
+      "zLayerRole": "midground_hero_cutout",
+      "requiresBackgroundRemoval": true,
+      "aspectRatio": "3:4",
+      "aiImagePrompt": "[Aspect Ratio: 3:4 Cutout PNG — Isolated on #FFFFFF] Waist-up portrait of a German Volksgrenadier infantryman in December 1944: gray-green wool greatcoat with frost, field cap pulled low, Kar98k rifle sling over shoulder, thin tired face, breath vapor. Strictly cropped waist-up with zero legs or feet visible, no modern objects, no CGI sheen, no text, no watermark, isolated on a solid pure white background (#FFFFFF), clean crisp silhouette edges, zero cast shadow on background, no background scenery.",
+      "reusedFrom": "part2"
+    },
+    {
+      "assetId": "cutout_us_staff_officer_conard_waistup",
+      "fileName": "cutout_us_staff_officer_conard_waistup.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "cutout_png",
+      "zLayerRole": "midground_hero_cutout",
+      "requiresBackgroundRemoval": true,
+      "aspectRatio": "3:4",
+      "aiImagePrompt": "[Aspect Ratio: 3:4 Cutout PNG — Isolated on #FFFFFF] Waist-up portrait of an American lieutenant colonel operations officer in December 1944: wool field jacket with silver oak leaf insignia, no helmet, a rolled paper map under one arm, calm analytical expression, tired eyes, dim lamp rim light. Strictly cropped waist-up with zero legs or feet visible, no modern objects, no CGI sheen, no text, no watermark, isolated on a solid pure white background (#FFFFFF), clean crisp silhouette edges, zero cast shadow on background, no background scenery.",
+      "reusedFrom": "part2"
+    },
+    {
+      "assetId": "cutout_us_staff_officer_moore_waistup",
+      "fileName": "cutout_us_staff_officer_moore_waistup.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "cutout_png",
+      "zLayerRole": "midground_hero_cutout",
+      "requiresBackgroundRemoval": true,
+      "aspectRatio": "3:4",
+      "aiImagePrompt": "[Aspect Ratio: 3:4 Cutout PNG — Isolated on #FFFFFF] Waist-up portrait of an American lieutenant colonel acting chief of staff in December 1944: wool field jacket with silver oak leaf insignia, clipboard in one hand holding a sealed envelope in the other, serious focused expression, dim bulb rim light. Strictly cropped waist-up with zero legs or feet visible, no modern objects, no CGI sheen, no text, no watermark, isolated on a solid pure white background (#FFFFFF), clean crisp silhouette edges, zero cast shadow on background, no background scenery.",
+      "reusedFrom": "part2"
+    },
+    {
+      "assetId": "real_third_army_column_dec1944",
+      "fileName": "real_third_army_column_dec1944.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "US Third Army column advancing Battle of the Bulge December 1944",
+      "fallbackSearchQuery": "Patton Third Army tanks moving north Arlon December 1944",
+      "wikipediaPageTitle": "Third_Army_(United_States)",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps / NARA",
+      "reusedFrom": "part2"
+    },
+    {
+      "assetId": "bg_cellar_sleeping_quarters_dawn",
+      "fileName": "bg_cellar_sleeping_quarters_dawn.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "background_plate",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Full-Bleed Plate] Interior of a cramped stone cellar sleeping quarters in a Belgian barracks, December 1944: a single iron cot with a rumpled wool blanket, a hurricane lantern on a crate, a folded field jacket on a nail, frost on the small high window, pale gray dawn light, long shadows. Authentic 35mm Kodak Vision3 500T film texture, lifted darks, visible silver-gelatin grain. No people, no soldiers, no vehicles, no modern objects, no CGI sheen, no text, no watermark.",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "bg_operations_room_map_table_dim",
+      "fileName": "bg_operations_room_map_table_dim.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "background_plate",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Full-Bleed Plate] Interior of a WWII division operations room in Bastogne, December 1944: a large plank table covered by a pinned situation map with grease-pencil marks, field telephones, a bare hanging bulb, blackout curtains, stacked ammunition crates as chairs, no people, dim amber light and drifting cigarette haze. Authentic 35mm Kodak Vision3 500T film texture, lifted darks, visible silver-gelatin grain. No people, no soldiers, no vehicles, no modern objects, no CGI sheen, no text, no watermark.",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "bg_desk_pencil_blank_paper_lamp",
+      "fileName": "bg_desk_pencil_blank_paper_lamp.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "background_plate",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Full-Bleed Plate] Close view of a worn wooden desk in a WWII command post: a single blank sheet of paper, a short yellow pencil, a green-shaded lamp casting a pool of light, coffee-stained tin cup, deep shadows around, December 1944. Authentic 35mm Kodak Vision3 500T film texture, lifted darks, visible silver-gelatin grain. No people, no soldiers, no vehicles, no modern objects, no CGI sheen, no text, no watermark.",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "bg_bastogne_night_bombing_glow",
+      "fileName": "bg_bastogne_night_bombing_glow.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "background_plate",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Full-Bleed Plate] Cinematic night still of snow-covered Bastogne rooftops and church spire silhouetted against flickering orange fire glow on the horizon, drifting smoke, searchlight beams crossing a black sky, December 24 1944, empty streets, no aircraft, no vehicles. Authentic 35mm Kodak Vision3 500T film texture, lifted darks, visible silver-gelatin grain. No people, no soldiers, no vehicles, no modern objects, no CGI sheen, no text, no watermark.",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "bg_christmas_morning_west_perimeter_dawn",
+      "fileName": "bg_christmas_morning_west_perimeter_dawn.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "background_plate",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Full-Bleed Plate] Cinematic dawn still of frozen farmland on the west side of Bastogne on Christmas morning 1944: undisturbed snow, sparse bare trees, a distant stone farmhouse, low pink-gray sky, ground fog drifting, an eerie stillness before an attack. Authentic 35mm Kodak Vision3 500T film texture, lifted darks, visible silver-gelatin grain. No people, no soldiers, no vehicles, no modern objects, no CGI sheen, no text, no watermark.",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "bg_pocket_southern_edge_road_dusk",
+      "fileName": "bg_pocket_southern_edge_road_dusk.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "background_plate",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "16:9",
+      "aiImagePrompt": "[Aspect Ratio: 16:9 Full-Bleed Plate] Cinematic dusk still of a snow-covered paved road at the southern edge of the Bastogne perimeter, December 26 1944: pine forest on both sides, low sun breaking through clouds, ruts in the snow, smoke on the horizon, empty road stretching toward the viewer. Authentic 35mm Kodak Vision3 500T film texture, lifted darks, visible silver-gelatin grain. No people, no soldiers, no vehicles, no modern objects, no CGI sheen, no text, no watermark.",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "cutout_us_sergeant_typist_waistup",
+      "fileName": "cutout_us_sergeant_typist_waistup.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "cutout_png",
+      "zLayerRole": "midground_hero_cutout",
+      "requiresBackgroundRemoval": true,
+      "aspectRatio": "3:4",
+      "aiImagePrompt": "[Aspect Ratio: 3:4 Cutout PNG — Isolated on #FFFFFF] Waist-up portrait of an American Army sergeant in December 1944: wool field jacket with three-stripe chevrons, no helmet, hands raised as if typing, tired focused expression, dim lamp rim light. Strictly cropped waist-up with zero legs or feet visible, no modern objects, no CGI sheen, no text, no watermark, isolated on a solid pure white background (#FFFFFF), clean crisp silhouette edges, zero cast shadow on background, no background scenery.",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "cutout_us_colonel_harper_waistup",
+      "fileName": "cutout_us_colonel_harper_waistup.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "cutout_png",
+      "zLayerRole": "midground_hero_cutout",
+      "requiresBackgroundRemoval": true,
+      "aspectRatio": "3:4",
+      "aiImagePrompt": "[Aspect Ratio: 3:4 Cutout PNG — Isolated on #FFFFFF] Waist-up portrait of an American infantry colonel in December 1944: M1 helmet with netting, wool field jacket with silver eagle insignia on collar, folded paper sheet in one gloved hand, grim determined expression, frost on shoulders. Strictly cropped waist-up with zero legs or feet visible, no modern objects, no CGI sheen, no text, no watermark, isolated on a solid pure white background (#FFFFFF), clean crisp silhouette edges, zero cast shadow on background, no background scenery.",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "cutout_german_lt_henk_waistup",
+      "fileName": "cutout_german_lt_henk_waistup.png",
+      "assetOrigin": "ai_generated",
+      "assetType": "cutout_png",
+      "zLayerRole": "midground_hero_cutout",
+      "requiresBackgroundRemoval": true,
+      "aspectRatio": "3:4",
+      "aiImagePrompt": "[Aspect Ratio: 3:4 Cutout PNG — Isolated on #FFFFFF] Waist-up portrait of a young German lieutenant in December 1944: gray-green greatcoat with Wehrmacht collar tabs, officer cap, leather gloves, a folded paper held in one hand, composed controlled expression, frost on shoulders. Strictly cropped waist-up with zero legs or feet visible, no modern objects, no CGI sheen, no text, no watermark, isolated on a solid pure white background (#FFFFFF), clean crisp silhouette edges, zero cast shadow on background, no background scenery.",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_sla_marshall_portrait",
+      "fileName": "real_sla_marshall_portrait.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "1:1",
+      "searchQuery": "S. L. A. Marshall Army historian portrait",
+      "fallbackSearchQuery": "Samuel Lyman Atwood Marshall brigadier general historian",
+      "wikipediaPageTitle": "S._L._A._Marshall",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_bastogne_perimeter_map_dec22",
+      "fileName": "real_bastogne_perimeter_map_dec22.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "Bastogne perimeter map December 22 1944 101st Airborne positions",
+      "fallbackSearchQuery": "Siege of Bastogne defense sectors map",
+      "wikipediaPageTitle": "Siege_of_Bastogne",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Center of Military History",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_staff_officers_map_table_1944",
+      "fileName": "real_staff_officers_map_table_1944.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "background_plate",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "16:9",
+      "searchQuery": "101st Airborne staff officers map table Bastogne headquarters December 1944",
+      "fallbackSearchQuery": "American staff officers planning around map WWII 1944",
+      "wikipediaPageTitle": "101st_Airborne_Division",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps / NARA",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_snowy_outpost_foxholes_bastogne",
+      "fileName": "real_snowy_outpost_foxholes_bastogne.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "American foxhole outpost snow Bastogne December 1944",
+      "fallbackSearchQuery": "glider infantry foxholes snow Bastogne perimeter",
+      "wikipediaPageTitle": "Siege_of_Bastogne",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps / NARA",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_glider_infantry_327th_bastogne",
+      "fileName": "real_glider_infantry_327th_bastogne.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "327th Glider Infantry Regiment Bastogne December 1944",
+      "fallbackSearchQuery": "327th Glider Infantry soldiers snow Battle of the Bulge",
+      "wikipediaPageTitle": "327th_Infantry_Regiment_(United_States)",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps / NARA",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_c47_airdrop_bastogne_1944",
+      "fileName": "real_c47_airdrop_bastogne_1944.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "C-47 transports airdrop supplies Bastogne December 23 1944",
+      "fallbackSearchQuery": "C-47 Skytrain parachute resupply Bastogne",
+      "wikipediaPageTitle": "Douglas_C-47_Skytrain",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Air Forces / NARA",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_supply_parachutes_bastogne_snow",
+      "fileName": "real_supply_parachutes_bastogne_snow.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "supply parachutes snow Bastogne December 1944 airdrop",
+      "fallbackSearchQuery": "parachute resupply bundles Bastogne perimeter",
+      "wikipediaPageTitle": "Siege_of_Bastogne",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps / NARA",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_p47_thunderbolt_ardennes",
+      "fileName": "real_p47_thunderbolt_ardennes.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "P-47 Thunderbolt fighter bomber Ardennes December 1944",
+      "fallbackSearchQuery": "P-47 Thunderbolt Battle of the Bulge close air support",
+      "wikipediaPageTitle": "Republic_P-47_Thunderbolt",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Air Forces / NARA",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_renee_lemaire_cutout",
+      "fileName": "real_renee_lemaire_cutout.png",
+      "assetOrigin": "real_archival",
+      "assetType": "cutout_png",
+      "zLayerRole": "midground_hero_cutout",
+      "requiresBackgroundRemoval": true,
+      "aspectRatio": "3:4",
+      "searchQuery": "Renée Lemaire Belgian nurse Bastogne portrait 1944",
+      "fallbackSearchQuery": "Renée Lemaire nurse Bastogne killed December 24 1944",
+      "wikipediaPageTitle": "Renée_Lemaire",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "Public domain / Wikimedia Commons",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_mcauliffe_christmas_message_1944",
+      "fileName": "real_mcauliffe_christmas_message_1944.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "3:4",
+      "searchQuery": "McAuliffe Christmas message December 24 1944 document",
+      "fallbackSearchQuery": "General McAuliffe Christmas greeting Bastogne 101st Airborne",
+      "wikipediaPageTitle": "Anthony_McAuliffe",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army / NARA",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_destroyed_panzer_bastogne_dec1944",
+      "fileName": "real_destroyed_panzer_bastogne_dec1944.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "destroyed German Panzer IV Bastogne snow December 1944",
+      "fallbackSearchQuery": "knocked out German tank Bastogne Christmas 1944",
+      "wikipediaPageTitle": "Siege_of_Bastogne",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps / NARA",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_502nd_pir_insignia",
+      "fileName": "real_502nd_pir_insignia.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "1:1",
+      "searchQuery": "502nd Parachute Infantry Regiment insignia patch",
+      "fallbackSearchQuery": "502nd Infantry Regiment distinctive unit insignia",
+      "wikipediaPageTitle": "502nd_Infantry_Regiment_(United_States)",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Institute of Heraldry",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_327th_gir_insignia",
+      "fileName": "real_327th_gir_insignia.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "1:1",
+      "searchQuery": "327th Infantry Regiment distinctive unit insignia",
+      "fallbackSearchQuery": "327th Glider Infantry Regiment insignia",
+      "wikipediaPageTitle": "327th_Infantry_Regiment_(United_States)",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Institute of Heraldry",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_705th_tank_destroyer_m18",
+      "fileName": "real_705th_tank_destroyer_m18.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "705th Tank Destroyer Battalion M18 Hellcat Bastogne",
+      "fallbackSearchQuery": "M18 Hellcat Bastogne December 1944",
+      "wikipediaPageTitle": "M18_Hellcat",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps / NARA",
+      "reusedFrom": "part1"
+    },
+    {
+      "assetId": "real_creighton_abrams_cutout",
+      "fileName": "real_creighton_abrams_cutout.png",
+      "assetOrigin": "real_archival",
+      "assetType": "cutout_png",
+      "zLayerRole": "midground_hero_cutout",
+      "requiresBackgroundRemoval": true,
+      "aspectRatio": "3:4",
+      "searchQuery": "Creighton Abrams 37th Tank Battalion 1944 portrait",
+      "fallbackSearchQuery": "Lieutenant Colonel Creighton W. Abrams World War II",
+      "wikipediaPageTitle": "Creighton_Abrams",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_cobra_king_sherman_cutout",
+      "fileName": "real_cobra_king_sherman_cutout.png",
+      "assetOrigin": "real_archival",
+      "assetType": "cutout_png",
+      "zLayerRole": "document_prop_cutout",
+      "requiresBackgroundRemoval": true,
+      "aspectRatio": "4:3",
+      "searchQuery": "Cobra King Sherman tank 37th Tank Battalion Bastogne",
+      "fallbackSearchQuery": "Cobra King M4A3E2 Jumbo Sherman Task Force Abrams",
+      "wikipediaPageTitle": "M4_Sherman",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army / Public domain",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_101st_paratroopers_bastogne_jan1945",
+      "fileName": "real_101st_paratroopers_bastogne_jan1945.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "101st Airborne paratroopers Bastogne January 1945 snow advance",
+      "fallbackSearchQuery": "101st Airborne Division Noville Foy January 1945",
+      "wikipediaPageTitle": "101st_Airborne_Division",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps / NARA",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_4th_armored_division_tanks_dec1944",
+      "fileName": "real_4th_armored_division_tanks_dec1944.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "4th Armored Division tanks advancing Bastogne December 1944",
+      "fallbackSearchQuery": "4th Armored Division Sherman Assenois December 26 1944",
+      "wikipediaPageTitle": "4th_Armored_Division_(United_States)",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps / NARA",
+      "reusedFrom": null
+    },
+    {
+      "assetId": "real_nuts_telegram",
+      "fileName": "real_nuts_telegram.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "cutout_png",
+      "zLayerRole": "climax_stamp_prop",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "Anthony McAuliffe NUTS reply memorandum Bastogne 1944",
+      "fallbackSearchQuery": "To the German Commander NUTS Bastogne message",
+      "wikipediaPageTitle": "Anthony_McAuliffe",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps / NARA",
+      "reusedFrom": "part1"
+    },
+    {
+      "assetId": "real_mcauliffe_general_portrait_board",
+      "fileName": "real_mcauliffe_general_portrait_board.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "1:1",
+      "searchQuery": "Anthony McAuliffe official portrait general",
+      "fallbackSearchQuery": "Anthony Clement McAuliffe photograph",
+      "wikipediaPageTitle": "Anthony_McAuliffe",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army",
+      "reusedFrom": "part1"
+    },
+    {
+      "assetId": "real_gerald_higgins_portrait",
+      "fileName": "real_gerald_higgins_portrait.jpg",
+      "assetOrigin": "real_archival",
+      "assetType": "full_bleed_image",
+      "zLayerRole": "mounted_archival_card",
+      "requiresBackgroundRemoval": false,
+      "aspectRatio": "4:3",
+      "searchQuery": "Brigadier General Gerald J. Higgins 101st Airborne portrait",
+      "fallbackSearchQuery": "Gerald Higgins paratrooper general",
+      "wikipediaPageTitle": "Gerald_J._Higgins",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps",
+      "reusedFrom": "part1"
+    },
+    {
+      "assetId": "real_maxwell_taylor_cutout",
+      "fileName": "real_maxwell_taylor_cutout.png",
+      "assetOrigin": "real_archival",
+      "assetType": "cutout_png",
+      "zLayerRole": "midground_hero_cutout",
+      "requiresBackgroundRemoval": true,
+      "aspectRatio": "3:4",
+      "searchQuery": "Major General Maxwell D. Taylor 101st Airborne portrait 1944",
+      "fallbackSearchQuery": "Maxwell Taylor general portrait World War II",
+      "wikipediaPageTitle": "Maxwell_D._Taylor",
+      "archiveSource": "wikimedia_commons",
+      "attribution": "U.S. Army Signal Corps",
+      "reusedFrom": "part1"
+    }
+  ],
+  "scenes": [
+    {
+      "sceneId": "scene_01",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 0,
+      "endFrame": 184,
+      "durationInFrames": 184,
+      "spokenLine": "Moore woke him and told him the Germans had sent men forward to take the American surrender.",
+      "transitionIn": "cold_open_fade_from_black",
+      "parallaxVariant": "STANDARD_2_5D_PARALLAX",
+      "bgAssetId": "bg_cellar_sleeping_quarters_dawn",
+      "heroCutoutAssetId": "cutout_us_staff_officer_moore_waistup",
+      "cameraPush": {
+        "startScale": 1.0,
+        "endScale": 1.14,
+        "curve": "forward_push_through"
+      },
+      "layers": [
+        {
+          "layerRole": "background_plate",
+          "assetId": "bg_cellar_sleeping_quarters_dawn",
+          "zIndex": 1,
+          "mountFrame": 0
+        },
+        {
+          "layerRole": "midground_hero_cutout",
+          "assetId": "cutout_us_staff_officer_moore_waistup",
+          "zIndex": 3,
+          "triggerWord": "woke",
+          "triggerFrame": 15,
+          "mountFrame": 10,
+          "keepMountedInWorld": true,
+          "position": {
+            "bottomOffsetPx": 0,
+            "horizontalAlign": "center"
+          },
+          "framing": "waist-up"
+        },
+        {
+          "layerRole": "foreground_flank_silhouette",
+          "assetId": "cutout_fg_doorframe_lamp_silhouette",
+          "zIndex": 5,
+          "triggerWord": "forward",
+          "triggerFrame": 104,
+          "mountFrame": 99,
+          "keepMountedInWorld": true,
+          "lensOcclusion": {
+            "scale": 1.35,
+            "filter": "blur(8px)"
+          }
+        }
+      ],
+      "microActions": [
+        {
+          "triggerWord": "told",
+          "triggerFrame": 49,
+          "type": "rank_badge_pin",
+          "badgeText": "LTC NED MOORE • ACTING CHIEF OF STAFF"
+        },
+        {
+          "triggerWord": "surrender",
+          "triggerFrame": 151,
+          "type": "caption_pin",
+          "text": "SURRENDER DEMAND"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_02",
+      "stageType": "STAGE_2_ARCHIVAL_BOARD",
+      "startFrame": 184,
+      "endFrame": 317,
+      "durationInFrames": 133,
+      "spokenLine": "According to Moore's account to the Army historian S. L. A. Marshall,",
+      "transitionIn": "iris_zoom_through",
+      "mountedCardAssetId": "real_sla_marshall_portrait",
+      "board": {
+        "border": "16px solid #f6f4ee",
+        "surface": "dark_wood",
+        "dropShadow": "0 24px 48px rgba(0,0,0,0.55)",
+        "tiltDeg": -1.5,
+        "attributionStamp": "U.S. ARMY"
+      },
+      "inspectionZoom": {
+        "triggerWord": "Marshall",
+        "triggerFrame": 290,
+        "scale": 1.12
+      },
+      "microActions": [
+        {
+          "triggerWord": "historian",
+          "triggerFrame": 247,
+          "type": "rank_badge_pin",
+          "badgeText": "S.L.A. MARSHALL • ARMY HISTORIAN"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_03",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 317,
+      "endFrame": 444,
+      "durationInFrames": 127,
+      "spokenLine": "McAuliffe's first answer was a single word. Nuts.",
+      "transitionIn": "halation_flash_dissolve",
+      "parallaxVariant": "BRUSH_TITLE_TO_NEWSPAPER_CUTOUT",
+      "heroCutoutAssetId": "real_mcauliffe_portrait",
+      "propCutoutAssetId": "real_nuts_telegram",
+      "brushBanner": {
+        "text": "ONE WORD",
+        "color": "#B3122A",
+        "triggerWord": "single",
+        "triggerFrame": 367
+      },
+      "newspaperUnfold": {
+        "assetId": "real_nuts_telegram",
+        "triggerWord": "Nuts",
+        "triggerFrame": 417,
+        "unfold": "3d_vertical"
+      },
+      "heroSpring": {
+        "assetId": "real_mcauliffe_portrait",
+        "triggerWord": "answer",
+        "triggerFrame": 338,
+        "framing": "waist-up",
+        "origin": "bottom_center"
+      }
+    },
+    {
+      "sceneId": "scene_04",
+      "stageType": "STAGE_1_FULL_BLEED_VINTAGE",
+      "startFrame": 444,
+      "endFrame": 557,
+      "durationInFrames": 113,
+      "spokenLine": "In the operations room, he read the type sheets.",
+      "transitionIn": "iris_zoom_through",
+      "assetId": "bg_operations_room_map_table_dim",
+      "aspectRatio": "16:9",
+      "treatment": {
+        "filmGrain": "35mm",
+        "liftedDarks": true,
+        "cameraDrift": {
+          "startScale": 1.0,
+          "endScale": 1.04,
+          "curve": "clamped_s_curve"
+        }
+      },
+      "microActions": [
+        {
+          "triggerWord": "operations",
+          "triggerFrame": 459,
+          "type": "hud_timestamp_pin",
+          "badgeText": "OPERATIONS ROOM • BASTOGNE"
+        },
+        {
+          "triggerWord": "sheets",
+          "triggerFrame": 517,
+          "type": "document_focus_pull"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_05",
+      "stageType": "STAGE_2_ARCHIVAL_BOARD",
+      "startFrame": 557,
+      "endFrame": 689,
+      "durationInFrames": 132,
+      "spokenLine": "By Canard's account, he asked whether the Germans wanted to surrender.",
+      "transitionIn": "tectonic_vertical_rise",
+      "mountedCardAssetId": "real_mcauliffe_staff_photo",
+      "board": {
+        "border": "16px solid #f6f4ee",
+        "surface": "slate",
+        "dropShadow": "0 24px 48px rgba(0,0,0,0.55)",
+        "tiltDeg": 1.0,
+        "attributionStamp": "U.S. ARMY SIGNAL CORPS"
+      },
+      "inspectionZoom": {
+        "triggerWord": "surrender",
+        "triggerFrame": 657,
+        "scale": 1.12
+      },
+      "microActions": [
+        {
+          "triggerWord": "Canard's",
+          "triggerFrame": 564,
+          "type": "rank_badge_pin",
+          "badgeText": "LTC HARRY CONARD • OPERATIONS OFFICER"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_06",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 689,
+      "endFrame": 808,
+      "durationInFrames": 119,
+      "spokenLine": "Canard told him, No, sir, they want us to surrender.",
+      "transitionIn": "camera_pullback_through_monitor",
+      "parallaxVariant": "MIRROR_PORTAL_HUD_ROOM",
+      "bgAssetId": "bg_dim_command_post_interior",
+      "mirrorPortal": {
+        "frame": "ornate_hollow_center_mirror",
+        "reflectionAssetId": "cutout_us_staff_officer_conard_waistup",
+        "triggerWord": "Canard",
+        "triggerFrame": 689
+      },
+      "foregroundSilhouetteAssetId": "cutout_fg_doorframe_lamp_silhouette",
+      "hudTelemetry": [
+        {
+          "text": "“NO, SIR.”",
+          "triggerWord": "no",
+          "triggerFrame": 731
+        },
+        {
+          "text": "THEY WANT US TO SURRENDER",
+          "triggerWord": "surrender",
+          "triggerFrame": 776
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_07",
+      "stageType": "STAGE_1_FULL_BLEED_VINTAGE",
+      "startFrame": 808,
+      "endFrame": 887,
+      "durationInFrames": 79,
+      "spokenLine": "McAuliffe said, us surrender?",
+      "transitionIn": "tectonic_vertical_rise",
+      "assetId": "bg_operations_room_map_table_dim",
+      "aspectRatio": "16:9",
+      "treatment": {
+        "filmGrain": "35mm",
+        "liftedDarks": true,
+        "cameraDrift": {
+          "startScale": 1.04,
+          "endScale": 1.0,
+          "curve": "clamped_s_curve"
+        }
+      },
+      "microActions": [
+        {
+          "triggerWord": "us",
+          "triggerFrame": 848,
+          "type": "caption_pin",
+          "text": "“US SURRENDER?”"
+        },
+        {
+          "triggerWord": "surrender",
+          "triggerFrame": 854,
+          "type": "question_mark_pulse"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_08",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 887,
+      "endFrame": 996,
+      "durationInFrames": 109,
+      "spokenLine": "Ah, nuts. And crumpled the paper.",
+      "transitionIn": "window_portal_push_through",
+      "parallaxVariant": "STANDARD_2_5D_PARALLAX",
+      "bgAssetId": "bg_operations_room_map_table_dim",
+      "heroCutoutAssetId": "real_mcauliffe_portrait",
+      "cameraPush": {
+        "startScale": 1.0,
+        "endScale": 1.14,
+        "curve": "forward_push_through"
+      },
+      "layers": [
+        {
+          "layerRole": "background_plate",
+          "assetId": "bg_operations_room_map_table_dim",
+          "zIndex": 1,
+          "mountFrame": 887
+        },
+        {
+          "layerRole": "midground_hero_cutout",
+          "assetId": "real_mcauliffe_portrait",
+          "zIndex": 3,
+          "triggerWord": "nuts",
+          "triggerFrame": 906,
+          "mountFrame": 901,
+          "keepMountedInWorld": true,
+          "position": {
+            "bottomOffsetPx": 0,
+            "horizontalAlign": "center"
+          },
+          "framing": "waist-up"
+        },
+        {
+          "layerRole": "foreground_flank_silhouette",
+          "assetId": "cutout_fg_doorframe_lamp_silhouette",
+          "zIndex": 5,
+          "triggerWord": "crumpled",
+          "triggerFrame": 941,
+          "mountFrame": 936,
+          "keepMountedInWorld": true,
+          "lensOcclusion": {
+            "scale": 1.35,
+            "filter": "blur(8px)"
+          }
+        }
+      ],
+      "microActions": [
+        {
+          "triggerWord": "crumpled",
+          "triggerFrame": 941,
+          "type": "paper_crumple_burst"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_09",
+      "stageType": "STAGE_2_ARCHIVAL_BOARD",
+      "startFrame": 996,
+      "endFrame": 1168,
+      "durationInFrames": 172,
+      "spokenLine": "He then left to visit a unit on the west side of the perimeter that had beaten off a German probe.",
+      "transitionIn": "diagonal_shutter_wipe",
+      "mountedCardAssetId": "real_bastogne_perimeter_map_dec22",
+      "board": {
+        "border": "16px solid #f6f4ee",
+        "surface": "dark_wood",
+        "dropShadow": "0 24px 48px rgba(0,0,0,0.55)",
+        "tiltDeg": -1.0,
+        "attributionStamp": "U.S. ARMY CENTER OF MILITARY HISTORY"
+      },
+      "inspectionZoom": {
+        "triggerWord": "perimeter",
+        "triggerFrame": 1071,
+        "scale": 1.12
+      },
+      "microActions": [
+        {
+          "triggerWord": "west",
+          "triggerFrame": 1048,
+          "type": "route_arrow_draw"
+        },
+        {
+          "triggerWord": "probe",
+          "triggerFrame": 1127,
+          "type": "red_ink_circle",
+          "targetText": "GERMAN PROBE BEATEN OFF"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_10",
+      "stageType": "STAGE_1_FULL_BLEED_VINTAGE",
+      "startFrame": 1168,
+      "endFrame": 1304,
+      "durationInFrames": 136,
+      "spokenLine": "According to the staff accounts, nobody in the room argued for giving up.",
+      "transitionIn": "iris_zoom_through",
+      "assetId": "real_staff_officers_map_table_1944",
+      "aspectRatio": "16:9",
+      "treatment": {
+        "filmGrain": "35mm",
+        "liftedDarks": true,
+        "cameraDrift": {
+          "startScale": 1.0,
+          "endScale": 1.04,
+          "curve": "clamped_s_curve"
+        }
+      },
+      "microActions": [
+        {
+          "triggerWord": "nobody",
+          "triggerFrame": 1227,
+          "type": "empty_chair_rack_focus"
+        },
+        {
+          "triggerWord": "argued",
+          "triggerFrame": 1258,
+          "type": "red_x_strike",
+          "text": "NO ONE ARGUED"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_11",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 1304,
+      "endFrame": 1448,
+      "durationInFrames": 144,
+      "spokenLine": "The only open matter was what to say, and the two hours were running down.",
+      "transitionIn": "halation_flash_dissolve",
+      "parallaxVariant": "MIRROR_PORTAL_HUD_ROOM",
+      "bgAssetId": "bg_dim_command_post_interior",
+      "mirrorPortal": {
+        "frame": "cracked_hollow_center_mirror",
+        "reflectionAssetId": "real_mcauliffe_portrait",
+        "triggerWord": "matter",
+        "triggerFrame": 1327
+      },
+      "foregroundSilhouetteAssetId": "cutout_fg_doorframe_lamp_silhouette",
+      "hudTelemetry": [
+        {
+          "text": "DEADLINE: TWO HOURS",
+          "triggerWord": "two",
+          "triggerFrame": 1386
+        },
+        {
+          "text": "REPLY: UNWRITTEN",
+          "triggerWord": "say",
+          "triggerFrame": 1354
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_12",
+      "stageType": "STAGE_3_CANVAS_MONTAGE",
+      "startFrame": 1448,
+      "endFrame": 1714,
+      "durationInFrames": 266,
+      "spokenLine": "When McAuliffe came back, Moore reminded him that the four Germans were still waiting at the company F outpost and that Custom called for a written reply.",
+      "transitionIn": "barrel_roll_stone_wipe",
+      "montage": {
+        "canvasColor": "#141414",
+        "keepPreviousItemsVisible": true,
+        "items": [
+          {
+            "itemIndex": 1,
+            "assetId": "real_snowy_outpost_foxholes_bastogne",
+            "aspectRatio": "4:3",
+            "triggerWord": "outpost",
+            "triggerFrame": 1603,
+            "mountFrame": 1598,
+            "position": {
+              "slot": "left",
+              "tiltDeg": -2.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          },
+          {
+            "itemIndex": 2,
+            "assetId": "real_german_surrender_note",
+            "aspectRatio": "3:4",
+            "triggerWord": "written",
+            "triggerFrame": 1670,
+            "mountFrame": 1665,
+            "position": {
+              "slot": "right",
+              "tiltDeg": 2.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          }
+        ]
+      },
+      "microActions": [
+        {
+          "triggerWord": "four",
+          "triggerFrame": 1530,
+          "type": "caption_pin",
+          "text": "4 GERMANS WAITING"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_13",
+      "stageType": "STAGE_1_FULL_BLEED_VINTAGE",
+      "startFrame": 1714,
+      "endFrame": 1851,
+      "durationInFrames": 137,
+      "spokenLine": "McAuliffe sat down with a pencil and paper and said he did not know what to tell them.",
+      "transitionIn": "halation_flash_dissolve",
+      "assetId": "bg_desk_pencil_blank_paper_lamp",
+      "aspectRatio": "16:9",
+      "treatment": {
+        "filmGrain": "35mm",
+        "liftedDarks": true,
+        "cameraDrift": {
+          "startScale": 1.0,
+          "endScale": 1.05,
+          "curve": "clamped_s_curve"
+        }
+      },
+      "microActions": [
+        {
+          "triggerWord": "pencil",
+          "triggerFrame": 1749,
+          "type": "pencil_hover"
+        },
+        {
+          "triggerWord": "know",
+          "triggerFrame": 1806,
+          "type": "caption_pin",
+          "text": "NO ANSWER YET"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_14",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 1851,
+      "endFrame": 1993,
+      "durationInFrames": 142,
+      "spokenLine": "Canard answered that what the general had said at first would be hard to beat.",
+      "transitionIn": "camera_pullback_through_monitor",
+      "parallaxVariant": "STANDARD_2_5D_PARALLAX",
+      "bgAssetId": "bg_operations_room_map_table_dim",
+      "heroCutoutAssetId": "cutout_us_staff_officer_conard_waistup",
+      "cameraPush": {
+        "startScale": 1.0,
+        "endScale": 1.14,
+        "curve": "forward_push_through"
+      },
+      "layers": [
+        {
+          "layerRole": "background_plate",
+          "assetId": "bg_operations_room_map_table_dim",
+          "zIndex": 1,
+          "mountFrame": 1851
+        },
+        {
+          "layerRole": "midground_hero_cutout",
+          "assetId": "cutout_us_staff_officer_conard_waistup",
+          "zIndex": 3,
+          "triggerWord": "Canard",
+          "triggerFrame": 1851,
+          "mountFrame": 1846,
+          "keepMountedInWorld": true,
+          "position": {
+            "bottomOffsetPx": 0,
+            "horizontalAlign": "center"
+          },
+          "framing": "waist-up"
+        },
+        {
+          "layerRole": "foreground_flank_silhouette",
+          "assetId": "cutout_fg_doorframe_lamp_silhouette",
+          "zIndex": 5,
+          "triggerWord": "answered",
+          "triggerFrame": 1867,
+          "mountFrame": 1862,
+          "keepMountedInWorld": true,
+          "lensOcclusion": {
+            "scale": 1.35,
+            "filter": "blur(8px)"
+          }
+        }
+      ],
+      "microActions": [
+        {
+          "triggerWord": "beat",
+          "triggerFrame": 1965,
+          "type": "caption_pin",
+          "text": "HARD TO BEAT"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_15",
+      "stageType": "STAGE_2_ARCHIVAL_BOARD",
+      "startFrame": 1993,
+      "endFrame": 2143,
+      "durationInFrames": 150,
+      "spokenLine": "McAuliffe asked what he meant. Canard said, Sir, you said nuts.",
+      "transitionIn": "tectonic_vertical_rise",
+      "mountedCardAssetId": "real_mcauliffe_general_portrait_board",
+      "board": {
+        "border": "16px solid #f6f4ee",
+        "surface": "slate",
+        "dropShadow": "0 24px 48px rgba(0,0,0,0.55)",
+        "tiltDeg": -1.0,
+        "attributionStamp": "U.S. ARMY"
+      },
+      "inspectionZoom": {
+        "triggerWord": "meant",
+        "triggerFrame": 2021,
+        "scale": 1.12
+      },
+      "microActions": [
+        {
+          "triggerWord": "nuts",
+          "triggerFrame": 2113,
+          "type": "rubber_stamp_slam",
+          "stampText": "“NUTS”"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_16",
+      "stageType": "STAGE_1_FULL_BLEED_VINTAGE",
+      "startFrame": 2143,
+      "endFrame": 2242,
+      "durationInFrames": 99,
+      "spokenLine": "The staff officers in the room laughed and agreed.",
+      "transitionIn": "halation_flash_dissolve",
+      "assetId": "real_staff_officers_map_table_1944",
+      "aspectRatio": "16:9",
+      "treatment": {
+        "filmGrain": "35mm",
+        "liftedDarks": true,
+        "cameraDrift": {
+          "startScale": 1.04,
+          "endScale": 1.0,
+          "curve": "clamped_s_curve"
+        }
+      },
+      "microActions": [
+        {
+          "triggerWord": "laughed",
+          "triggerFrame": 2181,
+          "type": "room_warm_light_bloom"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_17",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 2242,
+      "endFrame": 2395,
+      "durationInFrames": 153,
+      "spokenLine": "McAuliffe dictated the reply, and the sergeant typed it centered on a single sheet.",
+      "transitionIn": "camera_pullback_through_monitor",
+      "parallaxVariant": "STANDARD_2_5D_PARALLAX",
+      "bgAssetId": "bg_typewriter_desk_candlelit",
+      "heroCutoutAssetId": "cutout_us_sergeant_typist_waistup",
+      "cameraPush": {
+        "startScale": 1.0,
+        "endScale": 1.14,
+        "curve": "forward_push_through"
+      },
+      "layers": [
+        {
+          "layerRole": "background_plate",
+          "assetId": "bg_typewriter_desk_candlelit",
+          "zIndex": 1,
+          "mountFrame": 2242
+        },
+        {
+          "layerRole": "midground_hero_cutout",
+          "assetId": "cutout_us_sergeant_typist_waistup",
+          "zIndex": 3,
+          "triggerWord": "sergeant",
+          "triggerFrame": 2307,
+          "mountFrame": 2302,
+          "keepMountedInWorld": true,
+          "position": {
+            "bottomOffsetPx": 0,
+            "horizontalAlign": "center"
+          },
+          "framing": "waist-up"
+        },
+        {
+          "layerRole": "foreground_flank_silhouette",
+          "assetId": "cutout_fg_doorframe_lamp_silhouette",
+          "zIndex": 5,
+          "triggerWord": "dictated",
+          "triggerFrame": 2256,
+          "mountFrame": 2251,
+          "keepMountedInWorld": true,
+          "lensOcclusion": {
+            "scale": 1.35,
+            "filter": "blur(8px)"
+          }
+        }
+      ],
+      "microActions": [
+        {
+          "triggerWord": "typed",
+          "triggerFrame": 2318,
+          "type": "typewriter_keys_strike"
+        },
+        {
+          "triggerWord": "single",
+          "triggerFrame": 2358,
+          "type": "caption_pin",
+          "text": "SINGLE SHEET"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_18",
+      "stageType": "STAGE_2_ARCHIVAL_BOARD",
+      "startFrame": 2395,
+      "endFrame": 2630,
+      "durationInFrames": 235,
+      "spokenLine": "To the German commander, N-U-T-S. The American commander. That was all of it.",
+      "transitionIn": "iris_zoom_through",
+      "mountedCardAssetId": "real_nuts_telegram",
+      "board": {
+        "border": "16px solid #f6f4ee",
+        "surface": "dark_wood",
+        "dropShadow": "0 24px 48px rgba(0,0,0,0.55)",
+        "tiltDeg": -1.0,
+        "attributionStamp": "U.S. ARMY / NARA"
+      },
+      "inspectionZoom": {
+        "triggerWord": "commander",
+        "triggerFrame": 2413,
+        "scale": 1.12
+      },
+      "microActions": [
+        {
+          "triggerWord": "S",
+          "triggerFrame": 2491,
+          "type": "rubber_stamp_slam",
+          "stampText": "N-U-T-S"
+        },
+        {
+          "triggerWord": "American",
+          "triggerFrame": 2543,
+          "type": "caption_pin",
+          "text": "THE AMERICAN COMMANDER"
+        },
+        {
+          "triggerWord": "all",
+          "triggerFrame": 2600,
+          "type": "caption_pin",
+          "text": "THAT WAS ALL"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_19",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 2630,
+      "endFrame": 2786,
+      "durationInFrames": 156,
+      "spokenLine": "Colonel Joseph Harper of the 327th Glider Infantry took the sheet to the outpost.",
+      "transitionIn": "halation_flash_dissolve",
+      "parallaxVariant": "STANDARD_2_5D_PARALLAX",
+      "bgAssetId": "bg_us_outpost_foxhole_line_snow",
+      "heroCutoutAssetId": "cutout_us_colonel_harper_waistup",
+      "cameraPush": {
+        "startScale": 1.0,
+        "endScale": 1.14,
+        "curve": "forward_push_through"
+      },
+      "layers": [
+        {
+          "layerRole": "background_plate",
+          "assetId": "bg_us_outpost_foxhole_line_snow",
+          "zIndex": 1,
+          "mountFrame": 2630,
+          "weatherEffect": "snow_mist"
+        },
+        {
+          "layerRole": "midground_hero_cutout",
+          "assetId": "cutout_us_colonel_harper_waistup",
+          "zIndex": 3,
+          "triggerWord": "Colonel",
+          "triggerFrame": 2630,
+          "mountFrame": 2625,
+          "keepMountedInWorld": true,
+          "position": {
+            "bottomOffsetPx": 0,
+            "horizontalAlign": "center"
+          },
+          "framing": "waist-up"
+        },
+        {
+          "layerRole": "foreground_flank_silhouette",
+          "assetId": "cutout_fg_sandbags_sentries",
+          "zIndex": 5,
+          "triggerWord": "outpost",
+          "triggerFrame": 2749,
+          "mountFrame": 2744,
+          "keepMountedInWorld": true,
+          "lensOcclusion": {
+            "scale": 1.35,
+            "filter": "blur(8px)"
+          }
+        }
+      ],
+      "microActions": [
+        {
+          "triggerWord": "Harper",
+          "triggerFrame": 2647,
+          "type": "rank_badge_pin",
+          "badgeText": "COL. JOSEPH HARPER • 327TH GLIDER INF."
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_20",
+      "stageType": "STAGE_1_FULL_BLEED_VINTAGE",
+      "startFrame": 2786,
+      "endFrame": 2913,
+      "durationInFrames": 127,
+      "spokenLine": "McAuliffe told him to hand it over and not to go into the German lines.",
+      "transitionIn": "tectonic_vertical_rise",
+      "assetId": "bg_snowy_no_mans_land_approach_dawn",
+      "aspectRatio": "16:9",
+      "treatment": {
+        "filmGrain": "35mm",
+        "liftedDarks": true,
+        "cameraDrift": {
+          "startScale": 1.0,
+          "endScale": 1.04,
+          "curve": "clamped_s_curve"
+        }
+      },
+      "microActions": [
+        {
+          "triggerWord": "hand",
+          "triggerFrame": 2815,
+          "type": "document_handoff"
+        },
+        {
+          "triggerWord": "not",
+          "triggerFrame": 2842,
+          "type": "red_line_halt",
+          "text": "STOP AT THE LINE"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_21",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 2913,
+      "endFrame": 3123,
+      "durationInFrames": 210,
+      "spokenLine": "Hanke read it and asked whether the reply was negative or affirmative, and if it was affirmative, he would negotiate further.",
+      "transitionIn": "foreground_pillar_whip_wipe",
+      "parallaxVariant": "STANDARD_2_5D_PARALLAX",
+      "bgAssetId": "bg_snowy_no_mans_land_approach_dawn",
+      "heroCutoutAssetId": "cutout_german_lt_henk_waistup",
+      "cameraPush": {
+        "startScale": 1.0,
+        "endScale": 1.14,
+        "curve": "forward_push_through"
+      },
+      "layers": [
+        {
+          "layerRole": "background_plate",
+          "assetId": "bg_snowy_no_mans_land_approach_dawn",
+          "zIndex": 1,
+          "mountFrame": 2913,
+          "weatherEffect": "snow_mist"
+        },
+        {
+          "layerRole": "midground_hero_cutout",
+          "assetId": "cutout_german_lt_henk_waistup",
+          "zIndex": 3,
+          "triggerWord": "Hanke",
+          "triggerFrame": 2913,
+          "mountFrame": 2908,
+          "keepMountedInWorld": true,
+          "position": {
+            "bottomOffsetPx": 0,
+            "horizontalAlign": "center"
+          },
+          "framing": "waist-up"
+        },
+        {
+          "layerRole": "foreground_flank_silhouette",
+          "assetId": "cutout_fg_pine_bough_barbed_wire_silhouette",
+          "zIndex": 5,
+          "triggerWord": "read",
+          "triggerFrame": 2923,
+          "mountFrame": 2918,
+          "keepMountedInWorld": true,
+          "lensOcclusion": {
+            "scale": 1.35,
+            "filter": "blur(8px)"
+          }
+        }
+      ],
+      "microActions": [
+        {
+          "triggerWord": "negative",
+          "triggerFrame": 2982,
+          "type": "caption_pin",
+          "text": "NEGATIVE OR AFFIRMATIVE?"
+        },
+        {
+          "triggerWord": "negotiate",
+          "triggerFrame": 3078,
+          "type": "caption_pin",
+          "text": "WOULD NEGOTIATE FURTHER"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_22",
+      "stageType": "STAGE_2_ARCHIVAL_BOARD",
+      "startFrame": 3123,
+      "endFrame": 3330,
+      "durationInFrames": 207,
+      "spokenLine": "Harper told him it was decidedly not affirmative, and that if the Germans kept attacking, their losses would be tremendous.",
+      "transitionIn": "iris_zoom_through",
+      "mountedCardAssetId": "real_glider_infantry_327th_bastogne",
+      "board": {
+        "border": "16px solid #f6f4ee",
+        "surface": "slate",
+        "dropShadow": "0 24px 48px rgba(0,0,0,0.55)",
+        "tiltDeg": 1.5,
+        "attributionStamp": "U.S. ARMY SIGNAL CORPS / NARA"
+      },
+      "inspectionZoom": {
+        "triggerWord": "decidedly",
+        "triggerFrame": 3153,
+        "scale": 1.12
+      },
+      "microActions": [
+        {
+          "triggerWord": "affirmative",
+          "triggerFrame": 3181,
+          "type": "rubber_stamp_slam",
+          "stampText": "NOT AFFIRMATIVE"
+        },
+        {
+          "triggerWord": "tremendous",
+          "triggerFrame": 3293,
+          "type": "caption_pin",
+          "text": "LOSSES: TREMENDOUS"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_23",
+      "stageType": "STAGE_1_FULL_BLEED_VINTAGE",
+      "startFrame": 3330,
+      "endFrame": 3501,
+      "durationInFrames": 171,
+      "spokenLine": "Private First Class Ernest Premitz put the meaning into German as a suggestion to go to the devil.",
+      "transitionIn": "tectonic_vertical_rise",
+      "assetId": "bg_us_outpost_foxhole_line_snow",
+      "aspectRatio": "16:9",
+      "treatment": {
+        "filmGrain": "35mm",
+        "liftedDarks": true,
+        "cameraDrift": {
+          "startScale": 1.04,
+          "endScale": 1.0,
+          "curve": "clamped_s_curve"
+        }
+      },
+      "microActions": [
+        {
+          "triggerWord": "Premitz",
+          "triggerFrame": 3371,
+          "type": "rank_badge_pin",
+          "badgeText": "PFC ERNEST PREMETZ • INTERPRETER"
+        },
+        {
+          "triggerWord": "devil",
+          "triggerFrame": 3476,
+          "type": "caption_pin",
+          "text": "“GO TO THE DEVIL”"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_24",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 3501,
+      "endFrame": 3701,
+      "durationInFrames": 200,
+      "spokenLine": "Hanke's last words in Harper's account were that the Germans would kill many Americans and that this was war.",
+      "transitionIn": "window_portal_push_through",
+      "parallaxVariant": "MIRROR_PORTAL_HUD_ROOM",
+      "bgAssetId": "bg_snowy_treeline_enemy_unseen_dusk",
+      "mirrorPortal": {
+        "frame": "ornate_hollow_center_mirror",
+        "reflectionAssetId": "cutout_german_lt_henk_waistup",
+        "triggerWord": "Hanke's",
+        "triggerFrame": 3501
+      },
+      "foregroundSilhouetteAssetId": "cutout_fg_pine_bough_barbed_wire_silhouette",
+      "hudTelemetry": [
+        {
+          "text": "WARNING: MANY AMERICANS WILL DIE",
+          "triggerWord": "kill",
+          "triggerFrame": 3608
+        },
+        {
+          "text": "“THIS IS WAR”",
+          "triggerWord": "war",
+          "triggerFrame": 3671
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_25",
+      "stageType": "STAGE_1_FULL_BLEED_VINTAGE",
+      "startFrame": 3701,
+      "endFrame": 3811,
+      "durationInFrames": 110,
+      "spokenLine": "He and Wagner saluted and walked back toward their lines.",
+      "transitionIn": "halation_flash_dissolve",
+      "assetId": "bg_snowy_no_mans_land_approach_dawn",
+      "aspectRatio": "16:9",
+      "treatment": {
+        "filmGrain": "35mm",
+        "liftedDarks": true,
+        "cameraDrift": {
+          "startScale": 1.0,
+          "endScale": 1.05,
+          "curve": "clamped_s_curve"
+        }
+      },
+      "microActions": [
+        {
+          "triggerWord": "saluted",
+          "triggerFrame": 3717,
+          "type": "salute_pin"
+        },
+        {
+          "triggerWord": "walked",
+          "triggerFrame": 3752,
+          "type": "figures_recede_silhouette"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_26",
+      "stageType": "STAGE_2_ARCHIVAL_BOARD",
+      "startFrame": 3811,
+      "endFrame": 3896,
+      "durationInFrames": 85,
+      "spokenLine": "The word did not change the plan.",
+      "transitionIn": "iris_zoom_through",
+      "mountedCardAssetId": "real_map_bastogne_tactical",
+      "board": {
+        "border": "16px solid #f6f4ee",
+        "surface": "dark_wood",
+        "dropShadow": "0 24px 48px rgba(0,0,0,0.55)",
+        "tiltDeg": -1.0,
+        "attributionStamp": "U.S. ARMY CENTER OF MILITARY HISTORY"
+      },
+      "inspectionZoom": {
+        "triggerWord": "plan",
+        "triggerFrame": 3860,
+        "scale": 1.12
+      },
+      "microActions": [
+        {
+          "triggerWord": "word",
+          "triggerFrame": 3815,
+          "type": "caption_pin",
+          "text": "THE WORD"
+        },
+        {
+          "triggerWord": "change",
+          "triggerFrame": 3840,
+          "type": "red_x_strike",
+          "text": "NO CHANGE"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_27",
+      "stageType": "STAGE_3_CANVAS_MONTAGE",
+      "startFrame": 3896,
+      "endFrame": 4271,
+      "durationInFrames": 375,
+      "spokenLine": "The decision it announced was the one the staff had already made to stay inside the circle and hold it with 10 rounds of gun and a relief column of unknown arrival.",
+      "transitionIn": "barrel_roll_stone_wipe",
+      "montage": {
+        "canvasColor": "#141414",
+        "keepPreviousItemsVisible": true,
+        "items": [
+          {
+            "itemIndex": 1,
+            "assetId": "real_mcauliffe_staff_photo",
+            "aspectRatio": "4:3",
+            "triggerWord": "decision",
+            "triggerFrame": 3902,
+            "mountFrame": 3897,
+            "position": {
+              "slot": "far_left",
+              "tiltDeg": -2.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          },
+          {
+            "itemIndex": 2,
+            "assetId": "real_map_bastogne_tactical",
+            "aspectRatio": "16:9",
+            "triggerWord": "circle",
+            "triggerFrame": 4071,
+            "mountFrame": 4066,
+            "position": {
+              "slot": "left",
+              "tiltDeg": 1.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          },
+          {
+            "itemIndex": 3,
+            "assetId": "real_105mm_howitzer_bastogne",
+            "aspectRatio": "4:3",
+            "triggerWord": "rounds",
+            "triggerFrame": 4151,
+            "mountFrame": 4146,
+            "position": {
+              "slot": "right",
+              "tiltDeg": -1.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          },
+          {
+            "itemIndex": 4,
+            "assetId": "real_third_army_column_dec1944",
+            "aspectRatio": "4:3",
+            "triggerWord": "relief",
+            "triggerFrame": 4199,
+            "mountFrame": 4194,
+            "position": {
+              "slot": "far_right",
+              "tiltDeg": 2.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          }
+        ]
+      },
+      "microActions": [
+        {
+          "triggerWord": "10",
+          "triggerFrame": 4142,
+          "type": "number_counter_lock",
+          "value": "10 ROUNDS OF GUN"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_28",
+      "stageType": "STAGE_1_FULL_BLEED_VINTAGE",
+      "startFrame": 4271,
+      "endFrame": 4389,
+      "durationInFrames": 118,
+      "spokenLine": "The artillery bombardment the note promised did not come.",
+      "transitionIn": "panoramic_push_glide",
+      "assetId": "bg_bastogne_outskirts_winter_dawn",
+      "aspectRatio": "16:9",
+      "treatment": {
+        "filmGrain": "35mm",
+        "liftedDarks": true,
+        "cameraDrift": {
+          "startScale": 1.0,
+          "endScale": 1.04,
+          "curve": "clamped_s_curve"
+        }
+      },
+      "microActions": [
+        {
+          "triggerWord": "bombardment",
+          "triggerFrame": 4295,
+          "type": "empty_sky_drift"
+        },
+        {
+          "triggerWord": "come",
+          "triggerFrame": 4361,
+          "type": "silence_vignette"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_29",
+      "stageType": "STAGE_3_CANVAS_MONTAGE",
+      "startFrame": 4389,
+      "endFrame": 4943,
+      "durationInFrames": 554,
+      "spokenLine": "On December 23, the cold front cleared the sky and 241 C-47 transports dropped 144 tons of ammunition, medical supplies and rations into the perimeter, while P-47 fighters struck German armor around the town.",
+      "transitionIn": "diagonal_shutter_wipe",
+      "montage": {
+        "canvasColor": "#141414",
+        "keepPreviousItemsVisible": true,
+        "items": [
+          {
+            "itemIndex": 1,
+            "assetId": "real_c47_airdrop_bastogne_1944",
+            "aspectRatio": "4:3",
+            "triggerWord": "transports",
+            "triggerFrame": 4569,
+            "mountFrame": 4564,
+            "position": {
+              "slot": "left",
+              "tiltDeg": -2.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          },
+          {
+            "itemIndex": 2,
+            "assetId": "real_supply_parachutes_bastogne_snow",
+            "aspectRatio": "4:3",
+            "triggerWord": "rations",
+            "triggerFrame": 4743,
+            "mountFrame": 4738,
+            "position": {
+              "slot": "center",
+              "tiltDeg": 1.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          },
+          {
+            "itemIndex": 3,
+            "assetId": "real_p47_thunderbolt_ardennes",
+            "aspectRatio": "4:3",
+            "triggerWord": "fighters",
+            "triggerFrame": 4833,
+            "mountFrame": 4828,
+            "position": {
+              "slot": "right",
+              "tiltDeg": 2.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          }
+        ]
+      },
+      "microActions": [
+        {
+          "triggerWord": "December",
+          "triggerFrame": 4400,
+          "type": "hud_timestamp_pin",
+          "badgeText": "DEC 23, 1944 • SKIES CLEAR"
+        },
+        {
+          "triggerWord": "241",
+          "triggerFrame": 4509,
+          "type": "number_counter_lock",
+          "value": "241 C-47s"
+        },
+        {
+          "triggerWord": "144",
+          "triggerFrame": 4614,
+          "type": "number_counter_lock",
+          "value": "144 TONS"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_30",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 4943,
+      "endFrame": 5348,
+      "durationInFrames": 405,
+      "spokenLine": "That night, December 24, German bombers raided Bastogne, a direct hit on the aid station of Combat Command B killed a Belgian nurse, René Le Maire, and about 30 wounded American soldiers.",
+      "transitionIn": "camera_pullback_through_monitor",
+      "parallaxVariant": "MULTI_NODE_3D_AUDITORIUM_RIG",
+      "bgAssetId": "bg_bastogne_night_bombing_glow",
+      "heroCutoutAssetId": "real_renee_lemaire_cutout",
+      "weatherPass": "dust",
+      "rigNodes": [
+        {
+          "nodeIndex": 1,
+          "nodeRole": "night_sky_establishing",
+          "assetId": "bg_bastogne_night_bombing_glow",
+          "startFrame": 4943,
+          "endFrame": 4983,
+          "persistent": true
+        },
+        {
+          "nodeIndex": 2,
+          "nodeRole": "bombers_approach",
+          "assetId": "bg_bastogne_night_bombing_glow",
+          "startFrame": 4983,
+          "endFrame": 5024,
+          "persistent": true,
+          "triggerWord": "bombers",
+          "triggerFrame": 5019
+        },
+        {
+          "nodeIndex": 3,
+          "nodeRole": "direct_hit_flash",
+          "assetId": "bg_bastogne_night_bombing_glow",
+          "startFrame": 5024,
+          "endFrame": 5065,
+          "persistent": true,
+          "triggerWord": "hit",
+          "triggerFrame": 5098
+        },
+        {
+          "nodeIndex": 4,
+          "nodeRole": "aid_station_ruin_detail",
+          "assetId": "bg_bastogne_night_bombing_glow",
+          "startFrame": 5065,
+          "endFrame": 5105,
+          "persistent": true
+        },
+        {
+          "nodeIndex": 5,
+          "nodeRole": "nurse_portrait_entry",
+          "assetId": "real_renee_lemaire_cutout",
+          "startFrame": 5105,
+          "endFrame": 5145,
+          "persistent": true,
+          "triggerWord": "nurse",
+          "triggerFrame": 5201
+        },
+        {
+          "nodeIndex": 6,
+          "nodeRole": "nurse_hold",
+          "assetId": "real_renee_lemaire_cutout",
+          "startFrame": 5145,
+          "endFrame": 5186,
+          "persistent": true
+        },
+        {
+          "nodeIndex": 7,
+          "nodeRole": "toll_counter_push",
+          "assetId": "bg_bastogne_night_bombing_glow",
+          "startFrame": 5186,
+          "endFrame": 5227,
+          "persistent": true,
+          "triggerWord": "30",
+          "triggerFrame": 5267
+        },
+        {
+          "nodeIndex": 8,
+          "nodeRole": "wounded_hold",
+          "assetId": "bg_bastogne_night_bombing_glow",
+          "startFrame": 5227,
+          "endFrame": 5267,
+          "persistent": true,
+          "triggerWord": "wounded",
+          "triggerFrame": 5279
+        },
+        {
+          "nodeIndex": 9,
+          "nodeRole": "lateral_glide",
+          "assetId": "bg_bastogne_night_bombing_glow",
+          "startFrame": 5267,
+          "endFrame": 5307,
+          "persistent": true
+        },
+        {
+          "nodeIndex": 10,
+          "nodeRole": "settle",
+          "assetId": "bg_bastogne_night_bombing_glow",
+          "startFrame": 5307,
+          "endFrame": 5348,
+          "persistent": true
+        }
+      ],
+      "keepPreviousNodesMounted": true,
+      "microActions": [
+        {
+          "triggerWord": "December",
+          "triggerFrame": 4969,
+          "type": "hud_timestamp_pin",
+          "badgeText": "DEC 24, 1944 • BASTOGNE"
+        },
+        {
+          "triggerWord": "nurse",
+          "triggerFrame": 5201,
+          "type": "rank_badge_pin",
+          "badgeText": "RENÉE LEMAIRE • BELGIAN NURSE"
+        },
+        {
+          "triggerWord": "30",
+          "triggerFrame": 5267,
+          "type": "number_counter_lock",
+          "value": "~30 WOUNDED KILLED"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_31",
+      "stageType": "STAGE_2_ARCHIVAL_BOARD",
+      "startFrame": 5348,
+      "endFrame": 5570,
+      "durationInFrames": 222,
+      "spokenLine": "Makalov's Christmas message given to every man in the pocket told them the story of the surrender demand and the reply.",
+      "transitionIn": "tectonic_vertical_rise",
+      "mountedCardAssetId": "real_mcauliffe_christmas_message_1944",
+      "board": {
+        "border": "16px solid #f6f4ee",
+        "surface": "slate",
+        "dropShadow": "0 24px 48px rgba(0,0,0,0.55)",
+        "tiltDeg": -1.0,
+        "attributionStamp": "U.S. ARMY / NARA"
+      },
+      "inspectionZoom": {
+        "triggerWord": "Christmas",
+        "triggerFrame": 5365,
+        "scale": 1.12
+      },
+      "microActions": [
+        {
+          "triggerWord": "demand",
+          "triggerFrame": 5501,
+          "type": "caption_pin",
+          "text": "DEMAND + REPLY"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_32",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 5570,
+      "endFrame": 5814,
+      "durationInFrames": 244,
+      "spokenLine": "On Christmas morning, the German 15th Panzer Grenadier Division and the 26th Volksgrenadier Division attacked the Western perimeter.",
+      "transitionIn": "window_portal_push_through",
+      "parallaxVariant": "STANDARD_2_5D_PARALLAX",
+      "bgAssetId": "bg_christmas_morning_west_perimeter_dawn",
+      "heroCutoutAssetId": "cutout_german_volksgrenadier_infantry_waistup",
+      "cameraPush": {
+        "startScale": 1.0,
+        "endScale": 1.14,
+        "curve": "forward_push_through"
+      },
+      "layers": [
+        {
+          "layerRole": "background_plate",
+          "assetId": "bg_christmas_morning_west_perimeter_dawn",
+          "zIndex": 1,
+          "mountFrame": 5570,
+          "weatherEffect": "snow_mist"
+        },
+        {
+          "layerRole": "midground_hero_cutout",
+          "assetId": "cutout_german_volksgrenadier_infantry_waistup",
+          "zIndex": 3,
+          "triggerWord": "German",
+          "triggerFrame": 5614,
+          "mountFrame": 5609,
+          "keepMountedInWorld": true,
+          "position": {
+            "bottomOffsetPx": 0,
+            "horizontalAlign": "center"
+          },
+          "framing": "waist-up"
+        },
+        {
+          "layerRole": "foreground_flank_silhouette",
+          "assetId": "cutout_fg_pine_bough_barbed_wire_silhouette",
+          "zIndex": 5,
+          "triggerWord": "attacked",
+          "triggerFrame": 5737,
+          "mountFrame": 5732,
+          "keepMountedInWorld": true,
+          "lensOcclusion": {
+            "scale": 1.35,
+            "filter": "blur(8px)"
+          }
+        }
+      ],
+      "microActions": [
+        {
+          "triggerWord": "15th",
+          "triggerFrame": 5620,
+          "type": "rank_badge_pin",
+          "badgeText": "15TH PANZER GRENADIER DIV."
+        },
+        {
+          "triggerWord": "26th",
+          "triggerFrame": 5687,
+          "type": "rank_badge_pin",
+          "badgeText": "26TH VOLKSGRENADIER DIV."
+        },
+        {
+          "triggerWord": "morning",
+          "triggerFrame": 5585,
+          "type": "hud_timestamp_pin",
+          "badgeText": "DEC 25 • CHRISTMAS MORNING"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_33",
+      "stageType": "STAGE_3_CANVAS_MONTAGE",
+      "startFrame": 5814,
+      "endFrame": 6179,
+      "durationInFrames": 365,
+      "spokenLine": "18 German tanks broke through the line and the 502nd Parachute Infantry, the 327th Glider Infantry and the 705th Tank Destroyer Battalion destroyed all of them.",
+      "transitionIn": "diagonal_shutter_wipe",
+      "montage": {
+        "canvasColor": "#141414",
+        "keepPreviousItemsVisible": true,
+        "items": [
+          {
+            "itemIndex": 1,
+            "assetId": "real_destroyed_panzer_bastogne_dec1944",
+            "aspectRatio": "4:3",
+            "triggerWord": "tanks",
+            "triggerFrame": 5839,
+            "mountFrame": 5834,
+            "position": {
+              "slot": "far_left",
+              "tiltDeg": -2.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          },
+          {
+            "itemIndex": 2,
+            "assetId": "real_502nd_pir_insignia",
+            "aspectRatio": "1:1",
+            "triggerWord": "502nd",
+            "triggerFrame": 5907,
+            "mountFrame": 5902,
+            "position": {
+              "slot": "left",
+              "tiltDeg": 1.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          },
+          {
+            "itemIndex": 3,
+            "assetId": "real_327th_gir_insignia",
+            "aspectRatio": "1:1",
+            "triggerWord": "327th",
+            "triggerFrame": 5977,
+            "mountFrame": 5972,
+            "position": {
+              "slot": "right",
+              "tiltDeg": -1.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          },
+          {
+            "itemIndex": 4,
+            "assetId": "real_705th_tank_destroyer_m18",
+            "aspectRatio": "4:3",
+            "triggerWord": "705th",
+            "triggerFrame": 6047,
+            "mountFrame": 6042,
+            "position": {
+              "slot": "far_right",
+              "tiltDeg": 2.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          }
+        ]
+      },
+      "microActions": [
+        {
+          "triggerWord": "18",
+          "triggerFrame": 5814,
+          "type": "number_counter_lock",
+          "value": "18 TANKS THROUGH"
+        },
+        {
+          "triggerWord": "all",
+          "triggerFrame": 6122,
+          "type": "rubber_stamp_slam",
+          "stampText": "ALL DESTROYED"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_34",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 6179,
+      "endFrame": 6651,
+      "durationInFrames": 472,
+      "spokenLine": "At 10 minutes to five on the afternoon of December 26, the lead tank of Task Force Abrams, a Sherman named Cobra King from the 4th Armored Division, reached the engineers of Company C, 326th Airborne Engineer Battalion at the southern edge of the pocket.",
+      "transitionIn": "camera_pullback_through_monitor",
+      "parallaxVariant": "MULTI_NODE_3D_AUDITORIUM_RIG",
+      "bgAssetId": "bg_pocket_southern_edge_road_dusk",
+      "heroCutoutAssetId": "real_creighton_abrams_cutout",
+      "weatherPass": "dust",
+      "rigNodes": [
+        {
+          "nodeIndex": 1,
+          "nodeRole": "road_dusk_establishing",
+          "assetId": "bg_pocket_southern_edge_road_dusk",
+          "startFrame": 6179,
+          "endFrame": 6226,
+          "persistent": true
+        },
+        {
+          "nodeIndex": 2,
+          "nodeRole": "time_pin_push",
+          "assetId": "bg_pocket_southern_edge_road_dusk",
+          "startFrame": 6226,
+          "endFrame": 6273,
+          "persistent": true,
+          "triggerWord": "five",
+          "triggerFrame": 6209
+        },
+        {
+          "nodeIndex": 3,
+          "nodeRole": "task_force_abrams_entry",
+          "assetId": "real_creighton_abrams_cutout",
+          "startFrame": 6273,
+          "endFrame": 6321,
+          "persistent": true,
+          "triggerWord": "Abrams",
+          "triggerFrame": 6325
+        },
+        {
+          "nodeIndex": 4,
+          "nodeRole": "abrams_hold",
+          "assetId": "real_creighton_abrams_cutout",
+          "startFrame": 6321,
+          "endFrame": 6368,
+          "persistent": true
+        },
+        {
+          "nodeIndex": 5,
+          "nodeRole": "cobra_king_whip_in",
+          "assetId": "real_cobra_king_sherman_cutout",
+          "startFrame": 6368,
+          "endFrame": 6415,
+          "persistent": true,
+          "triggerWord": "Cobra",
+          "triggerFrame": 6372
+        },
+        {
+          "nodeIndex": 6,
+          "nodeRole": "cobra_king_hold",
+          "assetId": "real_cobra_king_sherman_cutout",
+          "startFrame": 6415,
+          "endFrame": 6462,
+          "persistent": true
+        },
+        {
+          "nodeIndex": 7,
+          "nodeRole": "engineers_company_c",
+          "assetId": "bg_pocket_southern_edge_road_dusk",
+          "startFrame": 6462,
+          "endFrame": 6509,
+          "persistent": true,
+          "triggerWord": "Company",
+          "triggerFrame": 6483
+        },
+        {
+          "nodeIndex": 8,
+          "nodeRole": "battalion_detail",
+          "assetId": "bg_pocket_southern_edge_road_dusk",
+          "startFrame": 6509,
+          "endFrame": 6557,
+          "persistent": true,
+          "triggerWord": "326th",
+          "triggerFrame": 6529
+        },
+        {
+          "nodeIndex": 9,
+          "nodeRole": "southern_edge_glide",
+          "assetId": "bg_pocket_southern_edge_road_dusk",
+          "startFrame": 6557,
+          "endFrame": 6604,
+          "persistent": true,
+          "triggerWord": "southern",
+          "triggerFrame": 6597
+        },
+        {
+          "nodeIndex": 10,
+          "nodeRole": "settle_on_road",
+          "assetId": "bg_pocket_southern_edge_road_dusk",
+          "startFrame": 6604,
+          "endFrame": 6651,
+          "persistent": true
+        }
+      ],
+      "keepPreviousNodesMounted": true,
+      "microActions": [
+        {
+          "triggerWord": "five",
+          "triggerFrame": 6209,
+          "type": "hud_timestamp_pin",
+          "badgeText": "16:50 • DEC 26, 1944"
+        },
+        {
+          "triggerWord": "Abrams",
+          "triggerFrame": 6325,
+          "type": "rank_badge_pin",
+          "badgeText": "TASK FORCE ABRAMS • 4TH ARMORED DIV."
+        }
+      ],
+      "propCutoutAssetId": "real_cobra_king_sherman_cutout"
+    },
+    {
+      "sceneId": "scene_35",
+      "stageType": "STAGE_1_FULL_BLEED_VINTAGE",
+      "startFrame": 6651,
+      "endFrame": 6720,
+      "durationInFrames": 69,
+      "spokenLine": "The road was open.",
+      "transitionIn": "tectonic_vertical_rise",
+      "assetId": "bg_pocket_southern_edge_road_dusk",
+      "aspectRatio": "16:9",
+      "treatment": {
+        "filmGrain": "35mm",
+        "liftedDarks": true,
+        "cameraDrift": {
+          "startScale": 1.0,
+          "endScale": 1.06,
+          "curve": "clamped_s_curve"
+        }
+      },
+      "microActions": [
+        {
+          "triggerWord": "road",
+          "triggerFrame": 6660,
+          "type": "road_line_light_up"
+        },
+        {
+          "triggerWord": "open",
+          "triggerFrame": 6683,
+          "type": "caption_pin",
+          "text": "ROAD OPEN"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_36",
+      "stageType": "STAGE_2_ARCHIVAL_BOARD",
+      "startFrame": 6720,
+      "endFrame": 6884,
+      "durationInFrames": 164,
+      "spokenLine": "The 101st did not leave. It went on fighting around Bastogne into January.",
+      "transitionIn": "archival_pip_over_fullbleed",
+      "mountedCardAssetId": "real_101st_paratroopers_bastogne_jan1945",
+      "board": {
+        "border": "16px solid #f6f4ee",
+        "surface": "dark_wood",
+        "dropShadow": "0 24px 48px rgba(0,0,0,0.55)",
+        "tiltDeg": -1.0,
+        "attributionStamp": "U.S. ARMY SIGNAL CORPS / NARA"
+      },
+      "inspectionZoom": {
+        "triggerWord": "fighting",
+        "triggerFrame": 6800,
+        "scale": 1.12
+      },
+      "microActions": [
+        {
+          "triggerWord": "January",
+          "triggerFrame": 6840,
+          "type": "hud_timestamp_pin",
+          "badgeText": "INTO JANUARY 1945"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_37",
+      "stageType": "STAGE_3_CANVAS_MONTAGE",
+      "startFrame": 6884,
+      "endFrame": 7097,
+      "durationInFrames": 213,
+      "spokenLine": "Makalov held that paper because he was the senior officer in camp when the two generals above him were in Washington and England.",
+      "transitionIn": "diagonal_shutter_wipe",
+      "montage": {
+        "canvasColor": "#141414",
+        "keepPreviousItemsVisible": true,
+        "items": [
+          {
+            "itemIndex": 1,
+            "assetId": "real_mcauliffe_general_portrait_board",
+            "aspectRatio": "1:1",
+            "triggerWord": "senior",
+            "triggerFrame": 6956,
+            "mountFrame": 6951,
+            "position": {
+              "slot": "left",
+              "tiltDeg": -2.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          },
+          {
+            "itemIndex": 2,
+            "assetId": "real_maxwell_taylor_cutout",
+            "aspectRatio": "3:4",
+            "triggerWord": "Washington",
+            "triggerFrame": 7040,
+            "mountFrame": 7035,
+            "position": {
+              "slot": "center",
+              "tiltDeg": 1.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          },
+          {
+            "itemIndex": 3,
+            "assetId": "real_gerald_higgins_portrait",
+            "aspectRatio": "4:3",
+            "triggerWord": "England",
+            "triggerFrame": 7063,
+            "mountFrame": 7058,
+            "position": {
+              "slot": "right",
+              "tiltDeg": 2.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          }
+        ]
+      },
+      "microActions": [
+        {
+          "triggerWord": "Washington",
+          "triggerFrame": 7040,
+          "type": "caption_pin",
+          "text": "MG TAYLOR • WASHINGTON"
+        },
+        {
+          "triggerWord": "England",
+          "triggerFrame": 7063,
+          "type": "caption_pin",
+          "text": "BG HIGGINS • ENGLAND"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_38",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 7097,
+      "endFrame": 7282,
+      "durationInFrames": 185,
+      "spokenLine": "The word came from his own reaction and a staff officer saw that it could serve as the reply.",
+      "transitionIn": "camera_pullback_through_monitor",
+      "parallaxVariant": "BRUSH_TITLE_TO_NEWSPAPER_CUTOUT",
+      "heroCutoutAssetId": "real_mcauliffe_portrait",
+      "propCutoutAssetId": "real_nuts_telegram",
+      "brushBanner": {
+        "text": "THE WORD",
+        "color": "#B3122A",
+        "triggerWord": "word",
+        "triggerFrame": 7104
+      },
+      "newspaperUnfold": {
+        "assetId": "real_nuts_telegram",
+        "triggerWord": "reply",
+        "triggerFrame": 7245,
+        "unfold": "3d_vertical"
+      },
+      "heroSpring": {
+        "assetId": "real_mcauliffe_portrait",
+        "triggerWord": "reaction",
+        "triggerFrame": 7145,
+        "framing": "waist-up",
+        "origin": "bottom_center"
+      }
+    },
+    {
+      "sceneId": "scene_39",
+      "stageType": "STAGE_1_FULL_BLEED_VINTAGE",
+      "startFrame": 7282,
+      "endFrame": 7438,
+      "durationInFrames": 156,
+      "spokenLine": "It committed him to the plan the room had already chosen, a defense in place.",
+      "transitionIn": "tectonic_vertical_rise",
+      "assetId": "bg_operations_room_map_table_dim",
+      "aspectRatio": "16:9",
+      "treatment": {
+        "filmGrain": "35mm",
+        "liftedDarks": true,
+        "cameraDrift": {
+          "startScale": 1.0,
+          "endScale": 1.04,
+          "curve": "clamped_s_curve"
+        }
+      },
+      "microActions": [
+        {
+          "triggerWord": "committed",
+          "triggerFrame": 7291,
+          "type": "caption_pin",
+          "text": "COMMITTED"
+        },
+        {
+          "triggerWord": "defense",
+          "triggerFrame": 7387,
+          "type": "caption_pin",
+          "text": "DEFENSE IN PLACE"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_40",
+      "stageType": "STAGE_3_CANVAS_MONTAGE",
+      "startFrame": 7438,
+      "endFrame": 7595,
+      "durationInFrames": 157,
+      "spokenLine": "And the clearing weather and the 4th Armored Division made that plan survivable.",
+      "transitionIn": "barrel_roll_stone_wipe",
+      "montage": {
+        "canvasColor": "#141414",
+        "keepPreviousItemsVisible": true,
+        "items": [
+          {
+            "itemIndex": 1,
+            "assetId": "real_supply_parachutes_bastogne_snow",
+            "aspectRatio": "4:3",
+            "triggerWord": "weather",
+            "triggerFrame": 7454,
+            "mountFrame": 7449,
+            "position": {
+              "slot": "left",
+              "tiltDeg": -2.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          },
+          {
+            "itemIndex": 2,
+            "assetId": "real_4th_armored_division_tanks_dec1944",
+            "aspectRatio": "4:3",
+            "triggerWord": "Armored",
+            "triggerFrame": 7493,
+            "mountFrame": 7488,
+            "position": {
+              "slot": "right",
+              "tiltDeg": 2.0
+            },
+            "entry": "pop_scale_1.06_to_1.00"
+          }
+        ]
+      },
+      "microActions": [
+        {
+          "triggerWord": "survivable",
+          "triggerFrame": 7545,
+          "type": "caption_pin",
+          "text": "SURVIVABLE"
+        }
+      ]
+    },
+    {
+      "sceneId": "scene_41",
+      "stageType": "STAGE_4_PARALLAX_CUTOUT",
+      "startFrame": 7595,
+      "endFrame": 7708,
+      "durationInFrames": 113,
+      "spokenLine": "Maxwell Taylor rejoined the division that night and took command back.",
+      "transitionIn": "foreground_pillar_whip_wipe",
+      "parallaxVariant": "STANDARD_2_5D_PARALLAX",
+      "bgAssetId": "bg_dim_command_post_interior",
+      "heroCutoutAssetId": "real_maxwell_taylor_cutout",
+      "cameraPush": {
+        "startScale": 1.0,
+        "endScale": 1.18,
+        "curve": "forward_push_through"
+      },
+      "layers": [
+        {
+          "layerRole": "background_plate",
+          "assetId": "bg_dim_command_post_interior",
+          "zIndex": 1,
+          "mountFrame": 7595
+        },
+        {
+          "layerRole": "midground_hero_cutout",
+          "assetId": "real_maxwell_taylor_cutout",
+          "zIndex": 3,
+          "triggerWord": "Taylor",
+          "triggerFrame": 7606,
+          "mountFrame": 7601,
+          "keepMountedInWorld": true,
+          "position": {
+            "bottomOffsetPx": 0,
+            "horizontalAlign": "center"
+          },
+          "framing": "waist-up"
+        },
+        {
+          "layerRole": "foreground_flank_silhouette",
+          "assetId": "cutout_fg_doorframe_lamp_silhouette",
+          "zIndex": 5,
+          "triggerWord": "rejoined",
+          "triggerFrame": 7618,
+          "mountFrame": 7613,
+          "keepMountedInWorld": true,
+          "lensOcclusion": {
+            "scale": 1.35,
+            "filter": "blur(8px)"
+          }
+        }
+      ],
+      "microActions": [
+        {
+          "triggerWord": "command",
+          "triggerFrame": 7677,
+          "type": "rank_badge_pin",
+          "badgeText": "MG MAXWELL TAYLOR • COMMAND RESUMED"
+        }
+      ]
+    }
+  ]
+}

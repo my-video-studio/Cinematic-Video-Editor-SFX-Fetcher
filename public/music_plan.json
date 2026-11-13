@@ -1,0 +1,50 @@
+[
+  {
+    "act_id": 1,
+    "title": "Act 1: Dawn Awakening & The German Surrender Ultimatum",
+    "track_file": "tense-suspense-background-music-320439.mp3",
+    "mood": "suspense",
+    "start_s": 0,
+    "end_s": 48.27
+  },
+  {
+    "act_id": 2,
+    "title": "Act 2: Inside the Cellar — Crafting & Typing the Reply",
+    "track_file": "against-the-clock-urgent-builder-instrumental-177815.mp3",
+    "mood": "urgent_tension",
+    "start_s": 48.27,
+    "end_s": 87.67
+  },
+  {
+    "act_id": 3,
+    "title": "Act 3: Delivery Across the Snow Line & The Plan Holds",
+    "track_file": "intense-orchestral-piece-anxiety-and-suspense-284211.mp3",
+    "mood": "anxiety_suspense",
+    "start_s": 87.67,
+    "end_s": 146.3
+  },
+  {
+    "act_id": 4,
+    "title": "Act 4: Clearing Skies, C-47 Airdrops & The Christmas Eve Raid",
+    "track_file": "dark-and-sad-epic-dramatic-cinematic-254261.mp3",
+    "mood": "war_tragedy",
+    "start_s": 146.3,
+    "end_s": 185.67
+  },
+  {
+    "act_id": 5,
+    "title": "Act 5: Christmas Morning Assault & Cobra King Reopens Bastogne",
+    "track_file": "epic-battle-orchestral_789290_epic_soundtrack_with_choir_and_strings_for_video_g.mp3",
+    "mood": "epic_battle",
+    "start_s": 185.67,
+    "end_s": 224
+  },
+  {
+    "act_id": 6,
+    "title": "Act 6: The Meaning of the Word & Taylor Rejoins the 101st",
+    "track_file": "A_deep,_emotional_ci.mp3",
+    "mood": "emotional_gravity",
+    "start_s": 224,
+    "end_s": 256.93
+  }
+]

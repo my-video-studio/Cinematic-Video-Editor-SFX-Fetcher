@@ -1,0 +1,4772 @@
+{
+  "language": "en",
+  "language_probability": 0.998,
+  "duration": 256.935,
+  "text": "Moore woke him and told him the Germans had sent men forward to take the American surrender. According to Moore's account to the Army historian S. L. A. Marshall, McAuliffe's first answer was a single word. Nuts. In the operations room, he read the type sheets. By Canard's account, he asked whether the Germans wanted to surrender. Canard told him, No, sir, they want us to surrender. McAuliffe said, us surrender? Ah, nuts. And crumpled the paper. He then left to visit a unit on the west side of the perimeter that had beaten off a German probe. According to the staff accounts, nobody in the room argued for giving up. The only open matter was what to say, and the two hours were running down. When McAuliffe came back, Moore reminded him that the four Germans were still waiting at the company F outpost and that Custom called for a written reply. McAuliffe sat down with a pencil and paper and said he did not know what to tell them. Canard answered that what the general had said at first would be hard to beat. McAuliffe asked what he meant. Canard said, Sir, you said nuts. The staff officers in the room laughed and agreed. McAuliffe dictated the reply, and the sergeant typed it centered on a single sheet. To the German commander, N-U-T-S. The American commander. That was all of it. Colonel Joseph Harper of the 327th Glider Infantry took the sheet to the outpost. McAuliffe told him to hand it over and not to go into the German lines. Hanke read it and asked whether the reply was negative or affirmative, and if it was affirmative, he would negotiate further. Harper told him it was decidedly not affirmative, and that if the Germans kept attacking, their losses would be tremendous. Private First Class Ernest Premitz put the meaning into German as a suggestion to go to the devil. Hanke's last words in Harper's account were that the Germans would kill many Americans and that this was war. He and Wagner saluted and walked back toward their lines. The word did not change the plan. The decision it announced was the one the staff had already made to stay inside the circle and hold it with 10 rounds of gun and a relief column of unknown arrival. The artillery bombardment the note promised did not come. On December 23, the cold front cleared the sky and 241 C-47 transports dropped 144 tons of ammunition, medical supplies and rations into the perimeter, while P-47 fighters struck German armor around the town. That night, December 24, German bombers raided Bastogne, a direct hit on the aid station of Combat Command B killed a Belgian nurse, René Le Maire, and about 30 wounded American soldiers. Makalov's Christmas message given to every man in the pocket told them the story of the surrender demand and the reply. On Christmas morning, the German 15th Panzer Grenadier Division and the 26th Volksgrenadier Division attacked the Western perimeter. 18 German tanks broke through the line and the 502nd Parachute Infantry, the 327th Glider Infantry and the 705th Tank Destroyer Battalion destroyed all of them. At 10 minutes to five on the afternoon of December 26, the lead tank of Task Force Abrams, a Sherman named Cobra King from the 4th Armored Division, reached the engineers of Company C, 326th Airborne Engineer Battalion at the southern edge of the pocket. The road was open. The 101st did not leave. It went on fighting around Bastogne into January. Makalov held that paper because he was the senior officer in camp when the two generals above him were in Washington and England. The word came from his own reaction and a staff officer saw that it could serve as the reply. It committed him to the plan the room had already chosen, a defense in place. And the clearing weather and the 4th Armored Division made that plan survivable. Maxwell Taylor rejoined the division that night and took command back.",
+  "segments": [
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.56,
+      "text": "Moore woke him and told him the Germans had sent men forward to take the American surrender.",
+      "words": [
+        {
+          "word": "Moore",
+          "start": 0.0,
+          "end": 0.5,
+          "probability": 0.567
+        },
+        {
+          "word": "woke",
+          "start": 0.5,
+          "end": 0.88,
+          "probability": 0.972
+        },
+        {
+          "word": "him",
+          "start": 0.88,
+          "end": 1.04,
+          "probability": 0.997
+        },
+        {
+          "word": "and",
+          "start": 1.04,
+          "end": 1.62,
+          "probability": 0.875
+        },
+        {
+          "word": "told",
+          "start": 1.62,
+          "end": 1.92,
+          "probability": 0.998
+        },
+        {
+          "word": "him",
+          "start": 1.92,
+          "end": 2.16,
+          "probability": 0.999
+        },
+        {
+          "word": "the",
+          "start": 2.16,
+          "end": 2.32,
+          "probability": 0.989
+        },
+        {
+          "word": "Germans",
+          "start": 2.32,
+          "end": 2.68,
+          "probability": 0.997
+        },
+        {
+          "word": "had",
+          "start": 2.68,
+          "end": 3.02,
+          "probability": 0.997
+        },
+        {
+          "word": "sent",
+          "start": 3.02,
+          "end": 3.3,
+          "probability": 0.998
+        },
+        {
+          "word": "men",
+          "start": 3.3,
+          "end": 3.48,
+          "probability": 0.996
+        },
+        {
+          "word": "forward",
+          "start": 3.48,
+          "end": 3.96,
+          "probability": 0.995
+        },
+        {
+          "word": "to",
+          "start": 3.96,
+          "end": 4.2,
+          "probability": 0.995
+        },
+        {
+          "word": "take",
+          "start": 4.2,
+          "end": 4.46,
+          "probability": 0.992
+        },
+        {
+          "word": "the",
+          "start": 4.46,
+          "end": 4.66,
+          "probability": 0.997
+        },
+        {
+          "word": "American",
+          "start": 4.66,
+          "end": 5.02,
+          "probability": 0.911
+        },
+        {
+          "word": "surrender.",
+          "start": 5.02,
+          "end": 5.56,
+          "probability": 0.873
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.14,
+      "end": 9.86,
+      "text": "According to Moore's account to the Army historian S. L. A. Marshall,",
+      "words": [
+        {
+          "word": "According",
+          "start": 6.14,
+          "end": 6.72,
+          "probability": 0.996
+        },
+        {
+          "word": "to",
+          "start": 6.72,
+          "end": 6.96,
+          "probability": 0.996
+        },
+        {
+          "word": "Moore's",
+          "start": 6.96,
+          "end": 7.34,
+          "probability": 0.995
+        },
+        {
+          "word": "account",
+          "start": 7.34,
+          "end": 7.62,
+          "probability": 0.993
+        },
+        {
+          "word": "to",
+          "start": 7.62,
+          "end": 7.84,
+          "probability": 0.992
+        },
+        {
+          "word": "the",
+          "start": 7.84,
+          "end": 7.94,
+          "probability": 0.996
+        },
+        {
+          "word": "Army",
+          "start": 7.94,
+          "end": 8.24,
+          "probability": 0.608
+        },
+        {
+          "word": "historian",
+          "start": 8.24,
+          "end": 8.7,
+          "probability": 0.625
+        },
+        {
+          "word": "S.",
+          "start": 8.7,
+          "end": 9.14,
+          "probability": 0.967
+        },
+        {
+          "word": "L.",
+          "start": 9.26,
+          "end": 9.36,
+          "probability": 0.525
+        },
+        {
+          "word": "A.",
+          "start": 9.44,
+          "end": 9.48,
+          "probability": 0.745
+        },
+        {
+          "word": "Marshall,",
+          "start": 9.66,
+          "end": 9.86,
+          "probability": 0.938
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.58,
+      "end": 12.78,
+      "text": "McAuliffe's first answer was a single word.",
+      "words": [
+        {
+          "word": "McAuliffe's",
+          "start": 10.58,
+          "end": 11.16,
+          "probability": 0.808
+        },
+        {
+          "word": "first",
+          "start": 11.16,
+          "end": 11.28,
+          "probability": 0.998
+        },
+        {
+          "word": "answer",
+          "start": 11.28,
+          "end": 11.74,
+          "probability": 0.997
+        },
+        {
+          "word": "was",
+          "start": 11.74,
+          "end": 12.04,
+          "probability": 0.999
+        },
+        {
+          "word": "a",
+          "start": 12.04,
+          "end": 12.22,
+          "probability": 0.997
+        },
+        {
+          "word": "single",
+          "start": 12.22,
+          "end": 12.46,
+          "probability": 0.999
+        },
+        {
+          "word": "word.",
+          "start": 12.46,
+          "end": 12.78,
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 13.89,
+      "end": 14.21,
+      "text": "Nuts.",
+      "words": [
+        {
+          "word": "Nuts.",
+          "start": 13.89,
+          "end": 14.21,
+          "probability": 0.818
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 14.81,
+      "end": 17.61,
+      "text": "In the operations room, he read the type sheets.",
+      "words": [
+        {
+          "word": "In",
+          "start": 14.81,
+          "end": 15.17,
+          "probability": 0.983
+        },
+        {
+          "word": "the",
+          "start": 15.17,
+          "end": 15.29,
+          "probability": 0.998
+        },
+        {
+          "word": "operations",
+          "start": 15.29,
+          "end": 15.75,
+          "probability": 0.704
+        },
+        {
+          "word": "room,",
+          "start": 15.75,
+          "end": 16.13,
+          "probability": 0.99
+        },
+        {
+          "word": "he",
+          "start": 16.37,
+          "end": 16.57,
+          "probability": 0.998
+        },
+        {
+          "word": "read",
+          "start": 16.57,
+          "end": 16.81,
+          "probability": 0.998
+        },
+        {
+          "word": "the",
+          "start": 16.81,
+          "end": 17.03,
+          "probability": 0.999
+        },
+        {
+          "word": "type",
+          "start": 17.03,
+          "end": 17.23,
+          "probability": 0.91
+        },
+        {
+          "word": "sheets.",
+          "start": 17.23,
+          "end": 17.61,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 18.57,
+      "end": 22.19,
+      "text": "By Canard's account, he asked whether the Germans wanted to surrender.",
+      "words": [
+        {
+          "word": "By",
+          "start": 18.57,
+          "end": 18.81,
+          "probability": 0.991
+        },
+        {
+          "word": "Canard's",
+          "start": 18.81,
+          "end": 19.29,
+          "probability": 0.772
+        },
+        {
+          "word": "account,",
+          "start": 19.29,
+          "end": 19.57,
+          "probability": 0.999
+        },
+        {
+          "word": "he",
+          "start": 20.03,
+          "end": 20.21,
+          "probability": 0.998
+        },
+        {
+          "word": "asked",
+          "start": 20.21,
+          "end": 20.53,
+          "probability": 0.998
+        },
+        {
+          "word": "whether",
+          "start": 20.53,
+          "end": 20.79,
+          "probability": 0.996
+        },
+        {
+          "word": "the",
+          "start": 20.79,
+          "end": 20.97,
+          "probability": 0.999
+        },
+        {
+          "word": "Germans",
+          "start": 20.97,
+          "end": 21.27,
+          "probability": 0.998
+        },
+        {
+          "word": "wanted",
+          "start": 21.27,
+          "end": 21.69,
+          "probability": 0.998
+        },
+        {
+          "word": "to",
+          "start": 21.69,
+          "end": 21.89,
+          "probability": 0.997
+        },
+        {
+          "word": "surrender.",
+          "start": 21.89,
+          "end": 22.19,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 22.97,
+      "end": 26.19,
+      "text": "Canard told him, No, sir, they want us to surrender.",
+      "words": [
+        {
+          "word": "Canard",
+          "start": 22.97,
+          "end": 23.47,
+          "probability": 0.991
+        },
+        {
+          "word": "told",
+          "start": 23.47,
+          "end": 23.73,
+          "probability": 0.998
+        },
+        {
+          "word": "him,",
+          "start": 23.73,
+          "end": 24.01,
+          "probability": 0.998
+        },
+        {
+          "word": "No,",
+          "start": 24.37,
+          "end": 24.51,
+          "probability": 0.144
+        },
+        {
+          "word": "sir,",
+          "start": 24.63,
+          "end": 24.73,
+          "probability": 0.886
+        },
+        {
+          "word": "they",
+          "start": 25.17,
+          "end": 25.25,
+          "probability": 0.995
+        },
+        {
+          "word": "want",
+          "start": 25.25,
+          "end": 25.47,
+          "probability": 0.998
+        },
+        {
+          "word": "us",
+          "start": 25.47,
+          "end": 25.69,
+          "probability": 0.99
+        },
+        {
+          "word": "to",
+          "start": 25.69,
+          "end": 25.85,
+          "probability": 0.999
+        },
+        {
+          "word": "surrender.",
+          "start": 25.85,
+          "end": 26.19,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 26.93,
+      "end": 28.93,
+      "text": "McAuliffe said, us surrender?",
+      "words": [
+        {
+          "word": "McAuliffe",
+          "start": 26.93,
+          "end": 27.51,
+          "probability": 0.989
+        },
+        {
+          "word": "said,",
+          "start": 27.51,
+          "end": 27.79,
+          "probability": 0.998
+        },
+        {
+          "word": "us",
+          "start": 28.25,
+          "end": 28.45,
+          "probability": 0.537
+        },
+        {
+          "word": "surrender?",
+          "start": 28.45,
+          "end": 28.93,
+          "probability": 0.666
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2858,
+      "start": 29.55,
+      "end": 30.37,
+      "text": "Ah, nuts.",
+      "words": [
+        {
+          "word": "Ah,",
+          "start": 29.55,
+          "end": 30.07,
+          "probability": 0.108
+        },
+        {
+          "word": "nuts.",
+          "start": 30.19,
+          "end": 30.37,
+          "probability": 0.993
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2858,
+      "start": 31.21,
+      "end": 32.17,
+      "text": "And crumpled the paper.",
+      "words": [
+        {
+          "word": "And",
+          "start": 31.21,
+          "end": 31.37,
+          "probability": 0.917
+        },
+        {
+          "word": "crumpled",
+          "start": 31.37,
+          "end": 31.77,
+          "probability": 0.975
+        },
+        {
+          "word": "the",
+          "start": 31.77,
+          "end": 31.93,
+          "probability": 0.995
+        },
+        {
+          "word": "paper.",
+          "start": 31.93,
+          "end": 32.17,
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2858,
+      "start": 33.2,
+      "end": 38.0,
+      "text": "He then left to visit a unit on the west side of the perimeter that had beaten off a German probe.",
+      "words": [
+        {
+          "word": "He",
+          "start": 33.2,
+          "end": 33.42,
+          "probability": 0.992
+        },
+        {
+          "word": "then",
+          "start": 33.42,
+          "end": 33.6,
+          "probability": 0.993
+        },
+        {
+          "word": "left",
+          "start": 33.6,
+          "end": 33.82,
+          "probability": 0.996
+        },
+        {
+          "word": "to",
+          "start": 33.82,
+          "end": 34.02,
+          "probability": 0.998
+        },
+        {
+          "word": "visit",
+          "start": 34.02,
+          "end": 34.2,
+          "probability": 0.997
+        },
+        {
+          "word": "a",
+          "start": 34.2,
+          "end": 34.4,
+          "probability": 0.996
+        },
+        {
+          "word": "unit",
+          "start": 34.4,
+          "end": 34.68,
+          "probability": 0.998
+        },
+        {
+          "word": "on",
+          "start": 34.68,
+          "end": 34.84,
+          "probability": 0.995
+        },
+        {
+          "word": "the",
+          "start": 34.84,
+          "end": 34.94,
+          "probability": 0.999
+        },
+        {
+          "word": "west",
+          "start": 34.94,
+          "end": 35.16,
+          "probability": 0.94
+        },
+        {
+          "word": "side",
+          "start": 35.16,
+          "end": 35.48,
+          "probability": 0.989
+        },
+        {
+          "word": "of",
+          "start": 35.48,
+          "end": 35.58,
+          "probability": 0.998
+        },
+        {
+          "word": "the",
+          "start": 35.58,
+          "end": 35.7,
+          "probability": 0.997
+        },
+        {
+          "word": "perimeter",
+          "start": 35.7,
+          "end": 36.04,
+          "probability": 0.993
+        },
+        {
+          "word": "that",
+          "start": 36.04,
+          "end": 36.5,
+          "probability": 0.952
+        },
+        {
+          "word": "had",
+          "start": 36.5,
+          "end": 36.62,
+          "probability": 0.995
+        },
+        {
+          "word": "beaten",
+          "start": 36.62,
+          "end": 36.86,
+          "probability": 0.995
+        },
+        {
+          "word": "off",
+          "start": 36.86,
+          "end": 37.16,
+          "probability": 0.994
+        },
+        {
+          "word": "a",
+          "start": 37.16,
+          "end": 37.34,
+          "probability": 0.99
+        },
+        {
+          "word": "German",
+          "start": 37.34,
+          "end": 37.56,
+          "probability": 0.987
+        },
+        {
+          "word": "probe.",
+          "start": 37.56,
+          "end": 38.0,
+          "probability": 0.968
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2858,
+      "start": 38.92,
+      "end": 43.0,
+      "text": "According to the staff accounts, nobody in the room argued for giving up.",
+      "words": [
+        {
+          "word": "According",
+          "start": 38.92,
+          "end": 39.36,
+          "probability": 0.996
+        },
+        {
+          "word": "to",
+          "start": 39.36,
+          "end": 39.6,
+          "probability": 0.998
+        },
+        {
+          "word": "the",
+          "start": 39.6,
+          "end": 39.74,
+          "probability": 0.988
+        },
+        {
+          "word": "staff",
+          "start": 39.74,
+          "end": 39.94,
+          "probability": 0.997
+        },
+        {
+          "word": "accounts,",
+          "start": 39.94,
+          "end": 40.42,
+          "probability": 0.975
+        },
+        {
+          "word": "nobody",
+          "start": 40.9,
+          "end": 41.34,
+          "probability": 0.989
+        },
+        {
+          "word": "in",
+          "start": 41.34,
+          "end": 41.58,
+          "probability": 0.999
+        },
+        {
+          "word": "the",
+          "start": 41.58,
+          "end": 41.66,
+          "probability": 0.999
+        },
+        {
+          "word": "room",
+          "start": 41.66,
+          "end": 41.92,
+          "probability": 0.997
+        },
+        {
+          "word": "argued",
+          "start": 41.92,
+          "end": 42.38,
+          "probability": 0.996
+        },
+        {
+          "word": "for",
+          "start": 42.38,
+          "end": 42.58,
+          "probability": 0.84
+        },
+        {
+          "word": "giving",
+          "start": 42.58,
+          "end": 42.76,
+          "probability": 0.998
+        },
+        {
+          "word": "up.",
+          "start": 42.76,
+          "end": 43.0,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2858,
+      "start": 43.48,
+      "end": 47.54,
+      "text": "The only open matter was what to say, and the two hours were running down.",
+      "words": [
+        {
+          "word": "The",
+          "start": 43.48,
+          "end": 43.8,
+          "probability": 0.996
+        },
+        {
+          "word": "only",
+          "start": 43.8,
+          "end": 43.98,
+          "probability": 0.99
+        },
+        {
+          "word": "open",
+          "start": 43.98,
+          "end": 44.24,
+          "probability": 0.997
+        },
+        {
+          "word": "matter",
+          "start": 44.24,
+          "end": 44.54,
+          "probability": 0.996
+        },
+        {
+          "word": "was",
+          "start": 44.54,
+          "end": 44.78,
+          "probability": 0.999
+        },
+        {
+          "word": "what",
+          "start": 44.78,
+          "end": 45.0,
+          "probability": 0.986
+        },
+        {
+          "word": "to",
+          "start": 45.0,
+          "end": 45.14,
+          "probability": 0.998
+        },
+        {
+          "word": "say,",
+          "start": 45.14,
+          "end": 45.46,
+          "probability": 0.999
+        },
+        {
+          "word": "and",
+          "start": 45.76,
+          "end": 46.08,
+          "probability": 0.996
+        },
+        {
+          "word": "the",
+          "start": 46.08,
+          "end": 46.2,
+          "probability": 0.998
+        },
+        {
+          "word": "two",
+          "start": 46.2,
+          "end": 46.42,
+          "probability": 0.987
+        },
+        {
+          "word": "hours",
+          "start": 46.42,
+          "end": 46.72,
+          "probability": 0.997
+        },
+        {
+          "word": "were",
+          "start": 46.72,
+          "end": 46.98,
+          "probability": 0.997
+        },
+        {
+          "word": "running",
+          "start": 46.98,
+          "end": 47.26,
+          "probability": 0.999
+        },
+        {
+          "word": "down.",
+          "start": 47.26,
+          "end": 47.54,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2858,
+      "start": 48.26,
+      "end": 53.9,
+      "text": "When McAuliffe came back, Moore reminded him that the four Germans were still waiting at the company F outpost",
+      "words": [
+        {
+          "word": "When",
+          "start": 48.26,
+          "end": 48.44,
+          "probability": 0.994
+        },
+        {
+          "word": "McAuliffe",
+          "start": 48.44,
+          "end": 48.84,
+          "probability": 0.77
+        },
+        {
+          "word": "came",
+          "start": 48.84,
+          "end": 49.06,
+          "probability": 0.999
+        },
+        {
+          "word": "back,",
+          "start": 49.06,
+          "end": 49.34,
+          "probability": 0.999
+        },
+        {
+          "word": "Moore",
+          "start": 49.84,
+          "end": 50.02,
+          "probability": 0.886
+        },
+        {
+          "word": "reminded",
+          "start": 50.02,
+          "end": 50.46,
+          "probability": 0.994
+        },
+        {
+          "word": "him",
+          "start": 50.46,
+          "end": 50.68,
+          "probability": 0.998
+        },
+        {
+          "word": "that",
+          "start": 50.68,
+          "end": 50.86,
+          "probability": 0.993
+        },
+        {
+          "word": "the",
+          "start": 50.86,
+          "end": 51.0,
+          "probability": 0.996
+        },
+        {
+          "word": "four",
+          "start": 51.0,
+          "end": 51.26,
+          "probability": 0.984
+        },
+        {
+          "word": "Germans",
+          "start": 51.26,
+          "end": 51.64,
+          "probability": 0.997
+        },
+        {
+          "word": "were",
+          "start": 51.64,
+          "end": 51.88,
+          "probability": 0.995
+        },
+        {
+          "word": "still",
+          "start": 51.88,
+          "end": 52.18,
+          "probability": 0.998
+        },
+        {
+          "word": "waiting",
+          "start": 52.18,
+          "end": 52.5,
+          "probability": 0.998
+        },
+        {
+          "word": "at",
+          "start": 52.5,
+          "end": 52.76,
+          "probability": 0.997
+        },
+        {
+          "word": "the",
+          "start": 52.76,
+          "end": 52.84,
+          "probability": 0.996
+        },
+        {
+          "word": "company",
+          "start": 52.84,
+          "end": 53.14,
+          "probability": 0.81
+        },
+        {
+          "word": "F",
+          "start": 53.14,
+          "end": 53.42,
+          "probability": 0.793
+        },
+        {
+          "word": "outpost",
+          "start": 53.42,
+          "end": 53.9,
+          "probability": 0.839
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2858,
+      "start": 53.9,
+      "end": 56.4,
+      "text": "and that Custom called for a written reply.",
+      "words": [
+        {
+          "word": "and",
+          "start": 53.9,
+          "end": 54.52,
+          "probability": 0.346
+        },
+        {
+          "word": "that",
+          "start": 54.52,
+          "end": 54.66,
+          "probability": 0.997
+        },
+        {
+          "word": "Custom",
+          "start": 54.66,
+          "end": 54.96,
+          "probability": 0.623
+        },
+        {
+          "word": "called",
+          "start": 54.96,
+          "end": 55.36,
+          "probability": 0.996
+        },
+        {
+          "word": "for",
+          "start": 55.36,
+          "end": 55.56,
+          "probability": 0.999
+        },
+        {
+          "word": "a",
+          "start": 55.56,
+          "end": 55.68,
+          "probability": 0.998
+        },
+        {
+          "word": "written",
+          "start": 55.68,
+          "end": 55.94,
+          "probability": 0.998
+        },
+        {
+          "word": "reply.",
+          "start": 55.94,
+          "end": 56.4,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5566,
+      "start": 57.12,
+      "end": 61.04,
+      "text": "McAuliffe sat down with a pencil and paper and said he did not know what to tell them.",
+      "words": [
+        {
+          "word": "McAuliffe",
+          "start": 57.12,
+          "end": 57.64,
+          "probability": 0.693
+        },
+        {
+          "word": "sat",
+          "start": 57.64,
+          "end": 57.82,
+          "probability": 0.808
+        },
+        {
+          "word": "down",
+          "start": 57.82,
+          "end": 58.08,
+          "probability": 0.997
+        },
+        {
+          "word": "with",
+          "start": 58.08,
+          "end": 58.2,
+          "probability": 0.989
+        },
+        {
+          "word": "a",
+          "start": 58.2,
+          "end": 58.3,
+          "probability": 0.925
+        },
+        {
+          "word": "pencil",
+          "start": 58.3,
+          "end": 58.56,
+          "probability": 0.993
+        },
+        {
+          "word": "and",
+          "start": 58.56,
+          "end": 58.76,
+          "probability": 0.954
+        },
+        {
+          "word": "paper",
+          "start": 58.76,
+          "end": 59.04,
+          "probability": 0.997
+        },
+        {
+          "word": "and",
+          "start": 59.04,
+          "end": 59.56,
+          "probability": 0.808
+        },
+        {
+          "word": "said",
+          "start": 59.56,
+          "end": 59.74,
+          "probability": 0.995
+        },
+        {
+          "word": "he",
+          "start": 59.74,
+          "end": 59.9,
+          "probability": 0.979
+        },
+        {
+          "word": "did",
+          "start": 59.9,
+          "end": 60.02,
+          "probability": 0.981
+        },
+        {
+          "word": "not",
+          "start": 60.02,
+          "end": 60.2,
+          "probability": 0.997
+        },
+        {
+          "word": "know",
+          "start": 60.2,
+          "end": 60.4,
+          "probability": 0.998
+        },
+        {
+          "word": "what",
+          "start": 60.4,
+          "end": 60.56,
+          "probability": 0.999
+        },
+        {
+          "word": "to",
+          "start": 60.56,
+          "end": 60.72,
+          "probability": 0.998
+        },
+        {
+          "word": "tell",
+          "start": 60.72,
+          "end": 60.82,
+          "probability": 0.997
+        },
+        {
+          "word": "them.",
+          "start": 60.82,
+          "end": 61.04,
+          "probability": 0.994
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5566,
+      "start": 61.7,
+      "end": 65.7,
+      "text": "Canard answered that what the general had said at first would be hard to beat.",
+      "words": [
+        {
+          "word": "Canard",
+          "start": 61.7,
+          "end": 62.22,
+          "probability": 0.626
+        },
+        {
+          "word": "answered",
+          "start": 62.22,
+          "end": 62.62,
+          "probability": 0.99
+        },
+        {
+          "word": "that",
+          "start": 62.62,
+          "end": 62.94,
+          "probability": 0.979
+        },
+        {
+          "word": "what",
+          "start": 62.94,
+          "end": 63.2,
+          "probability": 0.906
+        },
+        {
+          "word": "the",
+          "start": 63.2,
+          "end": 63.36,
+          "probability": 0.995
+        },
+        {
+          "word": "general",
+          "start": 63.36,
+          "end": 63.68,
+          "probability": 0.733
+        },
+        {
+          "word": "had",
+          "start": 63.68,
+          "end": 63.9,
+          "probability": 0.98
+        },
+        {
+          "word": "said",
+          "start": 63.9,
+          "end": 64.06,
+          "probability": 0.997
+        },
+        {
+          "word": "at",
+          "start": 64.06,
+          "end": 64.2,
+          "probability": 0.966
+        },
+        {
+          "word": "first",
+          "start": 64.2,
+          "end": 64.5,
+          "probability": 0.999
+        },
+        {
+          "word": "would",
+          "start": 64.5,
+          "end": 65.06,
+          "probability": 0.965
+        },
+        {
+          "word": "be",
+          "start": 65.06,
+          "end": 65.2,
+          "probability": 0.994
+        },
+        {
+          "word": "hard",
+          "start": 65.2,
+          "end": 65.38,
+          "probability": 0.962
+        },
+        {
+          "word": "to",
+          "start": 65.38,
+          "end": 65.5,
+          "probability": 0.999
+        },
+        {
+          "word": "beat.",
+          "start": 65.5,
+          "end": 65.7,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5566,
+      "start": 66.42,
+      "end": 67.58,
+      "text": "McAuliffe asked what he meant.",
+      "words": [
+        {
+          "word": "McAuliffe",
+          "start": 66.42,
+          "end": 66.86,
+          "probability": 0.989
+        },
+        {
+          "word": "asked",
+          "start": 66.86,
+          "end": 67.1,
+          "probability": 0.995
+        },
+        {
+          "word": "what",
+          "start": 67.1,
+          "end": 67.28,
+          "probability": 0.997
+        },
+        {
+          "word": "he",
+          "start": 67.28,
+          "end": 67.36,
+          "probability": 0.998
+        },
+        {
+          "word": "meant.",
+          "start": 67.36,
+          "end": 67.58,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5566,
+      "start": 68.14,
+      "end": 70.68,
+      "text": "Canard said, Sir, you said nuts.",
+      "words": [
+        {
+          "word": "Canard",
+          "start": 68.14,
+          "end": 68.66,
+          "probability": 0.967
+        },
+        {
+          "word": "said,",
+          "start": 68.66,
+          "end": 68.92,
+          "probability": 0.998
+        },
+        {
+          "word": "Sir,",
+          "start": 69.36,
+          "end": 69.8,
+          "probability": 0.029
+        },
+        {
+          "word": "you",
+          "start": 70.12,
+          "end": 70.22,
+          "probability": 0.987
+        },
+        {
+          "word": "said",
+          "start": 70.22,
+          "end": 70.42,
+          "probability": 0.997
+        },
+        {
+          "word": "nuts.",
+          "start": 70.42,
+          "end": 70.68,
+          "probability": 0.851
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5566,
+      "start": 71.44,
+      "end": 73.7,
+      "text": "The staff officers in the room laughed and agreed.",
+      "words": [
+        {
+          "word": "The",
+          "start": 71.44,
+          "end": 71.64,
+          "probability": 0.995
+        },
+        {
+          "word": "staff",
+          "start": 71.64,
+          "end": 71.9,
+          "probability": 0.991
+        },
+        {
+          "word": "officers",
+          "start": 71.9,
+          "end": 72.26,
+          "probability": 0.995
+        },
+        {
+          "word": "in",
+          "start": 72.26,
+          "end": 72.46,
+          "probability": 0.998
+        },
+        {
+          "word": "the",
+          "start": 72.46,
+          "end": 72.56,
+          "probability": 0.999
+        },
+        {
+          "word": "room",
+          "start": 72.56,
+          "end": 72.7,
+          "probability": 0.998
+        },
+        {
+          "word": "laughed",
+          "start": 72.7,
+          "end": 73.08,
+          "probability": 0.989
+        },
+        {
+          "word": "and",
+          "start": 73.08,
+          "end": 73.44,
+          "probability": 0.962
+        },
+        {
+          "word": "agreed.",
+          "start": 73.44,
+          "end": 73.7,
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5566,
+      "start": 74.73,
+      "end": 79.15,
+      "text": "McAuliffe dictated the reply, and the sergeant typed it centered on a single sheet.",
+      "words": [
+        {
+          "word": "McAuliffe",
+          "start": 74.73,
+          "end": 75.21,
+          "probability": 0.992
+        },
+        {
+          "word": "dictated",
+          "start": 75.21,
+          "end": 75.67,
+          "probability": 0.999
+        },
+        {
+          "word": "the",
+          "start": 75.67,
+          "end": 75.83,
+          "probability": 0.998
+        },
+        {
+          "word": "reply,",
+          "start": 75.83,
+          "end": 76.19,
+          "probability": 0.999
+        },
+        {
+          "word": "and",
+          "start": 76.53,
+          "end": 76.81,
+          "probability": 0.994
+        },
+        {
+          "word": "the",
+          "start": 76.81,
+          "end": 76.89,
+          "probability": 0.993
+        },
+        {
+          "word": "sergeant",
+          "start": 76.89,
+          "end": 77.27,
+          "probability": 0.939
+        },
+        {
+          "word": "typed",
+          "start": 77.27,
+          "end": 77.55,
+          "probability": 0.982
+        },
+        {
+          "word": "it",
+          "start": 77.55,
+          "end": 77.75,
+          "probability": 0.999
+        },
+        {
+          "word": "centered",
+          "start": 77.75,
+          "end": 78.27,
+          "probability": 0.448
+        },
+        {
+          "word": "on",
+          "start": 78.27,
+          "end": 78.51,
+          "probability": 0.999
+        },
+        {
+          "word": "a",
+          "start": 78.51,
+          "end": 78.61,
+          "probability": 0.997
+        },
+        {
+          "word": "single",
+          "start": 78.61,
+          "end": 78.81,
+          "probability": 0.998
+        },
+        {
+          "word": "sheet.",
+          "start": 78.81,
+          "end": 79.15,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 5566,
+      "start": 79.83,
+      "end": 80.97,
+      "text": "To the German commander,",
+      "words": [
+        {
+          "word": "To",
+          "start": 79.83,
+          "end": 80.01,
+          "probability": 0.877
+        },
+        {
+          "word": "the",
+          "start": 80.01,
+          "end": 80.13,
+          "probability": 0.994
+        },
+        {
+          "word": "German",
+          "start": 80.13,
+          "end": 80.43,
+          "probability": 0.991
+        },
+        {
+          "word": "commander,",
+          "start": 80.43,
+          "end": 80.97,
+          "probability": 0.813
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 5566,
+      "start": 81.83,
+      "end": 83.63,
+      "text": "N-U-T-S.",
+      "words": [
+        {
+          "word": "N",
+          "start": 81.83,
+          "end": 82.13,
+          "probability": 0.694
+        },
+        {
+          "word": "-U",
+          "start": 82.13,
+          "end": 82.61,
+          "probability": 0.9
+        },
+        {
+          "word": "-T",
+          "start": 82.61,
+          "end": 83.03,
+          "probability": 0.997
+        },
+        {
+          "word": "-S.",
+          "start": 83.03,
+          "end": 83.63,
+          "probability": 0.987
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 5566,
+      "start": 84.58,
+      "end": 85.56,
+      "text": "The American commander.",
+      "words": [
+        {
+          "word": "The",
+          "start": 84.58,
+          "end": 84.76,
+          "probability": 0.981
+        },
+        {
+          "word": "American",
+          "start": 84.76,
+          "end": 85.1,
+          "probability": 0.995
+        },
+        {
+          "word": "commander.",
+          "start": 85.1,
+          "end": 85.56,
+          "probability": 0.881
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 8444,
+      "start": 86.16,
+      "end": 87.06,
+      "text": "That was all of it.",
+      "words": [
+        {
+          "word": "That",
+          "start": 86.16,
+          "end": 86.5,
+          "probability": 0.336
+        },
+        {
+          "word": "was",
+          "start": 86.5,
+          "end": 86.66,
+          "probability": 0.968
+        },
+        {
+          "word": "all",
+          "start": 86.66,
+          "end": 86.82,
+          "probability": 0.987
+        },
+        {
+          "word": "of",
+          "start": 86.82,
+          "end": 86.94,
+          "probability": 0.993
+        },
+        {
+          "word": "it.",
+          "start": 86.94,
+          "end": 87.06,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 8444,
+      "start": 87.66,
+      "end": 92.02,
+      "text": "Colonel Joseph Harper of the 327th Glider Infantry took the sheet to the outpost.",
+      "words": [
+        {
+          "word": "Colonel",
+          "start": 87.66,
+          "end": 87.86,
+          "probability": 0.797
+        },
+        {
+          "word": "Joseph",
+          "start": 87.86,
+          "end": 88.22,
+          "probability": 0.925
+        },
+        {
+          "word": "Harper",
+          "start": 88.22,
+          "end": 88.52,
+          "probability": 0.986
+        },
+        {
+          "word": "of",
+          "start": 88.52,
+          "end": 88.82,
+          "probability": 0.968
+        },
+        {
+          "word": "the",
+          "start": 88.82,
+          "end": 88.94,
+          "probability": 0.987
+        },
+        {
+          "word": "327th",
+          "start": 88.94,
+          "end": 89.76,
+          "probability": 0.913
+        },
+        {
+          "word": "Glider",
+          "start": 89.76,
+          "end": 89.98,
+          "probability": 0.909
+        },
+        {
+          "word": "Infantry",
+          "start": 89.98,
+          "end": 90.48,
+          "probability": 0.891
+        },
+        {
+          "word": "took",
+          "start": 90.48,
+          "end": 90.94,
+          "probability": 0.943
+        },
+        {
+          "word": "the",
+          "start": 90.94,
+          "end": 91.16,
+          "probability": 0.994
+        },
+        {
+          "word": "sheet",
+          "start": 91.16,
+          "end": 91.38,
+          "probability": 0.971
+        },
+        {
+          "word": "to",
+          "start": 91.38,
+          "end": 91.52,
+          "probability": 0.998
+        },
+        {
+          "word": "the",
+          "start": 91.52,
+          "end": 91.64,
+          "probability": 0.978
+        },
+        {
+          "word": "outpost.",
+          "start": 91.64,
+          "end": 92.02,
+          "probability": 0.964
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 8444,
+      "start": 92.86,
+      "end": 96.18,
+      "text": "McAuliffe told him to hand it over and not to go into the German lines.",
+      "words": [
+        {
+          "word": "McAuliffe",
+          "start": 92.86,
+          "end": 93.36,
+          "probability": 0.666
+        },
+        {
+          "word": "told",
+          "start": 93.36,
+          "end": 93.58,
+          "probability": 0.997
+        },
+        {
+          "word": "him",
+          "start": 93.58,
+          "end": 93.72,
+          "probability": 0.994
+        },
+        {
+          "word": "to",
+          "start": 93.72,
+          "end": 93.84,
+          "probability": 0.999
+        },
+        {
+          "word": "hand",
+          "start": 93.84,
+          "end": 94.06,
+          "probability": 0.972
+        },
+        {
+          "word": "it",
+          "start": 94.06,
+          "end": 94.16,
+          "probability": 0.997
+        },
+        {
+          "word": "over",
+          "start": 94.16,
+          "end": 94.36,
+          "probability": 1.0
+        },
+        {
+          "word": "and",
+          "start": 94.36,
+          "end": 94.74,
+          "probability": 0.934
+        },
+        {
+          "word": "not",
+          "start": 94.74,
+          "end": 94.98,
+          "probability": 0.99
+        },
+        {
+          "word": "to",
+          "start": 94.98,
+          "end": 95.14,
+          "probability": 0.951
+        },
+        {
+          "word": "go",
+          "start": 95.14,
+          "end": 95.28,
+          "probability": 0.997
+        },
+        {
+          "word": "into",
+          "start": 95.28,
+          "end": 95.44,
+          "probability": 0.984
+        },
+        {
+          "word": "the",
+          "start": 95.44,
+          "end": 95.58,
+          "probability": 0.991
+        },
+        {
+          "word": "German",
+          "start": 95.58,
+          "end": 95.78,
+          "probability": 0.989
+        },
+        {
+          "word": "lines.",
+          "start": 95.78,
+          "end": 96.18,
+          "probability": 0.985
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 8444,
+      "start": 97.11,
+      "end": 100.55,
+      "text": "Hanke read it and asked whether the reply was negative or affirmative,",
+      "words": [
+        {
+          "word": "Hanke",
+          "start": 97.11,
+          "end": 97.43,
+          "probability": 0.529
+        },
+        {
+          "word": "read",
+          "start": 97.43,
+          "end": 97.63,
+          "probability": 0.97
+        },
+        {
+          "word": "it",
+          "start": 97.63,
+          "end": 97.87,
+          "probability": 0.998
+        },
+        {
+          "word": "and",
+          "start": 97.87,
+          "end": 98.23,
+          "probability": 0.797
+        },
+        {
+          "word": "asked",
+          "start": 98.23,
+          "end": 98.51,
+          "probability": 0.996
+        },
+        {
+          "word": "whether",
+          "start": 98.51,
+          "end": 98.75,
+          "probability": 0.989
+        },
+        {
+          "word": "the",
+          "start": 98.75,
+          "end": 98.87,
+          "probability": 0.994
+        },
+        {
+          "word": "reply",
+          "start": 98.87,
+          "end": 99.19,
+          "probability": 0.999
+        },
+        {
+          "word": "was",
+          "start": 99.19,
+          "end": 99.41,
+          "probability": 0.997
+        },
+        {
+          "word": "negative",
+          "start": 99.41,
+          "end": 99.79,
+          "probability": 0.846
+        },
+        {
+          "word": "or",
+          "start": 99.79,
+          "end": 100.19,
+          "probability": 0.992
+        },
+        {
+          "word": "affirmative,",
+          "start": 100.19,
+          "end": 100.55,
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 8444,
+      "start": 101.21,
+      "end": 103.39,
+      "text": "and if it was affirmative, he would negotiate further.",
+      "words": [
+        {
+          "word": "and",
+          "start": 101.21,
+          "end": 101.39,
+          "probability": 0.994
+        },
+        {
+          "word": "if",
+          "start": 101.39,
+          "end": 101.49,
+          "probability": 0.99
+        },
+        {
+          "word": "it",
+          "start": 101.49,
+          "end": 101.61,
+          "probability": 0.998
+        },
+        {
+          "word": "was",
+          "start": 101.61,
+          "end": 101.71,
+          "probability": 0.993
+        },
+        {
+          "word": "affirmative,",
+          "start": 101.71,
+          "end": 102.11,
+          "probability": 0.998
+        },
+        {
+          "word": "he",
+          "start": 102.45,
+          "end": 102.51,
+          "probability": 0.996
+        },
+        {
+          "word": "would",
+          "start": 102.51,
+          "end": 102.61,
+          "probability": 0.997
+        },
+        {
+          "word": "negotiate",
+          "start": 102.61,
+          "end": 103.05,
+          "probability": 0.998
+        },
+        {
+          "word": "further.",
+          "start": 103.05,
+          "end": 103.39,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 8444,
+      "start": 104.11,
+      "end": 106.57,
+      "text": "Harper told him it was decidedly not affirmative,",
+      "words": [
+        {
+          "word": "Harper",
+          "start": 104.11,
+          "end": 104.37,
+          "probability": 0.998
+        },
+        {
+          "word": "told",
+          "start": 104.37,
+          "end": 104.63,
+          "probability": 0.995
+        },
+        {
+          "word": "him",
+          "start": 104.63,
+          "end": 104.79,
+          "probability": 0.99
+        },
+        {
+          "word": "it",
+          "start": 104.79,
+          "end": 104.89,
+          "probability": 0.96
+        },
+        {
+          "word": "was",
+          "start": 104.89,
+          "end": 105.11,
+          "probability": 0.996
+        },
+        {
+          "word": "decidedly",
+          "start": 105.11,
+          "end": 105.85,
+          "probability": 0.904
+        },
+        {
+          "word": "not",
+          "start": 105.85,
+          "end": 106.03,
+          "probability": 0.972
+        },
+        {
+          "word": "affirmative,",
+          "start": 106.03,
+          "end": 106.57,
+          "probability": 0.994
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 8444,
+      "start": 107.01,
+      "end": 110.21,
+      "text": "and that if the Germans kept attacking, their losses would be tremendous.",
+      "words": [
+        {
+          "word": "and",
+          "start": 107.01,
+          "end": 107.31,
+          "probability": 0.996
+        },
+        {
+          "word": "that",
+          "start": 107.31,
+          "end": 107.41,
+          "probability": 0.998
+        },
+        {
+          "word": "if",
+          "start": 107.41,
+          "end": 107.51,
+          "probability": 0.986
+        },
+        {
+          "word": "the",
+          "start": 107.51,
+          "end": 107.65,
+          "probability": 0.998
+        },
+        {
+          "word": "Germans",
+          "start": 107.65,
+          "end": 107.85,
+          "probability": 0.998
+        },
+        {
+          "word": "kept",
+          "start": 107.85,
+          "end": 108.15,
+          "probability": 0.999
+        },
+        {
+          "word": "attacking,",
+          "start": 108.15,
+          "end": 108.55,
+          "probability": 0.999
+        },
+        {
+          "word": "their",
+          "start": 108.95,
+          "end": 109.07,
+          "probability": 0.995
+        },
+        {
+          "word": "losses",
+          "start": 109.07,
+          "end": 109.41,
+          "probability": 0.987
+        },
+        {
+          "word": "would",
+          "start": 109.41,
+          "end": 109.63,
+          "probability": 0.999
+        },
+        {
+          "word": "be",
+          "start": 109.63,
+          "end": 109.75,
+          "probability": 0.998
+        },
+        {
+          "word": "tremendous.",
+          "start": 109.75,
+          "end": 110.21,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 8444,
+      "start": 111.01,
+      "end": 114.05,
+      "text": "Private First Class Ernest Premitz put the meaning into German",
+      "words": [
+        {
+          "word": "Private",
+          "start": 111.01,
+          "end": 111.33,
+          "probability": 0.968
+        },
+        {
+          "word": "First",
+          "start": 111.33,
+          "end": 111.59,
+          "probability": 0.475
+        },
+        {
+          "word": "Class",
+          "start": 111.59,
+          "end": 111.87,
+          "probability": 0.932
+        },
+        {
+          "word": "Ernest",
+          "start": 111.87,
+          "end": 112.35,
+          "probability": 0.916
+        },
+        {
+          "word": "Premitz",
+          "start": 112.35,
+          "end": 112.75,
+          "probability": 0.694
+        },
+        {
+          "word": "put",
+          "start": 112.75,
+          "end": 113.09,
+          "probability": 0.993
+        },
+        {
+          "word": "the",
+          "start": 113.09,
+          "end": 113.23,
+          "probability": 0.995
+        },
+        {
+          "word": "meaning",
+          "start": 113.23,
+          "end": 113.45,
+          "probability": 0.99
+        },
+        {
+          "word": "into",
+          "start": 113.45,
+          "end": 113.73,
+          "probability": 0.994
+        },
+        {
+          "word": "German",
+          "start": 113.73,
+          "end": 114.05,
+          "probability": 0.982
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 11274,
+      "start": 114.05,
+      "end": 116.13,
+      "text": "as a suggestion to go to the devil.",
+      "words": [
+        {
+          "word": "as",
+          "start": 114.05,
+          "end": 114.33,
+          "probability": 0.316
+        },
+        {
+          "word": "a",
+          "start": 114.33,
+          "end": 114.45,
+          "probability": 0.988
+        },
+        {
+          "word": "suggestion",
+          "start": 114.45,
+          "end": 114.87,
+          "probability": 0.997
+        },
+        {
+          "word": "to",
+          "start": 114.87,
+          "end": 115.35,
+          "probability": 0.992
+        },
+        {
+          "word": "go",
+          "start": 115.35,
+          "end": 115.59,
+          "probability": 0.985
+        },
+        {
+          "word": "to",
+          "start": 115.59,
+          "end": 115.77,
+          "probability": 0.99
+        },
+        {
+          "word": "the",
+          "start": 115.77,
+          "end": 115.87,
+          "probability": 0.996
+        },
+        {
+          "word": "devil.",
+          "start": 115.87,
+          "end": 116.13,
+          "probability": 0.831
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 11274,
+      "start": 116.71,
+      "end": 118.75,
+      "text": "Hanke's last words in Harper's account",
+      "words": [
+        {
+          "word": "Hanke's",
+          "start": 116.71,
+          "end": 117.09,
+          "probability": 0.583
+        },
+        {
+          "word": "last",
+          "start": 117.09,
+          "end": 117.33,
+          "probability": 0.997
+        },
+        {
+          "word": "words",
+          "start": 117.33,
+          "end": 117.75,
+          "probability": 0.997
+        },
+        {
+          "word": "in",
+          "start": 117.75,
+          "end": 118.11,
+          "probability": 0.92
+        },
+        {
+          "word": "Harper's",
+          "start": 118.11,
+          "end": 118.47,
+          "probability": 0.99
+        },
+        {
+          "word": "account",
+          "start": 118.47,
+          "end": 118.75,
+          "probability": 0.833
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 11274,
+      "start": 119.17,
+      "end": 122.69,
+      "text": "were that the Germans would kill many Americans and that this was war.",
+      "words": [
+        {
+          "word": "were",
+          "start": 119.17,
+          "end": 119.49,
+          "probability": 0.897
+        },
+        {
+          "word": "that",
+          "start": 119.49,
+          "end": 119.63,
+          "probability": 0.989
+        },
+        {
+          "word": "the",
+          "start": 119.63,
+          "end": 119.75,
+          "probability": 0.954
+        },
+        {
+          "word": "Germans",
+          "start": 119.75,
+          "end": 119.99,
+          "probability": 0.998
+        },
+        {
+          "word": "would",
+          "start": 119.99,
+          "end": 120.27,
+          "probability": 0.993
+        },
+        {
+          "word": "kill",
+          "start": 120.27,
+          "end": 120.59,
+          "probability": 0.978
+        },
+        {
+          "word": "many",
+          "start": 120.59,
+          "end": 120.89,
+          "probability": 0.991
+        },
+        {
+          "word": "Americans",
+          "start": 120.89,
+          "end": 121.35,
+          "probability": 0.996
+        },
+        {
+          "word": "and",
+          "start": 121.35,
+          "end": 121.95,
+          "probability": 0.841
+        },
+        {
+          "word": "that",
+          "start": 121.95,
+          "end": 122.07,
+          "probability": 0.992
+        },
+        {
+          "word": "this",
+          "start": 122.07,
+          "end": 122.21,
+          "probability": 0.996
+        },
+        {
+          "word": "was",
+          "start": 122.21,
+          "end": 122.35,
+          "probability": 0.998
+        },
+        {
+          "word": "war.",
+          "start": 122.35,
+          "end": 122.69,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 11274,
+      "start": 123.37,
+      "end": 126.37,
+      "text": "He and Wagner saluted and walked back toward their lines.",
+      "words": [
+        {
+          "word": "He",
+          "start": 123.37,
+          "end": 123.51,
+          "probability": 0.987
+        },
+        {
+          "word": "and",
+          "start": 123.51,
+          "end": 123.63,
+          "probability": 0.992
+        },
+        {
+          "word": "Wagner",
+          "start": 123.63,
+          "end": 123.89,
+          "probability": 0.867
+        },
+        {
+          "word": "saluted",
+          "start": 123.89,
+          "end": 124.37,
+          "probability": 0.987
+        },
+        {
+          "word": "and",
+          "start": 124.37,
+          "end": 125.05,
+          "probability": 0.881
+        },
+        {
+          "word": "walked",
+          "start": 125.05,
+          "end": 125.29,
+          "probability": 0.995
+        },
+        {
+          "word": "back",
+          "start": 125.29,
+          "end": 125.61,
+          "probability": 0.999
+        },
+        {
+          "word": "toward",
+          "start": 125.61,
+          "end": 125.89,
+          "probability": 0.915
+        },
+        {
+          "word": "their",
+          "start": 125.89,
+          "end": 126.07,
+          "probability": 0.997
+        },
+        {
+          "word": "lines.",
+          "start": 126.07,
+          "end": 126.37,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 11274,
+      "start": 127.03,
+      "end": 128.99,
+      "text": "The word did not change the plan.",
+      "words": [
+        {
+          "word": "The",
+          "start": 127.03,
+          "end": 127.15,
+          "probability": 0.821
+        },
+        {
+          "word": "word",
+          "start": 127.15,
+          "end": 127.45,
+          "probability": 0.981
+        },
+        {
+          "word": "did",
+          "start": 127.45,
+          "end": 127.73,
+          "probability": 0.995
+        },
+        {
+          "word": "not",
+          "start": 127.73,
+          "end": 127.99,
+          "probability": 0.999
+        },
+        {
+          "word": "change",
+          "start": 127.99,
+          "end": 128.41,
+          "probability": 0.998
+        },
+        {
+          "word": "the",
+          "start": 128.41,
+          "end": 128.65,
+          "probability": 0.999
+        },
+        {
+          "word": "plan.",
+          "start": 128.65,
+          "end": 128.99,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 11274,
+      "start": 129.85,
+      "end": 133.83,
+      "text": "The decision it announced was the one the staff had already made",
+      "words": [
+        {
+          "word": "The",
+          "start": 129.85,
+          "end": 130.07,
+          "probability": 0.988
+        },
+        {
+          "word": "decision",
+          "start": 130.07,
+          "end": 130.49,
+          "probability": 0.999
+        },
+        {
+          "word": "it",
+          "start": 130.49,
+          "end": 130.75,
+          "probability": 0.974
+        },
+        {
+          "word": "announced",
+          "start": 130.75,
+          "end": 131.13,
+          "probability": 0.997
+        },
+        {
+          "word": "was",
+          "start": 131.13,
+          "end": 131.73,
+          "probability": 0.983
+        },
+        {
+          "word": "the",
+          "start": 131.73,
+          "end": 131.87,
+          "probability": 0.998
+        },
+        {
+          "word": "one",
+          "start": 131.87,
+          "end": 132.07,
+          "probability": 0.999
+        },
+        {
+          "word": "the",
+          "start": 132.07,
+          "end": 132.27,
+          "probability": 0.978
+        },
+        {
+          "word": "staff",
+          "start": 132.27,
+          "end": 132.59,
+          "probability": 0.995
+        },
+        {
+          "word": "had",
+          "start": 132.59,
+          "end": 132.87,
+          "probability": 0.998
+        },
+        {
+          "word": "already",
+          "start": 132.87,
+          "end": 133.45,
+          "probability": 0.998
+        },
+        {
+          "word": "made",
+          "start": 133.45,
+          "end": 133.83,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 11274,
+      "start": 134.19,
+      "end": 139.19,
+      "text": "to stay inside the circle and hold it with 10 rounds of gun",
+      "words": [
+        {
+          "word": "to",
+          "start": 134.19,
+          "end": 134.51,
+          "probability": 0.325
+        },
+        {
+          "word": "stay",
+          "start": 134.51,
+          "end": 134.85,
+          "probability": 0.995
+        },
+        {
+          "word": "inside",
+          "start": 134.85,
+          "end": 135.37,
+          "probability": 0.996
+        },
+        {
+          "word": "the",
+          "start": 135.37,
+          "end": 135.71,
+          "probability": 0.995
+        },
+        {
+          "word": "circle",
+          "start": 135.71,
+          "end": 136.03,
+          "probability": 0.938
+        },
+        {
+          "word": "and",
+          "start": 136.03,
+          "end": 136.65,
+          "probability": 0.99
+        },
+        {
+          "word": "hold",
+          "start": 136.65,
+          "end": 136.91,
+          "probability": 0.998
+        },
+        {
+          "word": "it",
+          "start": 136.91,
+          "end": 137.17,
+          "probability": 0.999
+        },
+        {
+          "word": "with",
+          "start": 137.17,
+          "end": 138.07,
+          "probability": 0.659
+        },
+        {
+          "word": "10",
+          "start": 138.07,
+          "end": 138.37,
+          "probability": 0.565
+        },
+        {
+          "word": "rounds",
+          "start": 138.37,
+          "end": 138.69,
+          "probability": 0.997
+        },
+        {
+          "word": "of",
+          "start": 138.69,
+          "end": 138.87,
+          "probability": 0.606
+        },
+        {
+          "word": "gun",
+          "start": 138.87,
+          "end": 139.19,
+          "probability": 0.965
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 11274,
+      "start": 139.19,
+      "end": 141.85,
+      "text": "and a relief column of unknown arrival.",
+      "words": [
+        {
+          "word": "and",
+          "start": 139.19,
+          "end": 139.85,
+          "probability": 0.937
+        },
+        {
+          "word": "a",
+          "start": 139.85,
+          "end": 139.95,
+          "probability": 0.922
+        },
+        {
+          "word": "relief",
+          "start": 139.95,
+          "end": 140.29,
+          "probability": 0.995
+        },
+        {
+          "word": "column",
+          "start": 140.29,
+          "end": 140.61,
+          "probability": 0.995
+        },
+        {
+          "word": "of",
+          "start": 140.61,
+          "end": 140.79,
+          "probability": 0.999
+        },
+        {
+          "word": "unknown",
+          "start": 140.79,
+          "end": 141.37,
+          "probability": 0.994
+        },
+        {
+          "word": "arrival.",
+          "start": 141.37,
+          "end": 141.85,
+          "probability": 0.979
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 14054,
+      "start": 142.37,
+      "end": 145.73,
+      "text": "The artillery bombardment the note promised did not come.",
+      "words": [
+        {
+          "word": "The",
+          "start": 142.37,
+          "end": 142.77,
+          "probability": 0.358
+        },
+        {
+          "word": "artillery",
+          "start": 142.77,
+          "end": 143.17,
+          "probability": 0.992
+        },
+        {
+          "word": "bombardment",
+          "start": 143.17,
+          "end": 143.89,
+          "probability": 0.998
+        },
+        {
+          "word": "the",
+          "start": 143.89,
+          "end": 144.05,
+          "probability": 0.967
+        },
+        {
+          "word": "note",
+          "start": 144.05,
+          "end": 144.25,
+          "probability": 0.482
+        },
+        {
+          "word": "promised",
+          "start": 144.25,
+          "end": 144.63,
+          "probability": 0.981
+        },
+        {
+          "word": "did",
+          "start": 144.63,
+          "end": 145.19,
+          "probability": 0.93
+        },
+        {
+          "word": "not",
+          "start": 145.19,
+          "end": 145.37,
+          "probability": 0.999
+        },
+        {
+          "word": "come.",
+          "start": 145.37,
+          "end": 145.73,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 14054,
+      "start": 146.29,
+      "end": 149.61,
+      "text": "On December 23, the cold front cleared the sky",
+      "words": [
+        {
+          "word": "On",
+          "start": 146.29,
+          "end": 146.67,
+          "probability": 0.985
+        },
+        {
+          "word": "December",
+          "start": 146.67,
+          "end": 146.93,
+          "probability": 0.961
+        },
+        {
+          "word": "23,",
+          "start": 146.93,
+          "end": 147.53,
+          "probability": 0.987
+        },
+        {
+          "word": "the",
+          "start": 147.97,
+          "end": 148.05,
+          "probability": 0.987
+        },
+        {
+          "word": "cold",
+          "start": 148.05,
+          "end": 148.35,
+          "probability": 0.634
+        },
+        {
+          "word": "front",
+          "start": 148.35,
+          "end": 148.65,
+          "probability": 0.996
+        },
+        {
+          "word": "cleared",
+          "start": 148.65,
+          "end": 149.11,
+          "probability": 0.997
+        },
+        {
+          "word": "the",
+          "start": 149.11,
+          "end": 149.33,
+          "probability": 0.999
+        },
+        {
+          "word": "sky",
+          "start": 149.33,
+          "end": 149.61,
+          "probability": 0.994
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 14054,
+      "start": 149.91,
+      "end": 156.17,
+      "text": "and 241 C-47 transports dropped 144 tons of ammunition,",
+      "words": [
+        {
+          "word": "and",
+          "start": 149.91,
+          "end": 150.31,
+          "probability": 0.473
+        },
+        {
+          "word": "241",
+          "start": 150.31,
+          "end": 151.53,
+          "probability": 0.987
+        },
+        {
+          "word": "C",
+          "start": 151.53,
+          "end": 151.87,
+          "probability": 0.916
+        },
+        {
+          "word": "-47",
+          "start": 151.87,
+          "end": 152.29,
+          "probability": 0.932
+        },
+        {
+          "word": "transports",
+          "start": 152.29,
+          "end": 153.53,
+          "probability": 0.958
+        },
+        {
+          "word": "dropped",
+          "start": 153.53,
+          "end": 153.81,
+          "probability": 0.987
+        },
+        {
+          "word": "144",
+          "start": 153.81,
+          "end": 154.81,
+          "probability": 0.983
+        },
+        {
+          "word": "tons",
+          "start": 154.81,
+          "end": 155.47,
+          "probability": 0.934
+        },
+        {
+          "word": "of",
+          "start": 155.47,
+          "end": 155.75,
+          "probability": 0.998
+        },
+        {
+          "word": "ammunition,",
+          "start": 155.75,
+          "end": 156.17,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 14054,
+      "start": 156.71,
+      "end": 159.65,
+      "text": "medical supplies and rations into the perimeter,",
+      "words": [
+        {
+          "word": "medical",
+          "start": 156.71,
+          "end": 157.11,
+          "probability": 0.998
+        },
+        {
+          "word": "supplies",
+          "start": 157.11,
+          "end": 157.51,
+          "probability": 0.999
+        },
+        {
+          "word": "and",
+          "start": 157.51,
+          "end": 158.09,
+          "probability": 0.488
+        },
+        {
+          "word": "rations",
+          "start": 158.09,
+          "end": 158.51,
+          "probability": 0.995
+        },
+        {
+          "word": "into",
+          "start": 158.51,
+          "end": 159.07,
+          "probability": 0.981
+        },
+        {
+          "word": "the",
+          "start": 159.07,
+          "end": 159.27,
+          "probability": 0.996
+        },
+        {
+          "word": "perimeter,",
+          "start": 159.27,
+          "end": 159.65,
+          "probability": 0.993
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 14054,
+      "start": 160.19,
+      "end": 163.87,
+      "text": "while P-47 fighters struck German armor around the town.",
+      "words": [
+        {
+          "word": "while",
+          "start": 160.19,
+          "end": 160.45,
+          "probability": 0.995
+        },
+        {
+          "word": "P",
+          "start": 160.45,
+          "end": 160.69,
+          "probability": 0.964
+        },
+        {
+          "word": "-47",
+          "start": 160.69,
+          "end": 161.09,
+          "probability": 0.994
+        },
+        {
+          "word": "fighters",
+          "start": 161.09,
+          "end": 161.63,
+          "probability": 0.991
+        },
+        {
+          "word": "struck",
+          "start": 161.63,
+          "end": 162.27,
+          "probability": 0.995
+        },
+        {
+          "word": "German",
+          "start": 162.27,
+          "end": 162.59,
+          "probability": 0.995
+        },
+        {
+          "word": "armor",
+          "start": 162.59,
+          "end": 162.91,
+          "probability": 0.736
+        },
+        {
+          "word": "around",
+          "start": 162.91,
+          "end": 163.39,
+          "probability": 0.997
+        },
+        {
+          "word": "the",
+          "start": 163.39,
+          "end": 163.59,
+          "probability": 0.993
+        },
+        {
+          "word": "town.",
+          "start": 163.59,
+          "end": 163.87,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 14054,
+      "start": 164.76,
+      "end": 168.92,
+      "text": "That night, December 24, German bombers raided Bastogne,",
+      "words": [
+        {
+          "word": "That",
+          "start": 164.76,
+          "end": 165.02,
+          "probability": 0.993
+        },
+        {
+          "word": "night,",
+          "start": 165.02,
+          "end": 165.26,
+          "probability": 0.999
+        },
+        {
+          "word": "December",
+          "start": 165.64,
+          "end": 165.94,
+          "probability": 0.989
+        },
+        {
+          "word": "24,",
+          "start": 165.94,
+          "end": 166.56,
+          "probability": 0.998
+        },
+        {
+          "word": "German",
+          "start": 167.02,
+          "end": 167.3,
+          "probability": 0.991
+        },
+        {
+          "word": "bombers",
+          "start": 167.3,
+          "end": 167.72,
+          "probability": 0.991
+        },
+        {
+          "word": "raided",
+          "start": 167.72,
+          "end": 168.26,
+          "probability": 0.994
+        },
+        {
+          "word": "Bastogne,",
+          "start": 168.26,
+          "end": 168.92,
+          "probability": 0.942
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 16748,
+      "start": 169.34,
+      "end": 172.18,
+      "text": "a direct hit on the aid station of Combat Command B",
+      "words": [
+        {
+          "word": "a",
+          "start": 169.34,
+          "end": 169.66,
+          "probability": 0.122
+        },
+        {
+          "word": "direct",
+          "start": 169.66,
+          "end": 169.94,
+          "probability": 0.997
+        },
+        {
+          "word": "hit",
+          "start": 169.94,
+          "end": 170.2,
+          "probability": 0.999
+        },
+        {
+          "word": "on",
+          "start": 170.2,
+          "end": 170.4,
+          "probability": 0.997
+        },
+        {
+          "word": "the",
+          "start": 170.4,
+          "end": 170.52,
+          "probability": 0.996
+        },
+        {
+          "word": "aid",
+          "start": 170.52,
+          "end": 170.72,
+          "probability": 0.933
+        },
+        {
+          "word": "station",
+          "start": 170.72,
+          "end": 171.04,
+          "probability": 0.989
+        },
+        {
+          "word": "of",
+          "start": 171.04,
+          "end": 171.24,
+          "probability": 0.995
+        },
+        {
+          "word": "Combat",
+          "start": 171.24,
+          "end": 171.54,
+          "probability": 0.342
+        },
+        {
+          "word": "Command",
+          "start": 171.54,
+          "end": 171.84,
+          "probability": 0.991
+        },
+        {
+          "word": "B",
+          "start": 171.84,
+          "end": 172.18,
+          "probability": 0.807
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 16748,
+      "start": 172.18,
+      "end": 174.82,
+      "text": "killed a Belgian nurse, René Le Maire,",
+      "words": [
+        {
+          "word": "killed",
+          "start": 172.18,
+          "end": 172.86,
+          "probability": 0.887
+        },
+        {
+          "word": "a",
+          "start": 172.86,
+          "end": 173.08,
+          "probability": 0.995
+        },
+        {
+          "word": "Belgian",
+          "start": 173.08,
+          "end": 173.36,
+          "probability": 0.985
+        },
+        {
+          "word": "nurse,",
+          "start": 173.36,
+          "end": 173.82,
+          "probability": 0.992
+        },
+        {
+          "word": "René",
+          "start": 174.14,
+          "end": 174.34,
+          "probability": 0.516
+        },
+        {
+          "word": "Le",
+          "start": 174.34,
+          "end": 174.54,
+          "probability": 0.307
+        },
+        {
+          "word": "Maire,",
+          "start": 174.54,
+          "end": 174.82,
+          "probability": 0.904
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 16748,
+      "start": 175.18,
+      "end": 177.24,
+      "text": "and about 30 wounded American soldiers.",
+      "words": [
+        {
+          "word": "and",
+          "start": 175.18,
+          "end": 175.36,
+          "probability": 0.995
+        },
+        {
+          "word": "about",
+          "start": 175.36,
+          "end": 175.56,
+          "probability": 0.997
+        },
+        {
+          "word": "30",
+          "start": 175.56,
+          "end": 175.98,
+          "probability": 0.932
+        },
+        {
+          "word": "wounded",
+          "start": 175.98,
+          "end": 176.36,
+          "probability": 0.998
+        },
+        {
+          "word": "American",
+          "start": 176.36,
+          "end": 176.66,
+          "probability": 0.99
+        },
+        {
+          "word": "soldiers.",
+          "start": 176.66,
+          "end": 177.24,
+          "probability": 0.994
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 16748,
+      "start": 178.28,
+      "end": 181.38,
+      "text": "Makalov's Christmas message given to every man in the pocket",
+      "words": [
+        {
+          "word": "Makalov's",
+          "start": 178.28,
+          "end": 178.82,
+          "probability": 0.695
+        },
+        {
+          "word": "Christmas",
+          "start": 178.82,
+          "end": 179.12,
+          "probability": 0.989
+        },
+        {
+          "word": "message",
+          "start": 179.12,
+          "end": 179.6,
+          "probability": 0.976
+        },
+        {
+          "word": "given",
+          "start": 179.6,
+          "end": 180.14,
+          "probability": 0.249
+        },
+        {
+          "word": "to",
+          "start": 180.14,
+          "end": 180.32,
+          "probability": 0.999
+        },
+        {
+          "word": "every",
+          "start": 180.32,
+          "end": 180.62,
+          "probability": 0.978
+        },
+        {
+          "word": "man",
+          "start": 180.62,
+          "end": 180.88,
+          "probability": 0.996
+        },
+        {
+          "word": "in",
+          "start": 180.88,
+          "end": 181.02,
+          "probability": 0.998
+        },
+        {
+          "word": "the",
+          "start": 181.02,
+          "end": 181.1,
+          "probability": 0.998
+        },
+        {
+          "word": "pocket",
+          "start": 181.1,
+          "end": 181.38,
+          "probability": 0.984
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 16748,
+      "start": 181.38,
+      "end": 184.98,
+      "text": "told them the story of the surrender demand and the reply.",
+      "words": [
+        {
+          "word": "told",
+          "start": 181.38,
+          "end": 182.02,
+          "probability": 0.9
+        },
+        {
+          "word": "them",
+          "start": 182.02,
+          "end": 182.24,
+          "probability": 0.996
+        },
+        {
+          "word": "the",
+          "start": 182.24,
+          "end": 182.38,
+          "probability": 0.996
+        },
+        {
+          "word": "story",
+          "start": 182.38,
+          "end": 182.74,
+          "probability": 0.996
+        },
+        {
+          "word": "of",
+          "start": 182.74,
+          "end": 182.98,
+          "probability": 0.998
+        },
+        {
+          "word": "the",
+          "start": 182.98,
+          "end": 183.1,
+          "probability": 0.992
+        },
+        {
+          "word": "surrender",
+          "start": 183.1,
+          "end": 183.38,
+          "probability": 0.962
+        },
+        {
+          "word": "demand",
+          "start": 183.38,
+          "end": 183.76,
+          "probability": 0.992
+        },
+        {
+          "word": "and",
+          "start": 183.76,
+          "end": 184.48,
+          "probability": 0.727
+        },
+        {
+          "word": "the",
+          "start": 184.48,
+          "end": 184.6,
+          "probability": 0.991
+        },
+        {
+          "word": "reply.",
+          "start": 184.6,
+          "end": 184.98,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 16748,
+      "start": 185.68,
+      "end": 186.62,
+      "text": "On Christmas morning,",
+      "words": [
+        {
+          "word": "On",
+          "start": 185.68,
+          "end": 185.88,
+          "probability": 0.659
+        },
+        {
+          "word": "Christmas",
+          "start": 185.88,
+          "end": 186.16,
+          "probability": 0.996
+        },
+        {
+          "word": "morning,",
+          "start": 186.16,
+          "end": 186.62,
+          "probability": 0.987
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "seek": 16748,
+      "start": 187.04,
+      "end": 188.96,
+      "text": "the German 15th Panzer Grenadier Division",
+      "words": [
+        {
+          "word": "the",
+          "start": 187.04,
+          "end": 187.12,
+          "probability": 0.993
+        },
+        {
+          "word": "German",
+          "start": 187.12,
+          "end": 187.34,
+          "probability": 0.989
+        },
+        {
+          "word": "15th",
+          "start": 187.34,
+          "end": 187.96,
+          "probability": 0.977
+        },
+        {
+          "word": "Panzer",
+          "start": 187.96,
+          "end": 188.24,
+          "probability": 0.908
+        },
+        {
+          "word": "Grenadier",
+          "start": 188.24,
+          "end": 188.6,
+          "probability": 0.945
+        },
+        {
+          "word": "Division",
+          "start": 188.6,
+          "end": 188.96,
+          "probability": 0.963
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "seek": 16748,
+      "start": 188.96,
+      "end": 191.22,
+      "text": "and the 26th Volksgrenadier Division",
+      "words": [
+        {
+          "word": "and",
+          "start": 188.96,
+          "end": 189.46,
+          "probability": 0.943
+        },
+        {
+          "word": "the",
+          "start": 189.46,
+          "end": 189.58,
+          "probability": 0.959
+        },
+        {
+          "word": "26th",
+          "start": 189.58,
+          "end": 190.18,
+          "probability": 0.992
+        },
+        {
+          "word": "Volksgrenadier",
+          "start": 190.18,
+          "end": 190.78,
+          "probability": 0.911
+        },
+        {
+          "word": "Division",
+          "start": 190.78,
+          "end": 191.22,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "seek": 16748,
+      "start": 191.22,
+      "end": 192.9,
+      "text": "attacked the Western perimeter.",
+      "words": [
+        {
+          "word": "attacked",
+          "start": 191.22,
+          "end": 191.74,
+          "probability": 0.988
+        },
+        {
+          "word": "the",
+          "start": 191.74,
+          "end": 192.1,
+          "probability": 0.998
+        },
+        {
+          "word": "Western",
+          "start": 192.1,
+          "end": 192.46,
+          "probability": 0.669
+        },
+        {
+          "word": "perimeter.",
+          "start": 192.46,
+          "end": 192.9,
+          "probability": 0.928
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "seek": 16748,
+      "start": 193.79,
+      "end": 196.25,
+      "text": "18 German tanks broke through the line",
+      "words": [
+        {
+          "word": "18",
+          "start": 193.79,
+          "end": 194.25,
+          "probability": 0.884
+        },
+        {
+          "word": "German",
+          "start": 194.25,
+          "end": 194.63,
+          "probability": 0.999
+        },
+        {
+          "word": "tanks",
+          "start": 194.63,
+          "end": 195.05,
+          "probability": 0.998
+        },
+        {
+          "word": "broke",
+          "start": 195.05,
+          "end": 195.53,
+          "probability": 0.999
+        },
+        {
+          "word": "through",
+          "start": 195.53,
+          "end": 195.81,
+          "probability": 0.997
+        },
+        {
+          "word": "the",
+          "start": 195.81,
+          "end": 195.93,
+          "probability": 0.999
+        },
+        {
+          "word": "line",
+          "start": 195.93,
+          "end": 196.25,
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "seek": 19468,
+      "start": 196.25,
+      "end": 200.97,
+      "text": "and the 502nd Parachute Infantry, the 327th Glider Infantry",
+      "words": [
+        {
+          "word": "and",
+          "start": 196.25,
+          "end": 196.79,
+          "probability": 0.27
+        },
+        {
+          "word": "the",
+          "start": 196.79,
+          "end": 196.91,
+          "probability": 0.961
+        },
+        {
+          "word": "502nd",
+          "start": 196.91,
+          "end": 197.87,
+          "probability": 0.953
+        },
+        {
+          "word": "Parachute",
+          "start": 197.87,
+          "end": 198.19,
+          "probability": 0.901
+        },
+        {
+          "word": "Infantry,",
+          "start": 198.19,
+          "end": 198.63,
+          "probability": 0.981
+        },
+        {
+          "word": "the",
+          "start": 199.09,
+          "end": 199.23,
+          "probability": 0.95
+        },
+        {
+          "word": "327th",
+          "start": 199.23,
+          "end": 200.29,
+          "probability": 0.979
+        },
+        {
+          "word": "Glider",
+          "start": 200.29,
+          "end": 200.49,
+          "probability": 0.969
+        },
+        {
+          "word": "Infantry",
+          "start": 200.49,
+          "end": 200.97,
+          "probability": 0.989
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "seek": 19468,
+      "start": 200.97,
+      "end": 205.15,
+      "text": "and the 705th Tank Destroyer Battalion destroyed all of them.",
+      "words": [
+        {
+          "word": "and",
+          "start": 200.97,
+          "end": 201.43,
+          "probability": 0.264
+        },
+        {
+          "word": "the",
+          "start": 201.43,
+          "end": 201.55,
+          "probability": 0.991
+        },
+        {
+          "word": "705th",
+          "start": 201.55,
+          "end": 202.39,
+          "probability": 0.989
+        },
+        {
+          "word": "Tank",
+          "start": 202.39,
+          "end": 202.61,
+          "probability": 0.993
+        },
+        {
+          "word": "Destroyer",
+          "start": 202.61,
+          "end": 203.05,
+          "probability": 0.973
+        },
+        {
+          "word": "Battalion",
+          "start": 203.05,
+          "end": 203.51,
+          "probability": 0.986
+        },
+        {
+          "word": "destroyed",
+          "start": 203.51,
+          "end": 204.07,
+          "probability": 0.922
+        },
+        {
+          "word": "all",
+          "start": 204.07,
+          "end": 204.83,
+          "probability": 0.988
+        },
+        {
+          "word": "of",
+          "start": 204.83,
+          "end": 204.97,
+          "probability": 0.996
+        },
+        {
+          "word": "them.",
+          "start": 204.97,
+          "end": 205.15,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "seek": 19468,
+      "start": 205.95,
+      "end": 208.91,
+      "text": "At 10 minutes to five on the afternoon of December 26,",
+      "words": [
+        {
+          "word": "At",
+          "start": 205.95,
+          "end": 206.27,
+          "probability": 0.676
+        },
+        {
+          "word": "10",
+          "start": 206.27,
+          "end": 206.51,
+          "probability": 0.68
+        },
+        {
+          "word": "minutes",
+          "start": 206.51,
+          "end": 206.69,
+          "probability": 0.913
+        },
+        {
+          "word": "to",
+          "start": 206.69,
+          "end": 206.95,
+          "probability": 0.988
+        },
+        {
+          "word": "five",
+          "start": 206.95,
+          "end": 207.19,
+          "probability": 0.424
+        },
+        {
+          "word": "on",
+          "start": 207.19,
+          "end": 207.37,
+          "probability": 0.931
+        },
+        {
+          "word": "the",
+          "start": 207.37,
+          "end": 207.47,
+          "probability": 0.995
+        },
+        {
+          "word": "afternoon",
+          "start": 207.47,
+          "end": 207.91,
+          "probability": 0.998
+        },
+        {
+          "word": "of",
+          "start": 207.91,
+          "end": 208.09,
+          "probability": 0.993
+        },
+        {
+          "word": "December",
+          "start": 208.09,
+          "end": 208.33,
+          "probability": 0.972
+        },
+        {
+          "word": "26,",
+          "start": 208.33,
+          "end": 208.91,
+          "probability": 0.992
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "seek": 19468,
+      "start": 209.43,
+      "end": 211.33,
+      "text": "the lead tank of Task Force Abrams,",
+      "words": [
+        {
+          "word": "the",
+          "start": 209.43,
+          "end": 209.71,
+          "probability": 0.986
+        },
+        {
+          "word": "lead",
+          "start": 209.71,
+          "end": 209.89,
+          "probability": 0.985
+        },
+        {
+          "word": "tank",
+          "start": 209.89,
+          "end": 210.19,
+          "probability": 0.972
+        },
+        {
+          "word": "of",
+          "start": 210.19,
+          "end": 210.33,
+          "probability": 0.997
+        },
+        {
+          "word": "Task",
+          "start": 210.33,
+          "end": 210.61,
+          "probability": 0.944
+        },
+        {
+          "word": "Force",
+          "start": 210.61,
+          "end": 210.83,
+          "probability": 0.992
+        },
+        {
+          "word": "Abrams,",
+          "start": 210.83,
+          "end": 211.33,
+          "probability": 0.993
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "seek": 19468,
+      "start": 211.73,
+      "end": 214.47,
+      "text": "a Sherman named Cobra King from the 4th Armored Division,",
+      "words": [
+        {
+          "word": "a",
+          "start": 211.73,
+          "end": 211.91,
+          "probability": 0.991
+        },
+        {
+          "word": "Sherman",
+          "start": 211.91,
+          "end": 212.13,
+          "probability": 0.826
+        },
+        {
+          "word": "named",
+          "start": 212.13,
+          "end": 212.39,
+          "probability": 0.994
+        },
+        {
+          "word": "Cobra",
+          "start": 212.39,
+          "end": 212.73,
+          "probability": 0.844
+        },
+        {
+          "word": "King",
+          "start": 212.73,
+          "end": 213.07,
+          "probability": 0.975
+        },
+        {
+          "word": "from",
+          "start": 213.07,
+          "end": 213.51,
+          "probability": 0.923
+        },
+        {
+          "word": "the",
+          "start": 213.51,
+          "end": 213.61,
+          "probability": 0.99
+        },
+        {
+          "word": "4th",
+          "start": 213.61,
+          "end": 213.95,
+          "probability": 0.918
+        },
+        {
+          "word": "Armored",
+          "start": 213.95,
+          "end": 214.15,
+          "probability": 0.925
+        },
+        {
+          "word": "Division,",
+          "start": 214.15,
+          "end": 214.47,
+          "probability": 0.992
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "seek": 19468,
+      "start": 214.99,
+      "end": 216.75,
+      "text": "reached the engineers of Company C,",
+      "words": [
+        {
+          "word": "reached",
+          "start": 214.99,
+          "end": 215.33,
+          "probability": 0.986
+        },
+        {
+          "word": "the",
+          "start": 215.33,
+          "end": 215.51,
+          "probability": 0.993
+        },
+        {
+          "word": "engineers",
+          "start": 215.51,
+          "end": 215.95,
+          "probability": 0.749
+        },
+        {
+          "word": "of",
+          "start": 215.95,
+          "end": 216.11,
+          "probability": 0.998
+        },
+        {
+          "word": "Company",
+          "start": 216.11,
+          "end": 216.41,
+          "probability": 0.836
+        },
+        {
+          "word": "C,",
+          "start": 216.41,
+          "end": 216.75,
+          "probability": 0.988
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "seek": 19468,
+      "start": 217.63,
+      "end": 219.41,
+      "text": "326th Airborne Engineer Battalion",
+      "words": [
+        {
+          "word": "326th",
+          "start": 217.63,
+          "end": 218.27,
+          "probability": 0.962
+        },
+        {
+          "word": "Airborne",
+          "start": 218.27,
+          "end": 218.51,
+          "probability": 0.989
+        },
+        {
+          "word": "Engineer",
+          "start": 218.51,
+          "end": 218.85,
+          "probability": 0.941
+        },
+        {
+          "word": "Battalion",
+          "start": 218.85,
+          "end": 219.41,
+          "probability": 0.993
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "seek": 19468,
+      "start": 219.41,
+      "end": 221.01,
+      "text": "at the southern edge of the pocket.",
+      "words": [
+        {
+          "word": "at",
+          "start": 219.41,
+          "end": 219.77,
+          "probability": 0.717
+        },
+        {
+          "word": "the",
+          "start": 219.77,
+          "end": 219.91,
+          "probability": 0.997
+        },
+        {
+          "word": "southern",
+          "start": 219.91,
+          "end": 220.17,
+          "probability": 0.94
+        },
+        {
+          "word": "edge",
+          "start": 220.17,
+          "end": 220.53,
+          "probability": 0.997
+        },
+        {
+          "word": "of",
+          "start": 220.53,
+          "end": 220.65,
+          "probability": 0.999
+        },
+        {
+          "word": "the",
+          "start": 220.65,
+          "end": 220.73,
+          "probability": 0.997
+        },
+        {
+          "word": "pocket.",
+          "start": 220.73,
+          "end": 221.01,
+          "probability": 0.956
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "seek": 19468,
+      "start": 221.69,
+      "end": 223.07,
+      "text": "The road was open.",
+      "words": [
+        {
+          "word": "The",
+          "start": 221.69,
+          "end": 221.99,
+          "probability": 0.992
+        },
+        {
+          "word": "road",
+          "start": 221.99,
+          "end": 222.31,
+          "probability": 0.963
+        },
+        {
+          "word": "was",
+          "start": 222.31,
+          "end": 222.75,
+          "probability": 0.997
+        },
+        {
+          "word": "open.",
+          "start": 222.75,
+          "end": 223.07,
+          "probability": 0.991
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "seek": 19468,
+      "start": 223.99,
+      "end": 225.65,
+      "text": "The 101st did not leave.",
+      "words": [
+        {
+          "word": "The",
+          "start": 223.99,
+          "end": 224.11,
+          "probability": 0.237
+        },
+        {
+          "word": "101st",
+          "start": 224.11,
+          "end": 224.99,
+          "probability": 0.979
+        },
+        {
+          "word": "did",
+          "start": 224.99,
+          "end": 225.19,
+          "probability": 0.985
+        },
+        {
+          "word": "not",
+          "start": 225.19,
+          "end": 225.39,
+          "probability": 0.999
+        },
+        {
+          "word": "leave.",
+          "start": 225.39,
+          "end": 225.65,
+          "probability": 0.993
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "seek": 22376,
+      "start": 226.09,
+      "end": 228.39,
+      "text": "It went on fighting around Bastogne into January.",
+      "words": [
+        {
+          "word": "It",
+          "start": 226.09,
+          "end": 226.37,
+          "probability": 0.372
+        },
+        {
+          "word": "went",
+          "start": 226.37,
+          "end": 226.51,
+          "probability": 0.987
+        },
+        {
+          "word": "on",
+          "start": 226.51,
+          "end": 226.65,
+          "probability": 0.997
+        },
+        {
+          "word": "fighting",
+          "start": 226.65,
+          "end": 226.95,
+          "probability": 0.99
+        },
+        {
+          "word": "around",
+          "start": 226.95,
+          "end": 227.23,
+          "probability": 0.992
+        },
+        {
+          "word": "Bastogne",
+          "start": 227.23,
+          "end": 227.79,
+          "probability": 0.836
+        },
+        {
+          "word": "into",
+          "start": 227.79,
+          "end": 227.99,
+          "probability": 0.967
+        },
+        {
+          "word": "January.",
+          "start": 227.99,
+          "end": 228.39,
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "seek": 22376,
+      "start": 229.46,
+      "end": 230.72,
+      "text": "Makalov held that paper",
+      "words": [
+        {
+          "word": "Makalov",
+          "start": 229.46,
+          "end": 229.96,
+          "probability": 0.524
+        },
+        {
+          "word": "held",
+          "start": 229.96,
+          "end": 230.18,
+          "probability": 0.988
+        },
+        {
+          "word": "that",
+          "start": 230.18,
+          "end": 230.38,
+          "probability": 0.988
+        },
+        {
+          "word": "paper",
+          "start": 230.38,
+          "end": 230.72,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "seek": 22376,
+      "start": 230.72,
+      "end": 233.04,
+      "text": "because he was the senior officer in camp",
+      "words": [
+        {
+          "word": "because",
+          "start": 230.72,
+          "end": 231.24,
+          "probability": 0.855
+        },
+        {
+          "word": "he",
+          "start": 231.24,
+          "end": 231.54,
+          "probability": 0.995
+        },
+        {
+          "word": "was",
+          "start": 231.54,
+          "end": 231.74,
+          "probability": 0.998
+        },
+        {
+          "word": "the",
+          "start": 231.74,
+          "end": 231.88,
+          "probability": 0.978
+        },
+        {
+          "word": "senior",
+          "start": 231.88,
+          "end": 232.12,
+          "probability": 0.926
+        },
+        {
+          "word": "officer",
+          "start": 232.12,
+          "end": 232.52,
+          "probability": 0.993
+        },
+        {
+          "word": "in",
+          "start": 232.52,
+          "end": 232.76,
+          "probability": 0.983
+        },
+        {
+          "word": "camp",
+          "start": 232.76,
+          "end": 233.04,
+          "probability": 0.97
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "seek": 22376,
+      "start": 233.04,
+      "end": 235.7,
+      "text": "when the two generals above him were in Washington and England.",
+      "words": [
+        {
+          "word": "when",
+          "start": 233.04,
+          "end": 233.28,
+          "probability": 0.933
+        },
+        {
+          "word": "the",
+          "start": 233.28,
+          "end": 233.38,
+          "probability": 0.992
+        },
+        {
+          "word": "two",
+          "start": 233.38,
+          "end": 233.54,
+          "probability": 0.992
+        },
+        {
+          "word": "generals",
+          "start": 233.54,
+          "end": 233.84,
+          "probability": 0.965
+        },
+        {
+          "word": "above",
+          "start": 233.84,
+          "end": 234.16,
+          "probability": 0.98
+        },
+        {
+          "word": "him",
+          "start": 234.16,
+          "end": 234.4,
+          "probability": 0.988
+        },
+        {
+          "word": "were",
+          "start": 234.4,
+          "end": 234.56,
+          "probability": 0.997
+        },
+        {
+          "word": "in",
+          "start": 234.56,
+          "end": 234.66,
+          "probability": 0.997
+        },
+        {
+          "word": "Washington",
+          "start": 234.66,
+          "end": 235.06,
+          "probability": 0.999
+        },
+        {
+          "word": "and",
+          "start": 235.06,
+          "end": 235.44,
+          "probability": 0.968
+        },
+        {
+          "word": "England.",
+          "start": 235.44,
+          "end": 235.7,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "seek": 22376,
+      "start": 236.58,
+      "end": 238.66,
+      "text": "The word came from his own reaction",
+      "words": [
+        {
+          "word": "The",
+          "start": 236.58,
+          "end": 236.8,
+          "probability": 0.989
+        },
+        {
+          "word": "word",
+          "start": 236.8,
+          "end": 237.08,
+          "probability": 0.981
+        },
+        {
+          "word": "came",
+          "start": 237.08,
+          "end": 237.56,
+          "probability": 0.995
+        },
+        {
+          "word": "from",
+          "start": 237.56,
+          "end": 237.74,
+          "probability": 0.998
+        },
+        {
+          "word": "his",
+          "start": 237.74,
+          "end": 237.92,
+          "probability": 0.998
+        },
+        {
+          "word": "own",
+          "start": 237.92,
+          "end": 238.18,
+          "probability": 0.998
+        },
+        {
+          "word": "reaction",
+          "start": 238.18,
+          "end": 238.66,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "seek": 22376,
+      "start": 238.66,
+      "end": 241.86,
+      "text": "and a staff officer saw that it could serve as the reply.",
+      "words": [
+        {
+          "word": "and",
+          "start": 238.66,
+          "end": 239.28,
+          "probability": 0.388
+        },
+        {
+          "word": "a",
+          "start": 239.28,
+          "end": 239.4,
+          "probability": 0.982
+        },
+        {
+          "word": "staff",
+          "start": 239.4,
+          "end": 239.54,
+          "probability": 0.976
+        },
+        {
+          "word": "officer",
+          "start": 239.54,
+          "end": 239.96,
+          "probability": 0.999
+        },
+        {
+          "word": "saw",
+          "start": 239.96,
+          "end": 240.3,
+          "probability": 0.997
+        },
+        {
+          "word": "that",
+          "start": 240.3,
+          "end": 240.66,
+          "probability": 0.99
+        },
+        {
+          "word": "it",
+          "start": 240.66,
+          "end": 240.76,
+          "probability": 0.995
+        },
+        {
+          "word": "could",
+          "start": 240.76,
+          "end": 240.84,
+          "probability": 0.997
+        },
+        {
+          "word": "serve",
+          "start": 240.84,
+          "end": 241.14,
+          "probability": 0.997
+        },
+        {
+          "word": "as",
+          "start": 241.14,
+          "end": 241.38,
+          "probability": 0.999
+        },
+        {
+          "word": "the",
+          "start": 241.38,
+          "end": 241.5,
+          "probability": 0.961
+        },
+        {
+          "word": "reply.",
+          "start": 241.5,
+          "end": 241.86,
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "seek": 22376,
+      "start": 242.74,
+      "end": 245.58,
+      "text": "It committed him to the plan the room had already chosen,",
+      "words": [
+        {
+          "word": "It",
+          "start": 242.74,
+          "end": 243.02,
+          "probability": 0.982
+        },
+        {
+          "word": "committed",
+          "start": 243.02,
+          "end": 243.36,
+          "probability": 0.991
+        },
+        {
+          "word": "him",
+          "start": 243.36,
+          "end": 243.58,
+          "probability": 0.988
+        },
+        {
+          "word": "to",
+          "start": 243.58,
+          "end": 243.72,
+          "probability": 0.998
+        },
+        {
+          "word": "the",
+          "start": 243.72,
+          "end": 243.84,
+          "probability": 0.998
+        },
+        {
+          "word": "plan",
+          "start": 243.84,
+          "end": 244.12,
+          "probability": 0.997
+        },
+        {
+          "word": "the",
+          "start": 244.12,
+          "end": 244.3,
+          "probability": 0.99
+        },
+        {
+          "word": "room",
+          "start": 244.3,
+          "end": 244.54,
+          "probability": 0.966
+        },
+        {
+          "word": "had",
+          "start": 244.54,
+          "end": 244.68,
+          "probability": 0.998
+        },
+        {
+          "word": "already",
+          "start": 244.68,
+          "end": 245.16,
+          "probability": 0.998
+        },
+        {
+          "word": "chosen,",
+          "start": 245.16,
+          "end": 245.58,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "seek": 22376,
+      "start": 246.1,
+      "end": 247.2,
+      "text": "a defense in place.",
+      "words": [
+        {
+          "word": "a",
+          "start": 246.1,
+          "end": 246.22,
+          "probability": 0.987
+        },
+        {
+          "word": "defense",
+          "start": 246.22,
+          "end": 246.52,
+          "probability": 0.856
+        },
+        {
+          "word": "in",
+          "start": 246.52,
+          "end": 246.9,
+          "probability": 0.996
+        },
+        {
+          "word": "place.",
+          "start": 246.9,
+          "end": 247.2,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "seek": 22376,
+      "start": 247.92,
+      "end": 248.76,
+      "text": "And the clearing weather",
+      "words": [
+        {
+          "word": "And",
+          "start": 247.92,
+          "end": 248.16,
+          "probability": 0.962
+        },
+        {
+          "word": "the",
+          "start": 248.16,
+          "end": 248.28,
+          "probability": 0.993
+        },
+        {
+          "word": "clearing",
+          "start": 248.28,
+          "end": 248.48,
+          "probability": 0.934
+        },
+        {
+          "word": "weather",
+          "start": 248.48,
+          "end": 248.76,
+          "probability": 0.963
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "seek": 22376,
+      "start": 248.76,
+      "end": 252.28,
+      "text": "and the 4th Armored Division made that plan survivable.",
+      "words": [
+        {
+          "word": "and",
+          "start": 248.76,
+          "end": 249.38,
+          "probability": 0.881
+        },
+        {
+          "word": "the",
+          "start": 249.38,
+          "end": 249.5,
+          "probability": 0.992
+        },
+        {
+          "word": "4th",
+          "start": 249.5,
+          "end": 249.78,
+          "probability": 0.768
+        },
+        {
+          "word": "Armored",
+          "start": 249.78,
+          "end": 249.98,
+          "probability": 0.82
+        },
+        {
+          "word": "Division",
+          "start": 249.98,
+          "end": 250.32,
+          "probability": 0.99
+        },
+        {
+          "word": "made",
+          "start": 250.32,
+          "end": 250.96,
+          "probability": 0.987
+        },
+        {
+          "word": "that",
+          "start": 250.96,
+          "end": 251.16,
+          "probability": 0.989
+        },
+        {
+          "word": "plan",
+          "start": 251.16,
+          "end": 251.5,
+          "probability": 0.997
+        },
+        {
+          "word": "survivable.",
+          "start": 251.5,
+          "end": 252.28,
+          "probability": 0.982
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "seek": 22376,
+      "start": 253.16,
+      "end": 255.32,
+      "text": "Maxwell Taylor rejoined the division that night",
+      "words": [
+        {
+          "word": "Maxwell",
+          "start": 253.16,
+          "end": 253.52,
+          "probability": 0.992
+        },
+        {
+          "word": "Taylor",
+          "start": 253.52,
+          "end": 253.92,
+          "probability": 0.833
+        },
+        {
+          "word": "rejoined",
+          "start": 253.92,
+          "end": 254.4,
+          "probability": 0.992
+        },
+        {
+          "word": "the",
+          "start": 254.4,
+          "end": 254.5,
+          "probability": 0.991
+        },
+        {
+          "word": "division",
+          "start": 254.5,
+          "end": 254.8,
+          "probability": 0.842
+        },
+        {
+          "word": "that",
+          "start": 254.8,
+          "end": 255.04,
+          "probability": 0.997
+        },
+        {
+          "word": "night",
+          "start": 255.04,
+          "end": 255.32,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "seek": 25308,
+      "start": 255.32,
+      "end": 256.46,
+      "text": "and took command back.",
+      "words": [
+        {
+          "word": "and",
+          "start": 255.32,
+          "end": 255.74,
+          "probability": 0.289
+        },
+        {
+          "word": "took",
+          "start": 255.74,
+          "end": 255.9,
+          "probability": 0.872
+        },
+        {
+          "word": "command",
+          "start": 255.9,
+          "end": 256.18,
+          "probability": 0.962
+        },
+        {
+          "word": "back.",
+          "start": 256.18,
+          "end": 256.46,
+          "probability": 0.987
+        }
+      ]
+    }
+  ]
+}

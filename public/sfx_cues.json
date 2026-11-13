@@ -1,0 +1,1554 @@
+[
+  {
+    "frame": 0,
+    "cue": "camera_push",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (cold_open_fade_from_black) entering scene_01"
+  },
+  {
+    "frame": 0,
+    "cue": "paper_rustle_heavy",
+    "audio_track_layer": 2,
+    "volume_db": -22,
+    "reason": "Cold open tactile command dispatch wake-up cue"
+  },
+  {
+    "frame": 0,
+    "end_frame": 444,
+    "cue": "dark_drone",
+    "audio_track_layer": 3,
+    "volume_db": -21.5,
+    "reason": "Dawn awakening and German surrender ultimatum atmosphere inside command post"
+  },
+  {
+    "frame": 49,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"LTC NED MOORE • ACTING CHIEF OF STAFF\" in scene_01"
+  },
+  {
+    "frame": 151,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"SURRENDER DEMAND\" in scene_01"
+  },
+  {
+    "frame": 183,
+    "cue": "portal_zoom_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (iris_zoom_through) entering scene_02"
+  },
+  {
+    "frame": 186,
+    "cue": "paper_rustle",
+    "audio_track_layer": 2,
+    "volume_db": -22,
+    "reason": "Mounted archival plate settles onto dark_wood board in scene_02"
+  },
+  {
+    "frame": 247,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"S.L.A. MARSHALL • ARMY HISTORIAN\" in scene_02"
+  },
+  {
+    "frame": 290,
+    "cue": "camera_push",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Inspection zoom push on word \"Marshall\" in scene_02"
+  },
+  {
+    "frame": 316,
+    "cue": "shutter_wipe",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (halation_flash_dissolve) entering scene_03"
+  },
+  {
+    "frame": 338,
+    "cue": "pop_firm",
+    "audio_track_layer": 1,
+    "volume_db": -22.5,
+    "reason": "Hero cutout real_mcauliffe_portrait springs into frame"
+  },
+  {
+    "frame": 367,
+    "cue": "brush_swipe_heavy",
+    "audio_track_layer": 1,
+    "volume_db": -22,
+    "reason": "Crimson brush banner \"ONE WORD\" wipes across scene_03"
+  },
+  {
+    "frame": 417,
+    "cue": "paper_unfold",
+    "audio_track_layer": 1,
+    "volume_db": -22.5,
+    "reason": "3D archival document real_nuts_telegram unfolds"
+  },
+  {
+    "frame": 417,
+    "cue": "paper_rustle_heavy",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Tactile document unfold foley for real_nuts_telegram"
+  },
+  {
+    "frame": 443,
+    "cue": "portal_zoom_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (iris_zoom_through) entering scene_04"
+  },
+  {
+    "frame": 444,
+    "end_frame": 887,
+    "cue": "clock_pulse",
+    "audio_track_layer": 3,
+    "volume_db": -21,
+    "reason": "Two-hour German ultimatum countdown ticks beneath operations room exchange"
+  },
+  {
+    "frame": 459,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"OPERATIONS ROOM • BASTOGNE\" in scene_04"
+  },
+  {
+    "frame": 556,
+    "cue": "camera_move",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (tectonic_vertical_rise) entering scene_05"
+  },
+  {
+    "frame": 559,
+    "cue": "paper_rustle",
+    "audio_track_layer": 2,
+    "volume_db": -22,
+    "reason": "Mounted archival plate settles onto slate board in scene_05"
+  },
+  {
+    "frame": 564,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"LTC HARRY CONARD • OPERATIONS OFFICER\" in scene_05"
+  },
+  {
+    "frame": 657,
+    "cue": "camera_push",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Inspection zoom push on word \"surrender\" in scene_05"
+  },
+  {
+    "frame": 688,
+    "cue": "pullback_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (camera_pullback_through_monitor) entering scene_06"
+  },
+  {
+    "frame": 731,
+    "cue": "neon_hud_flicker",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "HUD callout \"“NO, SIR.”\" flashes beside mirror portal"
+  },
+  {
+    "frame": 731,
+    "cue": "sub_bass",
+    "audio_track_layer": 3,
+    "volume_db": -21,
+    "reason": "Tension stinger underscores HUD revelation \"“NO, SIR.”\""
+  },
+  {
+    "frame": 776,
+    "cue": "viewfinder_click",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "HUD callout \"THEY WANT US TO SURRENDER\" flashes beside mirror portal"
+  },
+  {
+    "frame": 776,
+    "cue": "bowed_metal",
+    "audio_track_layer": 3,
+    "volume_db": -21,
+    "reason": "Tension stinger underscores HUD revelation \"THEY WANT US TO SURRENDER\""
+  },
+  {
+    "frame": 807,
+    "cue": "camera_move",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (tectonic_vertical_rise) entering scene_07"
+  },
+  {
+    "frame": 848,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"“US SURRENDER?”\" in scene_07"
+  },
+  {
+    "frame": 854,
+    "cue": "suspense_stinger",
+    "audio_track_layer": 3,
+    "volume_db": -21,
+    "reason": "Disbelief stinger on \"Us surrender?\" in scene_07"
+  },
+  {
+    "frame": 886,
+    "cue": "portal_zoom_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (window_portal_push_through) entering scene_08"
+  },
+  {
+    "frame": 887,
+    "end_frame": 1448,
+    "cue": "howling_blizzard",
+    "audio_track_layer": 3,
+    "volume_db": -21.5,
+    "reason": "Sub-zero Bastogne perimeter snowstorm bed as McAuliffe inspects west outpost"
+  },
+  {
+    "frame": 941,
+    "cue": "paper_rustle_heavy",
+    "audio_track_layer": 2,
+    "volume_db": -21,
+    "reason": "McAuliffe crumples German surrender paper in scene_08"
+  },
+  {
+    "frame": 995,
+    "cue": "shutter_wipe",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (diagonal_shutter_wipe) entering scene_09"
+  },
+  {
+    "frame": 998,
+    "cue": "paper_rustle",
+    "audio_track_layer": 2,
+    "volume_db": -22,
+    "reason": "Mounted archival plate settles onto dark_wood board in scene_09"
+  },
+  {
+    "frame": 1048,
+    "cue": "draw_line",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Animated tactical route vector in scene_09"
+  },
+  {
+    "frame": 1071,
+    "cue": "camera_push",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Inspection zoom push on word \"perimeter\" in scene_09"
+  },
+  {
+    "frame": 1127,
+    "cue": "marker_circle",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Red ink circle around Bastogne perimeter on map in scene_09"
+  },
+  {
+    "frame": 1167,
+    "cue": "portal_zoom_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (iris_zoom_through) entering scene_10"
+  },
+  {
+    "frame": 1258,
+    "cue": "strikethrough_slice",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Redaction/halt strike \"NO ONE ARGUED\" in scene_10"
+  },
+  {
+    "frame": 1303,
+    "cue": "shutter_wipe",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (halation_flash_dissolve) entering scene_11"
+  },
+  {
+    "frame": 1354,
+    "cue": "viewfinder_click",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "HUD callout \"REPLY: UNWRITTEN\" flashes beside mirror portal"
+  },
+  {
+    "frame": 1354,
+    "cue": "bowed_metal",
+    "audio_track_layer": 3,
+    "volume_db": -21,
+    "reason": "Tension stinger underscores HUD revelation \"REPLY: UNWRITTEN\""
+  },
+  {
+    "frame": 1386,
+    "cue": "neon_hud_flicker",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "HUD callout \"DEADLINE: TWO HOURS\" flashes beside mirror portal"
+  },
+  {
+    "frame": 1386,
+    "cue": "sub_bass",
+    "audio_track_layer": 3,
+    "volume_db": -21,
+    "reason": "Tension stinger underscores HUD revelation \"DEADLINE: TWO HOURS\""
+  },
+  {
+    "frame": 1447,
+    "cue": "barrel_roll_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (barrel_roll_stone_wipe) entering scene_12"
+  },
+  {
+    "frame": 1448,
+    "end_frame": 2395,
+    "cue": "vintage_hum",
+    "audio_track_layer": 3,
+    "volume_db": -22,
+    "reason": "Analog command room and typewriter drafting ambience bed"
+  },
+  {
+    "frame": 1530,
+    "cue": "click",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"4 GERMANS WAITING\" in scene_12"
+  },
+  {
+    "frame": 1602,
+    "cue": "photo_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_snowy_outpost_foxholes_bastogne lead-in drop on \"outpost\""
+  },
+  {
+    "frame": 1603,
+    "cue": "wood_thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_snowy_outpost_foxholes_bastogne lands on canvas board"
+  },
+  {
+    "frame": 1605,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_snowy_outpost_foxholes_bastogne"
+  },
+  {
+    "frame": 1669,
+    "cue": "polaroid_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_german_surrender_note lead-in drop on \"written\""
+  },
+  {
+    "frame": 1670,
+    "cue": "thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_german_surrender_note lands on canvas board"
+  },
+  {
+    "frame": 1672,
+    "cue": "click",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_german_surrender_note"
+  },
+  {
+    "frame": 1713,
+    "cue": "shutter_wipe",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (halation_flash_dissolve) entering scene_13"
+  },
+  {
+    "frame": 1806,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"NO ANSWER YET\" in scene_13"
+  },
+  {
+    "frame": 1850,
+    "cue": "pullback_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (camera_pullback_through_monitor) entering scene_14"
+  },
+  {
+    "frame": 1965,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"HARD TO BEAT\" in scene_14"
+  },
+  {
+    "frame": 1992,
+    "cue": "camera_move",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (tectonic_vertical_rise) entering scene_15"
+  },
+  {
+    "frame": 1995,
+    "cue": "paper_rustle",
+    "audio_track_layer": 2,
+    "volume_db": -22,
+    "reason": "Mounted archival plate settles onto slate board in scene_15"
+  },
+  {
+    "frame": 2021,
+    "cue": "camera_push",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Inspection zoom push on word \"meant\" in scene_15"
+  },
+  {
+    "frame": 2113,
+    "cue": "stamp_slam",
+    "audio_track_layer": 2,
+    "volume_db": -20.5,
+    "reason": "Stamp slam \"“NUTS”\" in scene_15"
+  },
+  {
+    "frame": 2113,
+    "cue": "sub_drop",
+    "audio_track_layer": 3,
+    "volume_db": -20.5,
+    "reason": "Sub-bass/brass gravity underscores \"“NUTS”\""
+  },
+  {
+    "frame": 2142,
+    "cue": "shutter_wipe",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (halation_flash_dissolve) entering scene_16"
+  },
+  {
+    "frame": 2241,
+    "cue": "pullback_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (camera_pullback_through_monitor) entering scene_17"
+  },
+  {
+    "frame": 2318,
+    "cue": "typewriter_key_clack",
+    "audio_track_layer": 1,
+    "volume_db": -22.5,
+    "reason": "Manual typewriter strikes N-U-T-S in scene_17"
+  },
+  {
+    "frame": 2330,
+    "cue": "trench_radio_crackle",
+    "audio_track_layer": 2,
+    "volume_db": -22.5,
+    "reason": "Field headquarters dispatch click in scene_17"
+  },
+  {
+    "frame": 2358,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"SINGLE SHEET\" in scene_17"
+  },
+  {
+    "frame": 2394,
+    "cue": "portal_zoom_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (iris_zoom_through) entering scene_18"
+  },
+  {
+    "frame": 2397,
+    "cue": "paper_rustle",
+    "audio_track_layer": 2,
+    "volume_db": -22,
+    "reason": "Mounted archival plate settles onto dark_wood board in scene_18"
+  },
+  {
+    "frame": 2413,
+    "cue": "camera_push",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Inspection zoom push on word \"commander\" in scene_18"
+  },
+  {
+    "frame": 2491,
+    "cue": "stamp_slam",
+    "audio_track_layer": 2,
+    "volume_db": -20.5,
+    "reason": "Stamp slam \"N-U-T-S\" in scene_18"
+  },
+  {
+    "frame": 2491,
+    "cue": "sub_drop",
+    "audio_track_layer": 3,
+    "volume_db": -20.5,
+    "reason": "Sub-bass/brass gravity underscores \"N-U-T-S\""
+  },
+  {
+    "frame": 2543,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"THE AMERICAN COMMANDER\" in scene_18"
+  },
+  {
+    "frame": 2600,
+    "cue": "click",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"THAT WAS ALL\" in scene_18"
+  },
+  {
+    "frame": 2629,
+    "cue": "shutter_wipe",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (halation_flash_dissolve) entering scene_19"
+  },
+  {
+    "frame": 2630,
+    "end_frame": 3811,
+    "cue": "cold_wind",
+    "audio_track_layer": 3,
+    "volume_db": -21,
+    "reason": "Freezing no-mans land wind bed during Colonel Harper ultimatum delivery to German lines"
+  },
+  {
+    "frame": 2647,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"COL. JOSEPH HARPER • 327TH GLIDER INF.\" in scene_19"
+  },
+  {
+    "frame": 2785,
+    "cue": "camera_move",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (tectonic_vertical_rise) entering scene_20"
+  },
+  {
+    "frame": 2815,
+    "cue": "paper_slide",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Typed ultimatum reply handed to Colonel Harper"
+  },
+  {
+    "frame": 2842,
+    "cue": "strikethrough_slice",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Redaction/halt strike \"STOP AT THE LINE\" in scene_20"
+  },
+  {
+    "frame": 2912,
+    "cue": "pillar_wipe_swish",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (foreground_pillar_whip_wipe) entering scene_21"
+  },
+  {
+    "frame": 2982,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"NEGATIVE OR AFFIRMATIVE?\" in scene_21"
+  },
+  {
+    "frame": 3078,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"WOULD NEGOTIATE FURTHER\" in scene_21"
+  },
+  {
+    "frame": 3122,
+    "cue": "portal_zoom_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (iris_zoom_through) entering scene_22"
+  },
+  {
+    "frame": 3125,
+    "cue": "paper_rustle",
+    "audio_track_layer": 2,
+    "volume_db": -22,
+    "reason": "Mounted archival plate settles onto slate board in scene_22"
+  },
+  {
+    "frame": 3153,
+    "cue": "camera_push",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Inspection zoom push on word \"decidedly\" in scene_22"
+  },
+  {
+    "frame": 3181,
+    "cue": "stamp_slam",
+    "audio_track_layer": 2,
+    "volume_db": -20.5,
+    "reason": "Stamp slam \"NOT AFFIRMATIVE\" in scene_22"
+  },
+  {
+    "frame": 3181,
+    "cue": "sub_drop",
+    "audio_track_layer": 3,
+    "volume_db": -20.5,
+    "reason": "Sub-bass/brass gravity underscores \"NOT AFFIRMATIVE\""
+  },
+  {
+    "frame": 3293,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"LOSSES: TREMENDOUS\" in scene_22"
+  },
+  {
+    "frame": 3329,
+    "cue": "camera_move",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (tectonic_vertical_rise) entering scene_23"
+  },
+  {
+    "frame": 3371,
+    "cue": "click",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"PFC ERNEST PREMETZ • INTERPRETER\" in scene_23"
+  },
+  {
+    "frame": 3476,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"“GO TO THE DEVIL”\" in scene_23"
+  },
+  {
+    "frame": 3500,
+    "cue": "portal_zoom_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (window_portal_push_through) entering scene_24"
+  },
+  {
+    "frame": 3608,
+    "cue": "neon_hud_flicker",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "HUD callout \"WARNING: MANY AMERICANS WILL DIE\" flashes beside mirror portal"
+  },
+  {
+    "frame": 3608,
+    "cue": "sub_bass",
+    "audio_track_layer": 3,
+    "volume_db": -21,
+    "reason": "Tension stinger underscores HUD revelation \"WARNING: MANY AMERICANS WILL DIE\""
+  },
+  {
+    "frame": 3671,
+    "cue": "viewfinder_click",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "HUD callout \"“THIS IS WAR”\" flashes beside mirror portal"
+  },
+  {
+    "frame": 3671,
+    "cue": "bowed_metal",
+    "audio_track_layer": 3,
+    "volume_db": -21,
+    "reason": "Tension stinger underscores HUD revelation \"“THIS IS WAR”\""
+  },
+  {
+    "frame": 3700,
+    "cue": "shutter_wipe",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (halation_flash_dissolve) entering scene_25"
+  },
+  {
+    "frame": 3717,
+    "cue": "foley_snow_crunch",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "German envoys turn and march back across frozen snow"
+  },
+  {
+    "frame": 3810,
+    "cue": "portal_zoom_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (iris_zoom_through) entering scene_26"
+  },
+  {
+    "frame": 3811,
+    "end_frame": 4389,
+    "cue": "distant_artillery_rumble",
+    "audio_track_layer": 3,
+    "volume_db": -22,
+    "reason": "Distant encirclement artillery rumble as defense plan holds without immediate barrage"
+  },
+  {
+    "frame": 3813,
+    "cue": "paper_rustle",
+    "audio_track_layer": 2,
+    "volume_db": -22,
+    "reason": "Mounted archival plate settles onto dark_wood board in scene_26"
+  },
+  {
+    "frame": 3815,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"THE WORD\" in scene_26"
+  },
+  {
+    "frame": 3840,
+    "cue": "strikethrough_slice",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Redaction/halt strike \"NO CHANGE\" in scene_26"
+  },
+  {
+    "frame": 3860,
+    "cue": "camera_push",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Inspection zoom push on word \"plan\" in scene_26"
+  },
+  {
+    "frame": 3895,
+    "cue": "barrel_roll_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (barrel_roll_stone_wipe) entering scene_27"
+  },
+  {
+    "frame": 3901,
+    "cue": "photo_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_mcauliffe_staff_photo lead-in drop on \"decision\""
+  },
+  {
+    "frame": 3902,
+    "cue": "wood_thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_mcauliffe_staff_photo lands on canvas board"
+  },
+  {
+    "frame": 3904,
+    "cue": "click",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_mcauliffe_staff_photo"
+  },
+  {
+    "frame": 4070,
+    "cue": "photo_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_map_bastogne_tactical lead-in drop on \"circle\""
+  },
+  {
+    "frame": 4071,
+    "cue": "wood_thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_map_bastogne_tactical lands on canvas board"
+  },
+  {
+    "frame": 4073,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_map_bastogne_tactical"
+  },
+  {
+    "frame": 4142,
+    "cue": "odometer_roll",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Numeric telemetry lock \"10 ROUNDS OF GUN\" in scene_27"
+  },
+  {
+    "frame": 4142,
+    "cue": "impact_hit",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Metric lock tactile thud in scene_27"
+  },
+  {
+    "frame": 4150,
+    "cue": "polaroid_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_105mm_howitzer_bastogne lead-in drop on \"rounds\""
+  },
+  {
+    "frame": 4151,
+    "cue": "thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_105mm_howitzer_bastogne lands on canvas board"
+  },
+  {
+    "frame": 4153,
+    "cue": "click",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_105mm_howitzer_bastogne"
+  },
+  {
+    "frame": 4198,
+    "cue": "photo_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_third_army_column_dec1944 lead-in drop on \"relief\""
+  },
+  {
+    "frame": 4199,
+    "cue": "wood_thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_third_army_column_dec1944 lands on canvas board"
+  },
+  {
+    "frame": 4201,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_third_army_column_dec1944"
+  },
+  {
+    "frame": 4270,
+    "cue": "map_pan",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (panoramic_push_glide) entering scene_28"
+  },
+  {
+    "frame": 4361,
+    "cue": "heartbeat",
+    "audio_track_layer": 3,
+    "volume_db": -22,
+    "reason": "Tense silence pulse when anticipated barrage does not come"
+  },
+  {
+    "frame": 4388,
+    "cue": "shutter_wipe",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (diagonal_shutter_wipe) entering scene_29"
+  },
+  {
+    "frame": 4389,
+    "end_frame": 4943,
+    "cue": "siberia_wind",
+    "audio_track_layer": 3,
+    "volume_db": -21.5,
+    "reason": "High-altitude cold front clearing skies for 241 C-47 supply drops"
+  },
+  {
+    "frame": 4400,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"DEC 23, 1944 • SKIES CLEAR\" in scene_29"
+  },
+  {
+    "frame": 4509,
+    "cue": "odometer_roll",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Numeric telemetry lock \"241 C-47s\" in scene_29"
+  },
+  {
+    "frame": 4509,
+    "cue": "impact_hit",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Metric lock tactile thud in scene_29"
+  },
+  {
+    "frame": 4568,
+    "cue": "photo_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_c47_airdrop_bastogne_1944 lead-in drop on \"transports\""
+  },
+  {
+    "frame": 4569,
+    "cue": "wood_thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_c47_airdrop_bastogne_1944 lands on canvas board"
+  },
+  {
+    "frame": 4571,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_c47_airdrop_bastogne_1944"
+  },
+  {
+    "frame": 4614,
+    "cue": "odometer_roll",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Numeric telemetry lock \"144 TONS\" in scene_29"
+  },
+  {
+    "frame": 4614,
+    "cue": "impact_hit",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Metric lock tactile thud in scene_29"
+  },
+  {
+    "frame": 4742,
+    "cue": "photo_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_supply_parachutes_bastogne_snow lead-in drop on \"rations\""
+  },
+  {
+    "frame": 4743,
+    "cue": "wood_thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_supply_parachutes_bastogne_snow lands on canvas board"
+  },
+  {
+    "frame": 4745,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_supply_parachutes_bastogne_snow"
+  },
+  {
+    "frame": 4832,
+    "cue": "photo_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_p47_thunderbolt_ardennes lead-in drop on \"fighters\""
+  },
+  {
+    "frame": 4833,
+    "cue": "wood_thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_p47_thunderbolt_ardennes lands on canvas board"
+  },
+  {
+    "frame": 4835,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_p47_thunderbolt_ardennes"
+  },
+  {
+    "frame": 4942,
+    "cue": "pullback_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (camera_pullback_through_monitor) entering scene_30"
+  },
+  {
+    "frame": 4943,
+    "end_frame": 5348,
+    "cue": "torch_fire_crackle",
+    "audio_track_layer": 3,
+    "volume_db": -21,
+    "reason": "Burning aid-station debris crackle during December 24 German night bombing raid"
+  },
+  {
+    "frame": 4969,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"DEC 24, 1944 • BASTOGNE\" in scene_30"
+  },
+  {
+    "frame": 4989,
+    "end_frame": 5024,
+    "cue": "musical_riser",
+    "audio_track_layer": 3,
+    "volume_db": -20,
+    "reason": "Suspense riser builds into German Christmas Eve bomber strike"
+  },
+  {
+    "frame": 5024,
+    "cue": "cannon_blast",
+    "audio_track_layer": 2,
+    "volume_db": -19.5,
+    "reason": "Direct bomb hit flash on Bastogne aid station"
+  },
+  {
+    "frame": 5024,
+    "cue": "dramatic_braam",
+    "audio_track_layer": 3,
+    "volume_db": -20,
+    "reason": "Low brass impact marks aid station bombing"
+  },
+  {
+    "frame": 5105,
+    "cue": "piano_hit",
+    "audio_track_layer": 3,
+    "volume_db": -21,
+    "reason": "Solemn piano accent introduces Belgian nurse Renée Lemaire"
+  },
+  {
+    "frame": 5201,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"RENÉE LEMAIRE • BELGIAN NURSE\" in scene_30"
+  },
+  {
+    "frame": 5267,
+    "cue": "odometer_roll",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Numeric telemetry lock \"~30 WOUNDED KILLED\" in scene_30"
+  },
+  {
+    "frame": 5267,
+    "cue": "impact_hit",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Metric lock tactile thud in scene_30"
+  },
+  {
+    "frame": 5347,
+    "cue": "camera_move",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (tectonic_vertical_rise) entering scene_31"
+  },
+  {
+    "frame": 5350,
+    "cue": "paper_rustle",
+    "audio_track_layer": 2,
+    "volume_db": -22,
+    "reason": "Mounted archival plate settles onto slate board in scene_31"
+  },
+  {
+    "frame": 5365,
+    "cue": "camera_push",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Inspection zoom push on word \"Christmas\" in scene_31"
+  },
+  {
+    "frame": 5501,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"DEMAND + REPLY\" in scene_31"
+  },
+  {
+    "frame": 5569,
+    "cue": "portal_zoom_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (window_portal_push_through) entering scene_32"
+  },
+  {
+    "frame": 5570,
+    "end_frame": 6179,
+    "cue": "distant_artillery_rumble",
+    "audio_track_layer": 3,
+    "volume_db": -21,
+    "reason": "Christmas morning German 15th Panzer Grenadier armored assault rumble"
+  },
+  {
+    "frame": 5585,
+    "cue": "click",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"DEC 25 • CHRISTMAS MORNING\" in scene_32"
+  },
+  {
+    "frame": 5620,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"15TH PANZER GRENADIER DIV.\" in scene_32"
+  },
+  {
+    "frame": 5687,
+    "cue": "click",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"26TH VOLKSGRENADIER DIV.\" in scene_32"
+  },
+  {
+    "frame": 5813,
+    "cue": "shutter_wipe",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (diagonal_shutter_wipe) entering scene_33"
+  },
+  {
+    "frame": 5814,
+    "cue": "odometer_roll",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Numeric telemetry lock \"18 TANKS THROUGH\" in scene_33"
+  },
+  {
+    "frame": 5814,
+    "cue": "impact_hit",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Metric lock tactile thud in scene_33"
+  },
+  {
+    "frame": 5838,
+    "cue": "photo_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_destroyed_panzer_bastogne_dec1944 lead-in drop on \"tanks\""
+  },
+  {
+    "frame": 5839,
+    "cue": "wood_thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_destroyed_panzer_bastogne_dec1944 lands on canvas board"
+  },
+  {
+    "frame": 5841,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_destroyed_panzer_bastogne_dec1944"
+  },
+  {
+    "frame": 5906,
+    "cue": "polaroid_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_502nd_pir_insignia lead-in drop on \"502nd\""
+  },
+  {
+    "frame": 5907,
+    "cue": "thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_502nd_pir_insignia lands on canvas board"
+  },
+  {
+    "frame": 5909,
+    "cue": "click",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_502nd_pir_insignia"
+  },
+  {
+    "frame": 5976,
+    "cue": "photo_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_327th_gir_insignia lead-in drop on \"327th\""
+  },
+  {
+    "frame": 5977,
+    "cue": "wood_thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_327th_gir_insignia lands on canvas board"
+  },
+  {
+    "frame": 5979,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_327th_gir_insignia"
+  },
+  {
+    "frame": 6046,
+    "cue": "polaroid_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_705th_tank_destroyer_m18 lead-in drop on \"705th\""
+  },
+  {
+    "frame": 6047,
+    "cue": "thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_705th_tank_destroyer_m18 lands on canvas board"
+  },
+  {
+    "frame": 6049,
+    "cue": "click",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_705th_tank_destroyer_m18"
+  },
+  {
+    "frame": 6122,
+    "cue": "stamp_slam",
+    "audio_track_layer": 2,
+    "volume_db": -20.5,
+    "reason": "Stamp slam \"ALL DESTROYED\" in scene_33"
+  },
+  {
+    "frame": 6122,
+    "cue": "sub_drop",
+    "audio_track_layer": 3,
+    "volume_db": -20.5,
+    "reason": "Sub-bass/brass gravity underscores \"ALL DESTROYED\""
+  },
+  {
+    "frame": 6178,
+    "cue": "pullback_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (camera_pullback_through_monitor) entering scene_34"
+  },
+  {
+    "frame": 6179,
+    "end_frame": 6884,
+    "cue": "marching_army",
+    "audio_track_layer": 3,
+    "volume_db": -21.5,
+    "reason": "Sustained armored and infantry relief advance as 4th Armored breaks into Bastogne"
+  },
+  {
+    "frame": 6209,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"16:50 • DEC 26, 1944\" in scene_34"
+  },
+  {
+    "frame": 6273,
+    "cue": "foley_snow_crunch",
+    "audio_track_layer": 2,
+    "volume_db": -21,
+    "reason": "Frozen snow crunch under advancing Task Force Abrams column"
+  },
+  {
+    "frame": 6325,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"TASK FORCE ABRAMS • 4TH ARMORED DIV.\" in scene_34"
+  },
+  {
+    "frame": 6367,
+    "cue": "whoosh_fast",
+    "audio_track_layer": 1,
+    "volume_db": -22.5,
+    "reason": "Lateral whip-pan to Cobra King Sherman tank"
+  },
+  {
+    "frame": 6368,
+    "cue": "trailer_hit",
+    "audio_track_layer": 2,
+    "volume_db": -20,
+    "reason": "Heavy armored impact as Cobra King reaches Bastogne perimeter"
+  },
+  {
+    "frame": 6368,
+    "cue": "orchestral_hit",
+    "audio_track_layer": 3,
+    "volume_db": -20,
+    "reason": "Climactic orchestral hit for the breakthrough of the encirclement"
+  },
+  {
+    "frame": 6650,
+    "cue": "camera_move",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (tectonic_vertical_rise) entering scene_35"
+  },
+  {
+    "frame": 6660,
+    "cue": "draw_line",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Animated tactical route vector in scene_35"
+  },
+  {
+    "frame": 6683,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"ROAD OPEN\" in scene_35"
+  },
+  {
+    "frame": 6719,
+    "cue": "paper_slide",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (archival_pip_over_fullbleed) entering scene_36"
+  },
+  {
+    "frame": 6722,
+    "cue": "paper_rustle",
+    "audio_track_layer": 2,
+    "volume_db": -22,
+    "reason": "Mounted archival plate settles onto dark_wood board in scene_36"
+  },
+  {
+    "frame": 6800,
+    "cue": "camera_push",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Inspection zoom push on word \"fighting\" in scene_36"
+  },
+  {
+    "frame": 6840,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"INTO JANUARY 1945\" in scene_36"
+  },
+  {
+    "frame": 6883,
+    "cue": "shutter_wipe",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (diagonal_shutter_wipe) entering scene_37"
+  },
+  {
+    "frame": 6955,
+    "cue": "photo_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_mcauliffe_general_portrait_board lead-in drop on \"senior\""
+  },
+  {
+    "frame": 6956,
+    "cue": "wood_thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_mcauliffe_general_portrait_board lands on canvas board"
+  },
+  {
+    "frame": 6958,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_mcauliffe_general_portrait_board"
+  },
+  {
+    "frame": 7039,
+    "cue": "polaroid_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_maxwell_taylor_cutout lead-in drop on \"Washington\""
+  },
+  {
+    "frame": 7040,
+    "cue": "camera_shutter",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"MG TAYLOR • WASHINGTON\" in scene_37"
+  },
+  {
+    "frame": 7040,
+    "cue": "thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_maxwell_taylor_cutout lands on canvas board"
+  },
+  {
+    "frame": 7042,
+    "cue": "click",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_maxwell_taylor_cutout"
+  },
+  {
+    "frame": 7062,
+    "cue": "photo_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_gerald_higgins_portrait lead-in drop on \"England\""
+  },
+  {
+    "frame": 7063,
+    "cue": "lens_click",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"BG HIGGINS • ENGLAND\" in scene_37"
+  },
+  {
+    "frame": 7063,
+    "cue": "wood_thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_gerald_higgins_portrait lands on canvas board"
+  },
+  {
+    "frame": 7065,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_gerald_higgins_portrait"
+  },
+  {
+    "frame": 7096,
+    "cue": "pullback_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (camera_pullback_through_monitor) entering scene_38"
+  },
+  {
+    "frame": 7097,
+    "end_frame": 7708,
+    "cue": "cold_wind",
+    "audio_track_layer": 3,
+    "volume_db": -22,
+    "reason": "Winter Bastogne wind bed through final historical reflection and Taylor return"
+  },
+  {
+    "frame": 7104,
+    "cue": "brush_swipe_heavy",
+    "audio_track_layer": 1,
+    "volume_db": -22,
+    "reason": "Crimson brush banner \"THE WORD\" wipes across scene_38"
+  },
+  {
+    "frame": 7145,
+    "cue": "pop_firm",
+    "audio_track_layer": 1,
+    "volume_db": -22.5,
+    "reason": "Hero cutout real_mcauliffe_portrait springs into frame"
+  },
+  {
+    "frame": 7245,
+    "cue": "paper_unfold",
+    "audio_track_layer": 1,
+    "volume_db": -22.5,
+    "reason": "3D archival document real_nuts_telegram unfolds"
+  },
+  {
+    "frame": 7245,
+    "cue": "paper_rustle_heavy",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Tactile document unfold foley for real_nuts_telegram"
+  },
+  {
+    "frame": 7281,
+    "cue": "camera_move",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (tectonic_vertical_rise) entering scene_39"
+  },
+  {
+    "frame": 7291,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"COMMITTED\" in scene_39"
+  },
+  {
+    "frame": 7387,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"DEFENSE IN PLACE\" in scene_39"
+  },
+  {
+    "frame": 7437,
+    "cue": "barrel_roll_whoosh",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (barrel_roll_stone_wipe) entering scene_40"
+  },
+  {
+    "frame": 7453,
+    "cue": "photo_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_supply_parachutes_bastogne_snow lead-in drop on \"weather\""
+  },
+  {
+    "frame": 7454,
+    "cue": "wood_thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_supply_parachutes_bastogne_snow lands on canvas board"
+  },
+  {
+    "frame": 7456,
+    "cue": "click",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_supply_parachutes_bastogne_snow"
+  },
+  {
+    "frame": 7492,
+    "cue": "polaroid_drop",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Montage item real_4th_armored_division_tanks_dec1944 lead-in drop on \"Armored\""
+  },
+  {
+    "frame": 7493,
+    "cue": "thud",
+    "audio_track_layer": 2,
+    "volume_db": -21.5,
+    "reason": "Montage photo real_4th_armored_division_tanks_dec1944 lands on canvas board"
+  },
+  {
+    "frame": 7495,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -24.5,
+    "reason": "Exhibit frame and caption lock for real_4th_armored_division_tanks_dec1944"
+  },
+  {
+    "frame": 7545,
+    "cue": "camera_shutter",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"SURVIVABLE\" in scene_40"
+  },
+  {
+    "frame": 7594,
+    "cue": "pillar_wipe_swish",
+    "audio_track_layer": 1,
+    "volume_db": -23,
+    "reason": "Scene transition (foreground_pillar_whip_wipe) entering scene_41"
+  },
+  {
+    "frame": 7677,
+    "cue": "pop_soft",
+    "audio_track_layer": 1,
+    "volume_db": -23.5,
+    "reason": "Badge/caption lock \"MG MAXWELL TAYLOR • COMMAND RESUMED\" in scene_41"
+  }
+]

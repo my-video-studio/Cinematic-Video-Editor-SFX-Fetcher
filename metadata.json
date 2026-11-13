@@ -1,0 +1,6 @@
+{
+  "name": "The Word He Chose — Part 3: Nuts, the Siege, and the Road Reopened",
+  "description": "1080p 30fps Remotion historical documentary engine covering McAuliffe's NUTS reply, the Siege of Bastogne, and the relief of the pocket.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
