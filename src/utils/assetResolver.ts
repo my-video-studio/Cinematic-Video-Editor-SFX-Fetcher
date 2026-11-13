@@ -31,7 +31,7 @@ const VERIFIED_FALLBACK_FILES: Record<string, string> = {
   bg_snowy_treeline_enemy_unseen_dusk: 'real_krinkelt_snow_treeline_1944.jpg',
   cutout_german_volksgrenadier_infantry_waistup: 'real_german_ardennes_infantry_1944.jpg',
   cutout_us_staff_officer_conard_waistup: 'real_mcauliffe_kinnard_bastogne.jpg',
-  cutout_us_staff_officer_moore_waistup: 'real_bastogne_infantrymen_nara_1944.jpg',
+  cutout_us_staff_officer_moore_waistup: 'real_101st_paratroopers_bastogne_jan1945.jpg',
   bg_cellar_sleeping_quarters_dawn: 'real_stavelot_outpost_dec1944.jpg',
   bg_operations_room_map_table_dim: 'real_ardennes_generals_map_1945.jpg',
   bg_desk_pencil_blank_paper_lamp: 'real_bastogne_regroup_dec1944.jpg',
@@ -40,6 +40,7 @@ const VERIFIED_FALLBACK_FILES: Record<string, string> = {
   bg_pocket_southern_edge_road_dusk: 'real_bastogne_corridor_snow_field.jpg',
   cutout_us_sergeant_typist_waistup: 'real_us_sgt_typewriter_1944.jpg',
   cutout_us_colonel_harper_waistup: 'real_belgium_forest_soldier_nara_1944.jpg',
+  real_third_army_column_dec1944: 'real_10th_armored_bastogne_dec19.jpg',
 };
 
 export function getAssetEntry(assetId: string): AssetManifestEntry | undefined {
