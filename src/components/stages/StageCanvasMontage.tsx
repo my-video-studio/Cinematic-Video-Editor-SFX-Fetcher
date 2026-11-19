@@ -170,32 +170,6 @@ export const StageCanvasMontage: React.FC<StageCanvasMontageProps> = ({
                   }}
                 />
               )}
-
-              {entry?.attribution && (
-                <div
-                  style={{
-                    position: 'absolute',
-                    right: 8,
-                    bottom: 8,
-                    backgroundColor: 'rgba(10, 12, 16, 0.76)',
-                    paddingTop: 3,
-                    paddingBottom: 3,
-                    paddingLeft: 8,
-                    paddingRight: 8,
-                  }}
-                >
-                  <span
-                    style={{
-                      fontFamily: '"Courier New", Courier, monospace',
-                      fontSize: 11,
-                      color: '#f6f4ee',
-                      letterSpacing: 1.1,
-                    }}
-                  >
-                    {entry.attribution}
-                  </span>
-                </div>
-              )}
             </div>
           );
         })}
@@ -205,8 +179,10 @@ export const StageCanvasMontage: React.FC<StageCanvasMontageProps> = ({
       <div style={UNIVERSAL_VIGNETTE_STYLE} />
 
       <MicroActionOverlay
+        sceneId={scene.sceneId}
         microActions={scene.microActions}
         sceneStartFrame={scene.startFrame}
+        sequenceDurationInFrames={scene.durationInFrames}
       />
     </AbsoluteFill>
   );

@@ -4,30 +4,35 @@ on:
   workflow_dispatch:
     inputs:
       composition_id:
-        description: 'Remotion Composition ID to render'
+        description: 'Remotion Composition ID to render (HistoricalDocumentary)'
         required: true
-        type: string
         default: 'HistoricalDocumentary'
+        type: string
       output_filename:
         description: 'Output MP4 filename inside out/'
         required: true
-        type: string
         default: 'video.mp4'
+        type: string
 
 jobs:
   render:
+    name: Render Video in Cloud
     runs-on: ubuntu-latest
+    timeout-minutes: 120
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
+      - name: Setup Node.js 22
         uses: actions/setup-node@v4
         with:
           node-version: '22'
 
-      - name: Set up Bun
+      - name: Setup Bun
         uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
 
       - name: Cache Bun dependencies
         uses: actions/cache@v4
@@ -37,13 +42,13 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-bun-
 
-      - name: Install dependencies
+      - name: Install dependencies (frozen lockfile)
         run: bun install --frozen-lockfile
 
-      - name: Install Linux browser dependencies
+      - name: Install Linux Chromium shared libraries
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends \
+          sudo apt-get install -y \
             libnss3 \
             libatk1.0-0 \
             libatk-bridge2.0-0 \
@@ -57,17 +62,23 @@ jobs:
             libgbm1 \
             libpango-1.0-0 \
             libcairo2 \
-            libasound2t64
+            libasound2t64 \
+            ffmpeg
 
-      - name: Ensure Remotion browser
+      - name: Ensure Remotion Headless Browser
         run: npx remotion browser ensure
 
-      - name: Render video
-        run: npx remotion render "${{ github.event.inputs.composition_id }}" "out/${{ github.event.inputs.output_filename }}"
+      - name: Render Remotion Composition
+        run: |
+          mkdir -p out
+          npx remotion render "${{ github.event.inputs.composition_id }}" "out/${{ github.event.inputs.output_filename }}" --concurrency=2
 
-      - name: Upload rendered video artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: rendered-video
-          path: out/${{ github.event.inputs.output_filename }}
-          if-no-files-found: error
+      - name: Upload Video Directly to Cloudflare R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+        run: |
+          TIMESTAMP=$(date +"%Y-%m-%d_%H-%M-%S")
+          FINAL_NAME="${TIMESTAMP}_${{ github.event.inputs.output_filename }}"
+          aws s3 cp "out/${{ github.event.inputs.output_filename }}" "s3://${{ secrets.R2_BUCKET_NAME }}/${FINAL_NAME}" --endpoint-url "${{ secrets.R2_ENDPOINT }}" --region auto

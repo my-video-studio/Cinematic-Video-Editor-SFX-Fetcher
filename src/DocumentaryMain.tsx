@@ -3,8 +3,8 @@ import { AbsoluteFill, Audio, Series } from 'remotion';
 import storyboardRaw from '../public/assets/aistudio/storyboard_part3_978c475c.json';
 import type { StoryboardData, StoryboardScene } from './types/storyboard';
 import { resolveVoiceoverStaticPath } from './utils/assetResolver';
+import { EMBEDDED_CINEMA_FONTS_CSS } from './utils/embeddedFonts';
 import { SceneTransitionWrapper } from './components/common/SceneTransitionWrapper';
-import { SubtitleOverlay } from './components/common/SubtitleOverlay';
 import { Stage0ContinuousCanvas } from './components/stages/Stage0ContinuousCanvas';
 import { StageFullBleedVintage } from './components/stages/StageFullBleedVintage';
 import { StageArchivalBoard } from './components/stages/StageArchivalBoard';
@@ -38,6 +38,9 @@ export const DocumentaryMain: React.FC = () => {
         overflow: 'hidden',
       }}
     >
+      {/* Synchronous base64 .woff2 @font-face rules for headless Remotion CLI renders */}
+      <style>{EMBEDDED_CINEMA_FONTS_CSS}</style>
+
       {/* Voiceover-Only Master Audio Track */}
       <Audio src={voiceoverSrc} />
 
@@ -65,8 +68,6 @@ export const DocumentaryMain: React.FC = () => {
           </Series.Sequence>
         ))}
       </Series>
-
-      <SubtitleOverlay />
     </AbsoluteFill>
   );
 };

@@ -29,8 +29,6 @@ export const StageArchivalBoard: React.FC<StageArchivalBoardProps> = ({
   const aspectRatio = entry?.aspectRatio || '4:3';
   const surface = scene.board?.surface || 'dark_wood';
   const tiltDeg = scene.board?.tiltDeg ?? -1.0;
-  const attribution =
-    scene.board?.attributionStamp || entry?.attribution || 'U.S. ARMY ARCHIVE';
 
   // Continuous momentum baseline drift + word-triggered inspectionZoom
   const baseScale = interpolate(
@@ -144,41 +142,16 @@ export const StageArchivalBoard: React.FC<StageArchivalBoardProps> = ({
             }}
           />
         )}
-
-        {/* Archival citation stamp */}
-        <div
-          style={{
-            position: 'absolute',
-            right: 14,
-            bottom: 12,
-            backgroundColor: 'rgba(12, 14, 18, 0.78)',
-            border: '1px solid rgba(246, 244, 238, 0.3)',
-            paddingTop: 4,
-            paddingBottom: 4,
-            paddingLeft: 10,
-            paddingRight: 10,
-          }}
-        >
-          <span
-            style={{
-              fontFamily: '"Courier New", Courier, monospace',
-              fontSize: 13,
-              letterSpacing: 1.5,
-              color: '#f6f4ee',
-              fontWeight: 700,
-            }}
-          >
-            {attribution}
-          </span>
-        </div>
       </div>
 
       <div style={getFilmGrainOverlayStyle(frame)} />
       <div style={UNIVERSAL_VIGNETTE_STYLE} />
 
       <MicroActionOverlay
+        sceneId={scene.sceneId}
         microActions={scene.microActions}
         sceneStartFrame={scene.startFrame}
+        sequenceDurationInFrames={scene.durationInFrames}
       />
     </AbsoluteFill>
   );

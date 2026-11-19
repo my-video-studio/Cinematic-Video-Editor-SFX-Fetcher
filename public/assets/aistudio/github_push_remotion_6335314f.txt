@@ -1,0 +1,131 @@
+I want to set up automated cloud rendering for this Remotion project using GitHub Actions so I can render videos in the cloud and upload them directly to **Cloudflare R2** (with a unique timestamp prefix so files never overwrite each other), protecting my renders from local power cuts.
+
+Please perform the following steps automatically in my workspace so it works on the first run:
+
+1. **Inspect the Project & Entry Point:**
+   - Check lockfiles (`bun.lock`, `bun.lockb`, `pnpm-lock.yaml`, `yarn.lock`, `package-lock.json`) and `package.json` to identify the exact package manager and Remotion version.
+   - Scan `src/` (`Root.tsx`, `index.ts`, etc.) to find the main Composition ID and confirm Remotion auto-discovers the entry point when running `npx remotion render <composition_id> out/<output_filename>` (or configure `remotion.config.ts` if needed).
+
+2. **Pre-Flight Asset & Build Audit (Critical — Prevent 404/Decode Failures):**
+   - Scan all storyboards, manifests, fallback maps, and `staticFile(...)` calls across `src/` and `public/` to verify every single referenced image, cutout, video, and audio file actually exists on disk in `public/` with matching filenames.
+   - Verify all media files are valid non-empty assets (not corrupt or HTML error downloads). Fix any missing or mismatched asset paths before continuing.
+   - Run the project's TypeScript/lint and build checks (`tsc --noEmit` / `npm run build`) to confirm zero errors.
+
+3. **Configure `.gitignore`:**
+   - Ensure `.gitignore` ignores `node_modules/`, `out/`, `.remotion/`, `.DS_Store`, and any platform scratch/artifact directories (such as `.aistudio/`).
+
+4. **Create the GitHub Actions Workflow (`.github/workflows/render.yml`):**
+   - Configure `workflow_dispatch` with two required string inputs:
+     - `composition_id` (required: true, default set to the main Composition ID from step 1)
+     - `output_filename` (required: true, default: `video.mp4`)
+   - Use `ubuntu-latest`, Node.js 22 (plus `oven-sh/setup-bun@v2` if using Bun), dependency caching keyed on the lockfile, and the clean frozen install command (`bun install --frozen-lockfile`, `npm ci`, `pnpm install --frozen-lockfile`, or `yarn install --frozen-lockfile`).
+   - Install Linux Chromium shared dependencies (`libnss3`, `libatk1.0-0`, `libatk-bridge2.0-0`, `libcups2`, `libdrm2`, `libxkbcommon0`, `libxcomposite1`, `libxdamage1`, `libxfixes3`, `libxrandr2`, `libgbm1`, `libpango-1.0-0`, `libcairo2`, `libasound2t64`, `ffmpeg`) and run `npx remotion browser ensure`.
+   - Run `npx remotion render "${{ github.event.inputs.composition_id }}" "out/${{ github.event.inputs.output_filename }}"`.
+   - Instead of `actions/upload-artifact`, add a step **"Upload Video Directly to Cloudflare R2"** using the pre-installed AWS CLI (`aws s3 cp`) with a unique timestamp prefix (`TIMESTAMP=$(date +"%Y-%m-%d_%H-%M-%S")`) so the uploaded file is saved as `${TIMESTAMP}_${{ github.event.inputs.output_filename }}` inside `s3://${{ secrets.R2_BUCKET_NAME }}/`:
+     ```yaml
+     - name: Upload Video Directly to Cloudflare R2
+       env:
+         AWS_ACCESS_KEY_ID: \${{ secrets.R2_ACCESS_KEY_ID }}
+         AWS_SECRET_ACCESS_KEY: \${{ secrets.R2_SECRET_ACCESS_KEY }}
+       run: |
+         TIMESTAMP=\$(date +"%Y-%m-%d_%H-%M-%S")
+         FINAL_NAME="\({TIMESTAMP}_\){{ github.event.inputs.output_filename }}"
+         aws s3 cp "out/\({{ github.event.inputs.output_filename }}" "s3://\){{ secrets.R2_BUCKET_NAME }}/\({FINAL_NAME}" --endpoint-url "\){{ secrets.R2_ENDPOINT }}"
+     ```
+
+5. **Initialize Git & Prepare for GitHub Push:**
+   - Check `git status` (if Git reports a dubious-ownership error, add `safe.directory` for the workspace). If not initialized, run `git init` and rename the branch to `main`.
+   - If `git config user.name` or `user.email` is unset locally, set local repo config so committing works cleanly.
+   - Stage and commit all tracked project files cleanly (verifying `node_modules/`, `out/`, and `.aistudio/` are not staged).
+   - Check whether GitHub CLI/credentials exist in the shell:
+     - If credentials are missing, do NOT stall—tell me to push using my platform's GitHub sync button (and include `.github/workflows/render.yml` in a code block just in case the platform sync skips hidden `.github/` folders), OR let me provide a repo URL + temporary Personal Access Token (`Contents` + `Workflows` read/write) for you to push directly.
+
+6. **Final Summary:**
+   - Remind me to add the 4 Cloudflare R2 secrets (`R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`, `R2_ENDPOINT`, `R2_BUCKET_NAME`) under **Settings → Secrets and variables → Actions** in my GitHub repo.
+   - Give me a brief 3-step checklist explaining how to trigger **Actions → Render Remotion Video → Run workflow** on GitHub.com and download the timestamped `.mp4` directly from my **Cloudflare R2** bucket (confirming I can close the tab or shut down my PC while GitHub renders in the cloud).
+
+this .yml file worked without any error for other project that how you set concurrency at 2x:
+name: Render Remotion Video
+
+on:
+  workflow_dispatch:
+    inputs:
+      composition_id:
+        description: 'Remotion Composition ID to render (HistoricalDocumentary, HistoricalDocumentaryPart1, or HistoricalDocumentaryPart2)'
+        required: true
+        default: 'HistoricalDocumentary'
+        type: string
+      output_filename:
+        description: 'Output MP4 filename inside out/'
+        required: true
+        default: 'video.mp4'
+        type: string
+
+jobs:
+  render:
+    name: Render Video in Cloud
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Cache Bun dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.bun/install/cache
+          key: ${{ runner.os }}-bun-${{ hashFiles('bun.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-bun-
+
+      - name: Install dependencies (frozen lockfile)
+        run: bun install --frozen-lockfile
+
+      - name: Install Linux Chromium shared libraries
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libnss3 \
+            libatk1.0-0 \
+            libatk-bridge2.0-0 \
+            libcups2 \
+            libdrm2 \
+            libxkbcommon0 \
+            libxcomposite1 \
+            libxdamage1 \
+            libxfixes3 \
+            libxrandr2 \
+            libgbm1 \
+            libpango-1.0-0 \
+            libcairo2 \
+            libasound2t64 \
+            ffmpeg
+
+      - name: Ensure Remotion Headless Browser
+        run: npx remotion browser ensure
+
+      - name: Render Remotion Composition
+        run: |
+          mkdir -p out
+          npx remotion render "${{ github.event.inputs.composition_id }}" "out/${{ github.event.inputs.output_filename }}" --concurrency=2
+
+      - name: Upload Video Directly to Cloudflare R2
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+        run: |
+          TIMESTAMP=$(date +"%Y-%m-%d_%H-%M-%S")
+          FINAL_NAME="${TIMESTAMP}_${{ github.event.inputs.output_filename }}"
+          aws s3 cp "out/${{ github.event.inputs.output_filename }}" "s3://${{ secrets.R2_BUCKET_NAME }}/${FINAL_NAME}" --endpoint-url "${{ secrets.R2_ENDPOINT }}" --region auto

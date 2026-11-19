@@ -49,7 +49,9 @@ export const StageFullBleedVintage: React.FC<StageFullBleedVintageProps> = ({
   const isOutdoorSnow =
     assetId.includes('snow') ||
     assetId.includes('outpost') ||
-    assetId.includes('bastogne_outskirts');
+    assetId.includes('bastogne_outskirts') ||
+    assetId.includes('southern_edge_road') ||
+    assetId.includes('christmas');
 
   return (
     <AbsoluteFill
@@ -112,8 +114,10 @@ export const StageFullBleedVintage: React.FC<StageFullBleedVintageProps> = ({
       <div style={UNIVERSAL_VIGNETTE_STYLE} />
 
       <MicroActionOverlay
+        sceneId={scene.sceneId}
         microActions={scene.microActions}
         sceneStartFrame={scene.startFrame}
+        sequenceDurationInFrames={scene.durationInFrames}
       />
     </AbsoluteFill>
   );

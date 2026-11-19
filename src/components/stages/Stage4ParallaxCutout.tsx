@@ -135,10 +135,11 @@ export const Stage4ParallaxCutout: React.FC<Stage4ParallaxCutoutProps> = ({
             >
               <span
                 style={{
-                  fontFamily: '"Impact", "Arial Narrow", sans-serif',
-                  fontSize: 64,
-                  fontWeight: 900,
-                  letterSpacing: 6,
+                  fontFamily: '"Cinzel", "Oswald", Georgia, serif',
+                  fontSize: 60,
+                  fontWeight: 700,
+                  letterSpacing: 8,
+                  fontVariantNumeric: 'lining-nums tabular-nums',
                   color: '#f6f4ee',
                   textTransform: 'uppercase',
                 }}
@@ -222,8 +223,10 @@ export const Stage4ParallaxCutout: React.FC<Stage4ParallaxCutoutProps> = ({
         <div style={getFilmGrainOverlayStyle(frame)} />
         <div style={UNIVERSAL_VIGNETTE_STYLE} />
         <MicroActionOverlay
+          sceneId={scene.sceneId}
           microActions={scene.microActions}
           sceneStartFrame={scene.startFrame}
+          sequenceDurationInFrames={scene.durationInFrames}
         />
       </AbsoluteFill>
     );
@@ -380,49 +383,6 @@ export const Stage4ParallaxCutout: React.FC<Stage4ParallaxCutoutProps> = ({
           </div>
         </div>
 
-        {/* HUD Telemetry Callouts */}
-        {scene.hudTelemetry?.map((hud, idx) => {
-          const rel = Math.max(0, hud.triggerFrame - scene.startFrame);
-          if (frame < rel) return null;
-          const s = spring({
-            frame: frame - rel,
-            fps,
-            config: { damping: 14, stiffness: 200 },
-          });
-          return (
-            <div
-              key={idx}
-              style={{
-                position: 'absolute',
-                right: 72,
-                top: 160 + idx * 96,
-                opacity: s,
-                transform: `translateX(${(1 - s) * 40}px)`,
-                backgroundColor: 'rgba(179, 18, 42, 0.9)',
-                border: '2px solid rgba(246, 244, 238, 0.45)',
-                paddingTop: 12,
-                paddingBottom: 12,
-                paddingLeft: 22,
-                paddingRight: 22,
-                boxShadow: '0 12px 30px rgba(0,0,0,0.7)',
-                zIndex: 20,
-              }}
-            >
-              <span
-                style={{
-                  fontFamily: '"Courier New", Courier, monospace',
-                  fontSize: 22,
-                  fontWeight: 800,
-                  letterSpacing: 2,
-                  color: '#f6f4ee',
-                }}
-              >
-                {hud.text}
-              </span>
-            </div>
-          );
-        })}
-
         <WeatherParticleCanvas
           type="dust"
           intensity={0.9}
@@ -432,8 +392,10 @@ export const Stage4ParallaxCutout: React.FC<Stage4ParallaxCutoutProps> = ({
         <div style={getFilmGrainOverlayStyle(frame)} />
         <div style={UNIVERSAL_VIGNETTE_STYLE} />
         <MicroActionOverlay
+          sceneId={scene.sceneId}
           microActions={scene.microActions}
           sceneStartFrame={scene.startFrame}
+          sequenceDurationInFrames={scene.durationInFrames}
         />
       </AbsoluteFill>
     );
@@ -651,8 +613,10 @@ export const Stage4ParallaxCutout: React.FC<Stage4ParallaxCutoutProps> = ({
         </svg>
 
         <MicroActionOverlay
+          sceneId={scene.sceneId}
           microActions={scene.microActions}
           sceneStartFrame={scene.startFrame}
+          sequenceDurationInFrames={scene.durationInFrames}
         />
       </AbsoluteFill>
     );
@@ -843,8 +807,10 @@ export const Stage4ParallaxCutout: React.FC<Stage4ParallaxCutoutProps> = ({
       <div style={UNIVERSAL_VIGNETTE_STYLE} />
 
       <MicroActionOverlay
+        sceneId={scene.sceneId}
         microActions={scene.microActions}
         sceneStartFrame={scene.startFrame}
+        sequenceDurationInFrames={scene.durationInFrames}
       />
     </AbsoluteFill>
   );
